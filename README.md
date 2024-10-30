@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compass](http://www.prudentialcal.com/)** | **[Marketing Coordinator](https://jobright-internal.com/jobs/info/6721ec377ede1c6468026e6f?utm_campaign=Marketing&utm_source=1103)** | Belvedere Tiburon, CA | On Site | Oct 30 |
+| **[Pella Windows and Doors | Gunton Corporation](https://guntonpella.com/)** | **[Marketing Representative](https://jobright-internal.com/jobs/info/6721ec377ede1c6468026e79?utm_campaign=Marketing&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 30 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Public Relations Specialist](https://jobright-internal.com/jobs/info/6721d169573b226a59fb011e?utm_campaign=Marketing&utm_source=1103)** | East Hanover, NJ | On Site | Oct 29 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Marketing Manager, Health and Well-being](https://jobright-internal.com/jobs/info/6721d4e9e26b3cd1e9fb175b?utm_campaign=Marketing&utm_source=1103)** | Blacksburg, VA | On Site | Oct 29 |
 | **[Advantage Home Care](http://www.advantagehomehealth.com)** | **[Marketing Specialist](https://jobright-internal.com/jobs/info/6721db70a2be15a65d6aadb8?utm_campaign=Marketing&utm_source=1103)** | Salem, MO | Hybrid | Oct 29 |
 | ↳ | **[Marketing Specialist](https://jobright-internal.com/jobs/info/6721db70a2be15a65d6aae62?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | Hybrid | Oct 29 |
 | **[GradImages](http://gradimages.com)** | **[Promotion Specialist for College Events](https://jobright-internal.com/jobs/info/6721bd72c4f2d769cc6e6c35?utm_campaign=Marketing&utm_source=1103)** | Bronx, NY | On Site | Oct 29 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Marketing Assistant](https://jobright-internal.com/jobs/info/6721bb8da259c041ea52ecd5?utm_campaign=Marketing&utm_source=1103)** | Roseville, CA | On Site | Oct 29 |
-| **[Jooble](https://jooble.org/)** | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c18?utm_campaign=Marketing&utm_source=1103)** | La Crosse, WI | Remote | Oct 29 |
+| **[Jooble](https://jooble.org/)** | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721eeb15d3a93ae5a10d7e9?utm_campaign=Marketing&utm_source=1103)** | Omaha, NE | Remote | Oct 29 |
+| ↳ | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c18?utm_campaign=Marketing&utm_source=1103)** | La Crosse, WI | Remote | Oct 29 |
 | ↳ | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c1a?utm_campaign=Marketing&utm_source=1103)** | Morrisville, PA | Remote | Oct 29 |
-| ↳ | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c1b?utm_campaign=Marketing&utm_source=1103)** | Mechanicsburg, PA | Remote | Oct 29 |
 | ↳ | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c1c?utm_campaign=Marketing&utm_source=1103)** | Rochester, MN | Remote | Oct 29 |
+| ↳ | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721df6f5514609f69343c1b?utm_campaign=Marketing&utm_source=1103)** | Mechanicsburg, PA | Remote | Oct 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Full Time Merchandising Supervisor](https://jobright-internal.com/jobs/info/6721d169573b226a59fb011a?utm_campaign=Marketing&utm_source=1103)** | Cumming, GA | On Site | Oct 29 |
 | **[Jooble](https://jooble.org/)** | **[Level 2 Brand Agent Application](https://jobright-internal.com/jobs/info/6721b452e66f7aa3c325fb37?utm_campaign=Marketing&utm_source=1103)** | Grimes, IA | Remote | Oct 29 |
 | **[lululemon](http://shop.lululemon.com)** | **[Visual Merchandising Specialist- Contract / The Falls](https://jobright-internal.com/jobs/info/6721a2c3be6e0cde62171ab7?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Oct 29 |
@@ -88,16 +91,17 @@ For a complete list, click the following sortable link below:
 | **[FIRST](https://firstagency.com/)** | **[Attendee Data Coordinator (Events & Experiences) ](https://jobright-internal.com/jobs/info/67217caabaa66138710f99c5?utm_campaign=Marketing&utm_source=1103)** | MS - New York | On Site | Oct 29 |
 | **[Reli.](https://shopreli.com)** | **[E-Commerce Marketing Analyst](https://jobright-internal.com/jobs/info/67218b1280beff5151c8d10d?utm_campaign=Marketing&utm_source=1103)** | Cerritos, CA | Hybrid | Oct 29 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Merchandising - Flatiron Crossing](https://jobright-internal.com/jobs/info/6710b326809b9a74eb8d26f4?utm_campaign=Marketing&utm_source=1103)** | Broomfield, CO | On Site | Oct 29 |
+| **[TQI, INC](http://www.shiptqi.com/)** | **[Junior Copywriter](https://jobright-internal.com/jobs/info/6721e882723af1961c35a559?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 29 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Event Operations Coordinator](https://jobright-internal.com/jobs/info/672172160e3360cd69f9c7d6?utm_campaign=Marketing&utm_source=1103)** | Alameda, CA | On Site | Oct 29 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Linkage Marketing Coordinator](https://jobright-internal.com/jobs/info/672181e1d596cb0333d69cc0?utm_campaign=Marketing&utm_source=1103)** | Waikīkī, HI | On Site | Oct 29 |
 | **[Mercy For Animals](https://mercyforanimals.org)** | **[Public Relations Specialist, U.S.](https://jobright-internal.com/jobs/info/672172c80427e4cea316a8c6?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 29 |
 | **[Blackpoint Cyber](https://www.blackpointcyber.com)** | **[Field Marketing Coordinator](https://jobright-internal.com/jobs/info/6721651bddab843537f85d6d?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Oct 29 |
 | **[University of Alabama at Birmingham](http://www.uab.edu/)** | **[COMMUNICATIONS SPECIALIST](https://jobright-internal.com/jobs/info/67216e2823b93d13251e795e?utm_campaign=Marketing&utm_source=1103)** | Birmingham, AL | On Site | Oct 29 |
 | **[Deutsch LA](http://www.deutsch.com)** | **[Ad Operations Associate](https://jobright-internal.com/jobs/info/67216347541e4e06b9e810d2?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 29 |
-| **[Harris Williams](http://www.harriswilliams.com)** | **[Marketing Specialist -Direct Marketing Operations & Execution](https://jobright-internal.com/jobs/info/6721537f29f45c4fa9df8deb?utm_campaign=Marketing&utm_source=1103)** | PA - Pittsburgh (15222) | Hybrid | Oct 29 |
-| ↳ | **[Marketing Specialist -Direct Marketing Operations & Execution](https://jobright-internal.com/jobs/info/6721537f29f45c4fa9df8d52?utm_campaign=Marketing&utm_source=1103)** | IL - Chicago | Hybrid | Oct 29 |
+| **[Harris Williams](http://www.harriswilliams.com)** | **[Marketing Specialist -Direct Marketing Operations & Execution](https://jobright-internal.com/jobs/info/6721537f29f45c4fa9df8d52?utm_campaign=Marketing&utm_source=1103)** | IL - Chicago | Hybrid | Oct 29 |
 | ↳ | **[Marketing Specialist -Direct Marketing Operations & Execution](https://jobright-internal.com/jobs/info/6721537f29f45c4fa9df8dea?utm_campaign=Marketing&utm_source=1103)** | OH - Cleveland | Hybrid | Oct 29 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Global Streaming Content Strategy](https://jobright-internal.com/jobs/info/672166a1c862284b995073bf?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 29 |
+| ↳ | **[Marketing Specialist -Direct Marketing Operations & Execution](https://jobright-internal.com/jobs/info/6721537f29f45c4fa9df8deb?utm_campaign=Marketing&utm_source=1103)** | PA - Pittsburgh (15222) | Hybrid | Oct 29 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Global Streaming Content Strategy](https://jobright-internal.com/jobs/info/672166a1c862284b995073c0?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | **[Motive](http://gomotive.com)** | **[Events Marketing Specialist](https://jobright-internal.com/jobs/info/672151670aaefcd777b3af69?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 29 |
 | **[Two Barrels LLC](https://www.twobarrels.com/)** | **[Marketing Associate](https://jobright-internal.com/jobs/info/67216347541e4e06b9e81245?utm_campaign=Marketing&utm_source=1103)** | Spokane, WA | Remote | Oct 29 |
 | **[lululemon](http://shop.lululemon.com)** | **[Visual Merchandising Specialist / Legacy Place, Dedham MA](https://jobright-internal.com/jobs/info/672151214cd73487e9a2ac74?utm_campaign=Marketing&utm_source=1103)** | Dedham, MA | On Site | Oct 29 |
@@ -374,8 +378,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b213?utm_campaign=Marketing&utm_source=1103)** | Manhasset, NY | On Site | Oct 24 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b212?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | On Site | Oct 24 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b214?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 24 |
-| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b1c1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 24 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b215?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Oct 24 |
+| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b1c1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 24 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671aaff5707514147e32b1ec?utm_campaign=Marketing&utm_source=1103)** | Plano, TX | On Site | Oct 24 |
 | **[Best Version Media](http://www.bestversionmedia.com)** | **[Brand Specialist](https://jobright-internal.com/jobs/info/671a99fd67c3587799dc27d6?utm_campaign=Marketing&utm_source=1103)** | Missoula, MT | On Site | Oct 24 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Private Wealth Management, Wealth Management Marketing, Analyst - New York](https://jobright-internal.com/jobs/info/66e103561586595e41801019?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 24 |
@@ -411,6 +415,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813fa8?utm_campaign=Marketing&utm_source=1103)** | Pasadena, CA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813f81?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813f85?utm_campaign=Marketing&utm_source=1103)** | Corte Madera, CA | On Site | Oct 23 |
+| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813f88?utm_campaign=Marketing&utm_source=1103)** | Scottsdale, AZ | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813f83?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a0614a8e7760a40813faa?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/671a3ccb729d131cc065149c?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
@@ -428,11 +433,10 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Marketing Coordinator & Admin](https://jobright-internal.com/jobs/info/671a641c1868079dad992733?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Oct 23 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad7?utm_campaign=Marketing&utm_source=1103)** | Newport Beach, CA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad0?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
-| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadace?utm_campaign=Marketing&utm_source=1103)** | Scottsdale, AZ | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad1?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 23 |
-| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad2?utm_campaign=Marketing&utm_source=1103)** | Corte Madera, CA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadacc?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadacd?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 23 |
+| ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad2?utm_campaign=Marketing&utm_source=1103)** | Corte Madera, CA | On Site | Oct 23 |
 | ↳ | **[Seasonal Brand Ambassador](https://jobright-internal.com/jobs/info/6719ae19d0a760f774fadad9?utm_campaign=Marketing&utm_source=1103)** | Pasadena, CA | On Site | Oct 23 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Off Property Marketing Representative - $50k-$150K Per Year](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e602?utm_campaign=Marketing&utm_source=1103)** | Greater Orlando | On Site | Oct 23 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Marketing Concierge Lead - Non Owner Team](https://jobright-internal.com/jobs/info/6719b300175768c69f9278b6?utm_campaign=Marketing&utm_source=1103)** | Indio, CA | On Site | Oct 23 |
@@ -471,5 +475,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Marketing Specialist](https://jobright-internal.com/jobs/info/67197613bac702251a466e11?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Oct 23 |
 | **[Lifetime Brands](http://www.lifetimebrands.com)** | **[DTC Merchandising Specialist](https://jobright-internal.com/jobs/info/67193cc5dce2675476a7e7ed?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | Hybrid | Oct 23 |
 | **[Expedia Group](https://www.expediagroup.com)** | **[Associate Market Manager (West Hollywood)](https://jobright-internal.com/jobs/info/671938f9bb9b8b92fa40b3c1?utm_campaign=Marketing&utm_source=1103)** | West Hollywood, CA | On Site | Oct 23 |
-| **[Snapdocs](http://www.snapdocs.com)** | **[Demand Generation Manager](https://jobright-internal.com/jobs/info/66c907b41dd2dd4f50266a80?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
