@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt Hotels Corporation](http://www.hyatt.com/)** | **[Marketing Agent](https://jobright-internal.com/jobs/info/6713b398550848ae1ac9cc33?utm_campaign=Marketing&utm_source=1103)** | Sacramento, CA | On Site | Nov 10 |
+| **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Brand Ambassador](https://jobright-internal.com/jobs/info/673087abd23d8ab42c62d385?utm_campaign=Marketing&utm_source=1103)** | Lynn, MA | On Site | Nov 10 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright-internal.com/jobs/info/67303f982278f5e0fcd4245e?utm_campaign=Marketing&utm_source=1103)** | Parker, CO | On Site | Nov 09 |
-| **[Guaranteed Rate](https://www.rate.com)** | **[Secondary Marketing Analyst](https://jobright-internal.com/jobs/info/673030054cdf6a291133aaa4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 09 |
 | **[Xylem Group](http://www.xylemgrp.com)** | **[Entry Level PR and Marketing](https://jobright-internal.com/jobs/info/6723c0eaac433bc97fa3d394?utm_campaign=Marketing&utm_source=1103)** | Fort Lauderdale, FL | On Site | Nov 09 |
 | **[Marshall & Sterling](https://www.marshallsterling.com/)** | **[Assistant Marketing Specialist](https://jobright-internal.com/jobs/info/672f91d3c4d74cac67dba552?utm_campaign=Marketing&utm_source=1103)** | Poughkeepsie, NY | On Site | Nov 09 |
 | ↳ | **[Assistant Marketing Specialist](https://jobright-internal.com/jobs/info/672fc33ce0f0e6610a1a4a2a?utm_campaign=Marketing&utm_source=1103)** | Millbrook, NY | On Site | Nov 09 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Marketing Specialist](https://jobright-internal.com/jobs/info/67120d01ea4ff8d7c57bf0cf?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Nov 08 |
 | ↳ | **[Associate Product Marketing Specialist](https://jobright-internal.com/jobs/info/67120ef1d034e8049e1c0172?utm_campaign=Marketing&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 08 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[Social Media Coordinator](https://jobright-internal.com/jobs/info/672dd38da60eba426c3871d0?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | On Site | Nov 08 |
+| **[Hearts & Science](http://www.hearts-science.com/)** | **[Senior Associate, SEO](https://jobright-internal.com/jobs/info/66f4a898570be7543e298232?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Nov 08 |
 | **[GALLO](http://www.ejgallo.com)** | **[Consumer Experience Marketing Assistant](https://jobright-internal.com/jobs/info/672dca0679b0e50ee3d93438?utm_campaign=Marketing&utm_source=1103)** | St Helena, CA | On Site | Nov 08 |
 | **[University of California, Davis](http://ucdavis.edu)** | **[Assistant Director, External Engagement and Corporate Sponsorship (FUNDRAISER 3)](https://jobright-internal.com/jobs/info/672db486ebb37fc59b67709b?utm_campaign=Marketing&utm_source=1103)** | Davis, CA | Hybrid | Nov 07 |
 | **[MV Transportation](http://www.mvtransit.com/)** | **[Ambassador](https://jobright-internal.com/jobs/info/672e6aecea340d43b9e7596c?utm_campaign=Marketing&utm_source=1103)** | 28250 Constellation Road, Santa Clarita, CA, US | On Site | Nov 07 |
@@ -187,6 +189,7 @@ For a complete list, click the following sortable link below:
 | **[adMarketplace](http://www.admarketplace.com)** | **[Publisher Specialist](https://jobright-internal.com/jobs/info/66f4bdb8f62ca85e431e2c74?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Nov 07 |
 | **[Aksia](http://www.aksia.com/)** | **[Proposal Writer, Early Career Program](https://jobright-internal.com/jobs/info/67102b96b9bd7ea9f0936d62?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Nov 07 |
 | **[lululemon](http://shop.lululemon.com)** | **[Visual Merchandising Specialist / Altamonte Mall Pop Up](https://jobright-internal.com/jobs/info/672cc2c18d1356a0d2e59d4e?utm_campaign=Marketing&utm_source=1103)** | Altamonte Springs, FL | On Site | Nov 07 |
+| **[Atlassian](https://www.atlassian.com)** | **[Product Marketing Senior Associate, Confluence Enterprise Expansion](https://jobright-internal.com/jobs/info/672bc81c54aa3d5674840447?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Nov 07 |
 | **[New Energy Equity](https://www.newenergyequity.com/)** | **[Marketing Coordinator](https://jobright-internal.com/jobs/info/672c85e22906d8c566abf1c7?utm_campaign=Marketing&utm_source=1103)** | St Paul, MN | Hybrid | Nov 07 |
 | **[Hero Practice Services](https://www.heropracticeservices.com/)** | **[Field Marketing Assistant](https://jobright-internal.com/jobs/info/672c8b779a6510a7f6e74fc9?utm_campaign=Marketing&utm_source=1103)** | Glendale, CA | On Site | Nov 06 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[KOL Engagement Manager](https://jobright-internal.com/jobs/info/66dcef944fec92b1c5cb7367?utm_campaign=Marketing&utm_source=1103)** | Alameda, CA | On Site | Nov 06 |
@@ -230,9 +233,8 @@ For a complete list, click the following sortable link below:
 | **[The Sunray Companies, LLC](https://www.sunrayms.com)** | **[Marketing Manager](https://jobright-internal.com/jobs/info/672c187df402915f89eaa73b?utm_campaign=Marketing&utm_source=1103)** | Madison, MS | On Site | Nov 06 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Merchandising Assistant](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6187?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 06 |
 | **[Atlassian](https://www.atlassian.com)** | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc1c1d33b4cda9595e2a7?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 06 |
-| ↳ | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc81c54aa3d5674840447?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
-| ↳ | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc81c54aa3d5674840449?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 06 |
 | ↳ | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc81c54aa3d5674840448?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
+| ↳ | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc81c54aa3d5674840449?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 06 |
 | ↳ | **[Senior Associate, Product Marketing](https://jobright-internal.com/jobs/info/672bc81c54aa3d567484044b?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Nov 06 |
 | **[Macy's](http://www.macysjobs.com)** | **[Site Merchandising Assistant](https://jobright-internal.com/jobs/info/672bb47ee5f98303f9183e1e?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 06 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Associate Marketing Specialist](https://jobright-internal.com/jobs/info/672bb22c2de4c800c0029c6c?utm_campaign=Marketing&utm_source=1103)** | WI Madison | On Site | Nov 06 |
@@ -250,6 +252,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Brand Specialist, Canada Consumables](https://jobright-internal.com/jobs/info/672ba627a71898e135df0bcd?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Nov 06 |
 | **[Flywheel](http://flywheeldigital.com/)** | **[Associate Media Specialist](https://jobright-internal.com/jobs/info/672b97177ce75820a54217b9?utm_campaign=Marketing&utm_source=1103)** | Baltimore, Maryland, United States | On Site | Nov 06 |
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Technical Marketing Engineer](https://jobright-internal.com/jobs/info/672b8726e8d34e1c7738f4e8?utm_campaign=Marketing&utm_source=1103)** | Itasca, IL | On Site | Nov 06 |
+| **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Brand Ambassador](https://jobright-internal.com/jobs/info/672b8d34a397768575b1a276?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Nov 06 |
 | **[Gulf of Maine Research Institute](http://www.gmri.org/)** | **[Marketing Coordinator](https://jobright-internal.com/jobs/info/672b8802a8668c2b2af87a19?utm_campaign=Marketing&utm_source=1103)** | Portland, ME | On Site | Nov 06 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Greeter, In House Marketing](https://jobright-internal.com/jobs/info/672b76249852d3c983cc48cf?utm_campaign=Marketing&utm_source=1103)** | Kailua-Kona, HI | On Site | Nov 06 |
 | **[Farm Bureau Insurance of Michigan](https://www.farmbureauinsurance-mi.com/)** | **[Marketing Information Analyst/Coordinator](https://jobright-internal.com/jobs/info/672b7c46341d76095d72c8c8?utm_campaign=Marketing&utm_source=1103)** | Lansing, MI | Hybrid | Nov 06 |
@@ -277,7 +280,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Communication Coordinator](https://jobright-internal.com/jobs/info/672b438f8c8eb3ef0a00a469?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Nov 06 |
 | **[2020 Companies](http://www.2020companies.com)** | **[Meta Brand Ambassador](https://jobright-internal.com/jobs/info/672b42718c8eb3ef0a009c62?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Nov 05 |
 | **[EMARKETER](http://emarketer.com)** | **[Associate Product Marketing Manager (APMM)](https://jobright-internal.com/jobs/info/672b438f8c8eb3ef0a00a1f4?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Brand Ambassador](https://jobright-internal.com/jobs/info/672b1dea1d57dc504e43664d?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Nov 05 |
 | **[VML](https://www.vmlyr.com/)** | **[Community Manager - Freelance](https://jobright-internal.com/jobs/info/672b14cfa4cedeabbed87490?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Remote | Nov 05 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Social Media Specialist](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c38167?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Nov 05 |
 | **[Convene](http://convene.com)** | **[Content & Communications Manager](https://jobright-internal.com/jobs/info/672af225b1cc546bc635bb27?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
@@ -290,8 +292,8 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Search Engine Marketing Account Manager](https://jobright-internal.com/jobs/info/670da86451027f79d5e8c96c?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Remote | Nov 05 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[In House Marketing Coordinator - based in Waikiki](https://jobright-internal.com/jobs/info/672add812fa3bc920226dc6e?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Nov 05 |
 | **[Amazon](https://amazon.com)** | **[Brand Specialist, Canada Consumables](https://jobright-internal.com/jobs/info/672ad1691342af69616fab85?utm_campaign=Marketing&utm_source=1103)** | Seattle, Washington, USA | On Site | Nov 05 |
-| ↳ | **[Brand Specialist, Canada Consumables](https://jobright-internal.com/jobs/info/672ad1691342af69616fab9b?utm_campaign=Marketing&utm_source=1103)** | New York, New York, USA | On Site | Nov 05 |
 | ↳ | **[Brand Specialist, Canada Consumables](https://jobright-internal.com/jobs/info/672ad1691342af69616fab9c?utm_campaign=Marketing&utm_source=1103)** | Arlington, Virginia, USA | On Site | Nov 05 |
+| ↳ | **[Brand Specialist, Canada Consumables](https://jobright-internal.com/jobs/info/672ad1691342af69616fab9b?utm_campaign=Marketing&utm_source=1103)** | New York, New York, USA | On Site | Nov 05 |
 | **[Walmart](http://www.walmart.com)** | **[Market Coordinator](https://jobright-internal.com/jobs/info/672ad34ccb95980972b580f3?utm_campaign=Marketing&utm_source=1103)** | Lexington, SC | On Site | Nov 05 |
 | **[Health Resources in Action (HRiA)](https://hria.org/)** | **[Projects and Marketing Coordinator](https://jobright-internal.com/jobs/info/672ae318952ce158c47f404a?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Nov 05 |
 | **[VML](https://www.vmlyr.com/)** | **[Connections Manager, Retail Media (Amazon)](https://jobright-internal.com/jobs/info/672ad8e7c5664454c982bb22?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Nov 05 |
@@ -329,22 +331,22 @@ For a complete list, click the following sortable link below:
 | **[Horizon Media](http://www.horizonmedia.com)** | **[Analyst, Search Engine Optimization](https://jobright-internal.com/jobs/info/672a6d739f1aaafdd0e4ce85?utm_campaign=Marketing&utm_source=1103)** | New York | On Site | Nov 05 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Specialist , Customer Acquisition- Korean Market](https://jobright-internal.com/jobs/info/672b51dde591f4305e4231f3?utm_campaign=Marketing&utm_source=1103)** | Brea, CA | On Site | Nov 05 |
 | **[Allison Worldwide](http://www.allisonworldwide.com)** | **[Public Relations Account Coordinator, US](https://jobright-internal.com/jobs/info/672a71a8a8487e4a97547974?utm_campaign=Marketing&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 05 |
-| ↳ | **[Public Relations Account Coordinator, US](https://jobright-internal.com/jobs/info/672a71a8a8487e4a97547a05?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | Hybrid | Nov 05 |
 | ↳ | **[Public Relations Account Coordinator, US](https://jobright-internal.com/jobs/info/672a71a8a8487e4a97547a04?utm_campaign=Marketing&utm_source=1103)** | Culver City, CA | Hybrid | Nov 05 |
+| ↳ | **[Public Relations Account Coordinator, US](https://jobright-internal.com/jobs/info/672a71a8a8487e4a97547a05?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | Hybrid | Nov 05 |
 | **[SI Engineering, P.C.](https://siengineering.com)** | **[Marketing Assistant](https://jobright-internal.com/jobs/info/672a743f54c841e2aeecb1de?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a4?utm_campaign=Marketing&utm_source=1103)** | USA - Victoria, MN | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49ab?utm_campaign=Marketing&utm_source=1103)** | USA - Tampa, FL | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a9?utm_campaign=Marketing&utm_source=1103)** | USA - Clayton, MO | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a3?utm_campaign=Marketing&utm_source=1103)** | USA - Coppell, TX | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a2?utm_campaign=Marketing&utm_source=1103)** | USA - Phoenix, AZ | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e4975?utm_campaign=Marketing&utm_source=1103)** | USA - Houston, TX, Allen Pkwy | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a1?utm_campaign=Marketing&utm_source=1103)** | USA - Madison, WI, Junction Rd | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a5?utm_campaign=Marketing&utm_source=1103)** | USA - Minneapolis, MN | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a6?utm_campaign=Marketing&utm_source=1103)** | USA - Philadelphia, PA | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a7?utm_campaign=Marketing&utm_source=1103)** | USA - Kennesaw, GA | On Site | Nov 05 |
-| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49ac?utm_campaign=Marketing&utm_source=1103)** | USA - Chicago, IL, West Adams St | On Site | Nov 05 |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a9?utm_campaign=Marketing&utm_source=1103)** | USA - Clayton, MO | On Site | Nov 05 |
 | ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a8?utm_campaign=Marketing&utm_source=1103)** | USA - Indianapolis, IN | On Site | Nov 05 |
 | ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49aa?utm_campaign=Marketing&utm_source=1103)** | USA - Denver, CO | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49ac?utm_campaign=Marketing&utm_source=1103)** | USA - Chicago, IL, West Adams St | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a5?utm_campaign=Marketing&utm_source=1103)** | USA - Minneapolis, MN | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a2?utm_campaign=Marketing&utm_source=1103)** | USA - Phoenix, AZ | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e4975?utm_campaign=Marketing&utm_source=1103)** | USA - Houston, TX, Allen Pkwy | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49ab?utm_campaign=Marketing&utm_source=1103)** | USA - Tampa, FL | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a3?utm_campaign=Marketing&utm_source=1103)** | USA - Coppell, TX | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a4?utm_campaign=Marketing&utm_source=1103)** | USA - Victoria, MN | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a1?utm_campaign=Marketing&utm_source=1103)** | USA - Madison, WI, Junction Rd | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a6?utm_campaign=Marketing&utm_source=1103)** | USA - Philadelphia, PA | On Site | Nov 05 |
+| ↳ | **[Event Specialist](https://jobright-internal.com/jobs/info/672a6250214682b90d0e49a7?utm_campaign=Marketing&utm_source=1103)** | USA - Kennesaw, GA | On Site | Nov 05 |
 | **[Corsair](http://www.corsair.com)** | **[Trade Marketing Operations Coordinator](https://jobright-internal.com/jobs/info/672a7a164ed3fc3f5675d199?utm_campaign=Marketing&utm_source=1103)** | Milpitas, CA | Hybrid | Nov 05 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Search Engine Marketing Account Manager](https://jobright-internal.com/jobs/info/670da86451027f79d5e8c639?utm_campaign=Marketing&utm_source=1103)** | Chattanooga, TN | Remote | Nov 05 |
 | **[Celerion](https://celerion.com/)** | **[Market Research Assistant (Part-Time) - Raleigh, NC](https://jobright-internal.com/jobs/info/672a50c71b4f15dd19ac13d9?utm_campaign=Marketing&utm_source=1103)** | Raleigh, NC | Hybrid | Nov 05 |
@@ -401,15 +403,15 @@ For a complete list, click the following sortable link below:
 | **[Newsela](http://newsela.com)** | **[Demand Generation Marketing Specialist](https://jobright-internal.com/jobs/info/67296cce48ff5bf376f229fb?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Remote | Nov 04 |
 | **[Accretive Technology Group](https://accretivetechnologygroup.com)** | **[Content Moderator](https://jobright-internal.com/jobs/info/66f4d4af6d3e40b21b1d95e9?utm_campaign=Marketing&utm_source=1103)** | Liberty Lake, WA | On Site | Nov 04 |
 | **[Vida Health](http://www.vida.com)** | **[Member Marketing Associate](https://jobright-internal.com/jobs/info/6712f9d6e30f010852186570?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 04 |
-| **[Capital One](http://www.capitalone.com)** | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289d?utm_campaign=Marketing&utm_source=1103)** | Floral Park, NY | On Site | Nov 04 |
-| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289b?utm_campaign=Marketing&utm_source=1103)** | Howard Beach, NY | On Site | Nov 04 |
-| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e00905945628a0?utm_campaign=Marketing&utm_source=1103)** | Queens Village, NY | On Site | Nov 04 |
+| **[Capital One](http://www.capitalone.com)** | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289e?utm_campaign=Marketing&utm_source=1103)** | Jackson Heights, NY | On Site | Nov 04 |
 | ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289c?utm_campaign=Marketing&utm_source=1103)** | Kew Gardens Hills, NY | On Site | Nov 04 |
-| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e00905945628a1?utm_campaign=Marketing&utm_source=1103)** | South Richmond Hill, NY | On Site | Nov 04 |
-| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e0090594562881?utm_campaign=Marketing&utm_source=1103)** | Rego Park, NY | On Site | Nov 04 |
 | ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289f?utm_campaign=Marketing&utm_source=1103)** | Whitestone, NY | On Site | Nov 04 |
-| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289e?utm_campaign=Marketing&utm_source=1103)** | Jackson Heights, NY | On Site | Nov 04 |
+| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289d?utm_campaign=Marketing&utm_source=1103)** | Floral Park, NY | On Site | Nov 04 |
+| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e00905945628a0?utm_campaign=Marketing&utm_source=1103)** | Queens Village, NY | On Site | Nov 04 |
+| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e0090594562881?utm_campaign=Marketing&utm_source=1103)** | Rego Park, NY | On Site | Nov 04 |
+| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e00905945628a1?utm_campaign=Marketing&utm_source=1103)** | South Richmond Hill, NY | On Site | Nov 04 |
 | ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e00905945628a2?utm_campaign=Marketing&utm_source=1103)** | Jamaica, NY | On Site | Nov 04 |
+| ↳ | **[Part Time Branch Ambassador Queens Area](https://jobright-internal.com/jobs/info/6729483558e009059456289b?utm_campaign=Marketing&utm_source=1103)** | Howard Beach, NY | On Site | Nov 04 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Assistant Director for Strategic Events](https://jobright-internal.com/jobs/info/672952e14296de8fe60072d2?utm_campaign=Marketing&utm_source=1103)** | Charlottesville, VA | Hybrid | Nov 04 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Media Planner, Social](https://jobright-internal.com/jobs/info/67293be72324208b3a3cd1af?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Nov 04 |
 | **[Wonder](https://www.wonder.com)** | **[Brand Ambassador](https://jobright-internal.com/jobs/info/672952e14296de8fe60073e4?utm_campaign=Marketing&utm_source=1103)** | Brooklyn, NY | On Site | Nov 04 |
@@ -456,5 +458,4 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[2025 Chubb Associate - Digital Distribution & Marketing](https://jobright-internal.com/jobs/info/6728fc184a5d4c5b3bf542d2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Exploria Resorts](https://www.exploriaresorts.com/)** | **[Marketing Off Property Consultant (OPC)](https://jobright-internal.com/jobs/info/67292d6a3aef30de519a2462?utm_campaign=Marketing&utm_source=1103)** | Gatlinburg, TN | On Site | Nov 03 |
 | **[Farm Bureau Insurance of Michigan](https://www.farmbureauinsurance-mi.com/)** | **[Associate Life and Annuity Marketing Specialist](https://jobright-internal.com/jobs/info/672801601076d0a2024ac036?utm_campaign=Marketing&utm_source=1103)** | Lansing, MI | On Site | Nov 03 |
-| **[Zenith](https://www.zenithmedia.com)** | **[Campaign Manager, Search](https://jobright-internal.com/jobs/info/6727e479cffe1d0e9e7e8be0?utm_campaign=Marketing&utm_source=1103)** | Burbank, CA | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
