@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Marketing Coordinator, Mardi Gras Casino](https://jobright.ai/jobs/info/674be97475498efcd122282f?utm_campaign=Marketing&utm_source=1103)** | Cross Lanes, WV | Hybrid | Nov 30 |
 | **[Sam's Club](http://www.samsclub.com)** | **[(USA) Merchandising Lead](https://jobright.ai/jobs/info/674bc75972e62e5b1663dc60?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Nov 30 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/674b9be41ee986d72374a79f?utm_campaign=Marketing&utm_source=1103)** | Kaneohe, HI | On Site | Nov 30 |
 | **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/674b801a34824b6a93cf6a08?utm_campaign=Marketing&utm_source=1103)** | Woburn, MA | On Site | Nov 30 |
@@ -69,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Underdog Fantasy](https://underdogfantasy.com/)** | **[Social Media Associate](https://jobright.ai/jobs/info/6749631c818aa0a84e66a525?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 30 |
 | **[Zendesk](http://zendesk.com)** | **[Associate Product Marketing Specialist](https://jobright.ai/jobs/info/67120d01ea4ff8d7c57bf159?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 30 |
 | **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[Marketing Associate](https://jobright.ai/jobs/info/674ace03c048df7fb0d66ce9?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Nov 29 |
-| ↳ | **[Marketing Associate](https://jobright.ai/jobs/info/674ab99281c2a563c3cc5980?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Nov 29 |
+| **[DailyPay, Inc.](https://www.dailypay.com)** | **[B2C Associate, Marketing Operations](https://jobright.ai/jobs/info/674c11d902086bad31d12668?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 29 |
+| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[Marketing Associate](https://jobright.ai/jobs/info/674ab99281c2a563c3cc5980?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Nov 29 |
 | **[Best Version Media](http://www.bestversionmedia.com)** | **[Best Version Media is hiring: Best Version Media / Advertising Sales Representat](https://jobright.ai/jobs/info/674b2dc8107c9ca2f6c4981f?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Nov 29 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Seasonal Web Content Assistant Job at ANSWERS IN GENESIS GROUP in Petersburg](https://jobright.ai/jobs/info/674aa2431b1015e47c1d3794?utm_campaign=Marketing&utm_source=1103)** | Petersburg, KY | On Site | Nov 29 |
 | **[Oakland University](http://www.oakland.edu)** | **[Marketing Assistant Job at Oakland University in Rochester](https://jobright.ai/jobs/info/674aa0ac43feaf2d7bf89beb?utm_campaign=Marketing&utm_source=1103)** | Rochester, MI | On Site | Nov 29 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Meyer Distributing](http://meyerdistributing.com)** | **[Ecommerce Technical Content Writer Job at Meyer Distributing in Valhalla](https://jobright.ai/jobs/info/674a9db2194d860c7b5c7b90?utm_campaign=Marketing&utm_source=1103)** | Valhalla, NY | On Site | Nov 29 |
 | **[ChromaDex](https://www.chromadex.com)** | **[ChromaDex is hiring: Social Media, Influencer and Events Coordinator in Los Ange](https://jobright.ai/jobs/info/674a9c677221982d41f0cb14?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 29 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Coordinator of Marketing and Design Job at University of Wyoming in Laramie](https://jobright.ai/jobs/info/674a9db2194d860c7b5c7a6e?utm_campaign=Marketing&utm_source=1103)** | Laramie, WY | On Site | Nov 29 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Promotions/Commercial Producer](https://jobright.ai/jobs/info/66f4baf7ec10460415e29ffd?utm_campaign=Marketing&utm_source=1103)** | Sacramento, CA | On Site | Nov 29 |
 | **[ACR Electronics, Inc.](http://www.acrartex.com)** | **[ACR Electronics Inc is hiring: eCommerce and Marketing Channel Specialist in For](https://jobright.ai/jobs/info/674a9c140d45b364505a05dc?utm_campaign=Marketing&utm_source=1103)** | Fort Lauderdale, FL | On Site | Nov 29 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[E.L.F. Beauty, Inc. is hiring: Associate Community Manager in New York](https://jobright.ai/jobs/info/674a969c6d012e406b11edf5?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 29 |
 | **[Compass](http://www.prudentialcal.com/)** | **[Marketing Coordinator Job at Compass in Belvedere Tiburon](https://jobright.ai/jobs/info/674a9c140d45b364505a0722?utm_campaign=Marketing&utm_source=1103)** | Belvedere Tiburon, CA | On Site | Nov 29 |
@@ -97,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SEO Analyst Job at Ryno Strategic Solutions LLC in Phoenix](https://jobright.ai/jobs/info/674aa508806abf2b9372f50c?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 29 |
 | **[Best Version Media](http://www.bestversionmedia.com)** | **[Best Version Media is hiring: Best Version Media / Advertising Sales Representat](https://jobright.ai/jobs/info/674a98051851a1057d4ed515?utm_campaign=Marketing&utm_source=1103)** | Cleveland, OH | Remote | Nov 29 |
 | ↳ | **[Best Version Media is hiring: Best Version Media / Advertising Sales Representat](https://jobright.ai/jobs/info/674a99091851a1057d4edf10?utm_campaign=Marketing&utm_source=1103)** | Syracuse, NY | Remote | Nov 29 |
-| **[Hartwick College](http://www.hartwick.edu/)** | **[Hartwick College is hiring: Coordinator of Social Media/Athletics Office Assista](https://jobright.ai/jobs/info/674a99091851a1057d4edf1d?utm_campaign=Marketing&utm_source=1103)** | Oneonta, NY | On Site | Nov 29 |
+| **[Hartwick College](http://www.hartwick.edu/)** | **[Hartwick College is hiring: Coordinator of Social Media/Athletics Office Assista](https://jobright.ai/jobs/info/674a98051851a1057d4ed5df?utm_campaign=Marketing&utm_source=1103)** | Oneonta, NY | On Site | Nov 29 |
 | **[ChromaDex](https://www.chromadex.com)** | **[ChromaDex is hiring: Social Media, Influencer and Events Coordinator in Westwood](https://jobright.ai/jobs/info/674a94e3d3202f22f0c2af36?utm_campaign=Marketing&utm_source=1103)** | Westwood, CA | Hybrid | Nov 29 |
 | **[Bespoke Post](http://bespokepost.com)** | **[Social Content Creator](https://jobright.ai/jobs/info/674a947aca773cc458accfae?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[DataServ](https://www.dataserv.com)** | **[DataServ is hiring: Content Marketing Specialist in St Louis](https://jobright.ai/jobs/info/674a947aca773cc458accfa3?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | Remote | Nov 29 |
@@ -163,8 +166,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Digital Marketing](https://jobright.ai/jobs/info/66f305a8e2ea06473d6c6699?utm_campaign=Marketing&utm_source=1103)** | Universal City, CA | On Site | Nov 28 |
 | **[EAB](https://www.eab.com/)** | **[Events Specialist (Early Career)](https://jobright.ai/jobs/info/672c008d6b49cac34baa770f?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | Hybrid | Nov 28 |
 | **[SPS](https://www.spsglobal.com)** | **[Workplace Experience Ambassador](https://jobright.ai/jobs/info/67484e70f03fcc58f4246a00?utm_campaign=Marketing&utm_source=1103)** | New York, New York, United States | Hybrid | Nov 28 |
-| **[Forge Health](https://forgehealth.com)** | **[Outreach and Engagement Coordinator - Long Island](https://jobright.ai/jobs/info/67484e70f03fcc58f4246a36?utm_campaign=Marketing&utm_source=1103)** | Long Island & Queens, NY | On Site | Nov 28 |
-| ↳ | **[Outreach and Engagement Coordinator - NY](https://jobright.ai/jobs/info/67484e70f03fcc58f4246a47?utm_campaign=Marketing&utm_source=1103)** | White Plains & Queens, NY | On Site | Nov 28 |
+| **[Forge Health](https://forgehealth.com)** | **[Outreach and Engagement Coordinator - NY](https://jobright.ai/jobs/info/67484e70f03fcc58f4246a47?utm_campaign=Marketing&utm_source=1103)** | White Plains & Queens, NY | On Site | Nov 28 |
+| ↳ | **[Outreach and Engagement Coordinator - Long Island](https://jobright.ai/jobs/info/67484e70f03fcc58f4246a36?utm_campaign=Marketing&utm_source=1103)** | Long Island & Queens, NY | On Site | Nov 28 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Community Alliance Associate](https://jobright.ai/jobs/info/67484e70f03fcc58f4246b47?utm_campaign=Marketing&utm_source=1103)** | New York City, NY | On Site | Nov 28 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Consumer Integrated Marketing, Occasions](https://jobright.ai/jobs/info/674852dbf062b453e84c0f3f?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Growth Support Specialist](https://jobright.ai/jobs/info/674848df852c8e24784432c4?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 28 |
@@ -286,8 +289,8 @@ For a complete list, click the following sortable link below:
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Entry-Level Corporate Marketing Analyst](https://jobright.ai/jobs/info/67464155d3d01267cae1962a?utm_campaign=Marketing&utm_source=1103)** | Itasca, IL | On Site | Nov 26 |
 | **[Bopinc](https://bopinc.org)** | **[Email & App Marketing Associate, Shopbop Marketing & Content](https://jobright.ai/jobs/info/6746c194c3bbeafbfd7b7f6e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 26 |
 | **[De Beers Group](https://www.debeersgroup.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/67463ef0c7ee6e3d2b78f988?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Nov 26 |
-| **[Diageo](http://www.diageo.com)** | **[Trade Marketing Analyst](https://jobright.ai/jobs/info/67463c633fcd9ee8861d5412?utm_campaign=Marketing&utm_source=1103)** | 3 World Trade Center, NY | On Site | Nov 26 |
-| ↳ | **[Trade Marketing Analyst](https://jobright.ai/jobs/info/67463c633fcd9ee8861d5393?utm_campaign=Marketing&utm_source=1103)** | Chicago, Illinois | On Site | Nov 26 |
+| **[Diageo](http://www.diageo.com)** | **[Trade Marketing Analyst](https://jobright.ai/jobs/info/67463c633fcd9ee8861d5393?utm_campaign=Marketing&utm_source=1103)** | Chicago, Illinois | On Site | Nov 26 |
+| ↳ | **[Trade Marketing Analyst](https://jobright.ai/jobs/info/67463c633fcd9ee8861d5412?utm_campaign=Marketing&utm_source=1103)** | 3 World Trade Center, NY | On Site | Nov 26 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Temporary Copywriter Assistant](https://jobright.ai/jobs/info/674645a45be0a0a096c4e760?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | On Site | Nov 26 |
 | **[lululemon](http://shop.lululemon.com)** | **[Visual Merchandising Specialist / Crocker Park](https://jobright.ai/jobs/info/674639077f3bc5c77945da66?utm_campaign=Marketing&utm_source=1103)** | Westlake, OH | On Site | Nov 26 |
 | ↳ | **[Visual Merchandising Specialist / Rice Village](https://jobright.ai/jobs/info/6746460a9f04ae5aaccb3935?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | On Site | Nov 26 |
@@ -324,6 +327,7 @@ For a complete list, click the following sortable link below:
 | **[Woodruff Sawyer](https://woodruffsawyer.com/)** | **[Insurance Employee Benefits Analyst](https://jobright.ai/jobs/info/674acd361ca5103a115168fc?utm_campaign=Marketing&utm_source=1103)** | Lake Oswego, OR | Hybrid | Nov 26 |
 | **[Woodruff Sawyer](https://woodruffsawyer.com/)** | **[Insurance Employee Benefits Analyst](https://jobright.ai/jobs/info/67497caff83b2f73ede9dd33?utm_campaign=Marketing&utm_source=1103)** | Irvine, CA | Hybrid | Nov 25 |
 | **[Mr. Rogers Windows](http://www.mrrogerswindows.com)** | **[Entry Level Marketing/Sales](https://jobright.ai/jobs/info/674587df00987e2394127692?utm_campaign=Marketing&utm_source=1103)** | Chesapeake, VA | On Site | Nov 25 |
+| **[Hartwick College](http://www.hartwick.edu/)** | **[Coordinator of Social Media/Athletics Office Assistant](https://jobright.ai/jobs/info/674587df00987e239412778b?utm_campaign=Marketing&utm_source=1103)** | Oneonta, NY | On Site | Nov 25 |
 | **[Penske Media Corporation](http://pmc.com)** | **[Fairchild Media Group: Commerce Writer](https://jobright.ai/jobs/info/6749631c818aa0a84e66a03b?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Nov 25 |
 | **[RPA](http://www.rpa.com)** | **[Search Coordinator - La-Z-Boy tags.new](https://jobright.ai/jobs/info/67457e269fd61ee6df5c18d1?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Nov 25 |
 | ↳ | **[Search Coordinator - Viking](https://jobright.ai/jobs/info/67402bc0717517508a6b2e2c?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA - Remote | On Site | Nov 25 |
@@ -337,7 +341,6 @@ For a complete list, click the following sortable link below:
 | **[Fortune](http://fortune.com)** | **[Fortune Newsroom Fellowships (January 2024):](https://jobright.ai/jobs/info/674a86f95b71d72cec5e8bbf?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 | **[BluShark Digital](https://blusharkdigital.com)** | **[BluShark Digital / Freelance Legal Marketing Content Copywriter / washington](https://jobright.ai/jobs/info/67455a0e74248061a4d175c5?utm_campaign=Marketing&utm_source=1103)** | Olympia, WA | On Site | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Sonos Brand Ambassador - Full Time Seasonal](https://jobright.ai/jobs/info/67454b132bbe6b4f51ba1a10?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
-| **[Hartwick College](http://www.hartwick.edu/)** | **[Coordinator of Social Media/Athletics Office Assistant](https://jobright.ai/jobs/info/674544fd21a3d648cd0d6464?utm_campaign=Marketing&utm_source=1103)** | Oneonta, NY | On Site | Nov 25 |
 | **[Woodruff Sawyer](https://woodruffsawyer.com/)** | **[Insurance Employee Benefits Analyst](https://jobright.ai/jobs/info/674a7930fd9038520cf1d270?utm_campaign=Marketing&utm_source=1103)** | Bellevue, WA | Hybrid | Nov 25 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Cloud Marketing Specialist - Cloud Demand and Storage Analysis (Early Career)](https://jobright.ai/jobs/info/67453a52107de96f6f4ac4c0?utm_campaign=Marketing&utm_source=1103)** | USA | Remote | Nov 25 |
 | **[Aksia](http://www.aksia.com/)** | **[Pan-Alternatives Analyst, Early Career Program](https://jobright.ai/jobs/info/67452bc5fc93c92af42d937e?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Nov 25 |
@@ -372,7 +375,6 @@ For a complete list, click the following sortable link below:
 | **[HomeServe USA](http://www.homeserveusa.com)** | **[Social and Community Digital Coordinator](https://jobright.ai/jobs/info/6744b47ab0f56f44bf8c5a94?utm_campaign=Marketing&utm_source=1103)** | Norwalk, CT | On Site | Nov 25 |
 | **[Billtrust](https://billtrust.com)** | **[Associate Marketing Operations Manager](https://jobright.ai/jobs/info/6745b9638d2a2288b20acc91?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Nov 25 |
 | **[Minnesota State University, Mankato](http://www.mnsu.edu/)** | **[Marketing & Communications Assistant](https://jobright.ai/jobs/info/6744bcd709848c358d4c1844?utm_campaign=Marketing&utm_source=1103)** | Willmar, MN | On Site | Nov 25 |
-| **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Marketing Coordinator - Player Development](https://jobright.ai/jobs/info/6744ff5c69ac708940ea80a6?utm_campaign=Marketing&utm_source=1103)** | Auburn, WA | On Site | Nov 25 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, Search-SEM](https://jobright.ai/jobs/info/67449e2b60461112ba89844e?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Nov 25 |
 | **[NEOGOV](http://www.neogov.com)** | **[Health Multi-Media Coordinator (Communications Specialist)](https://jobright.ai/jobs/info/67448dd45d2b299a261fbe1e?utm_campaign=Marketing&utm_source=1103)** | Berkeley Mo. 63134, MO | On Site | Nov 25 |
 | **[Orveon Global](http://orveonglobal.com)** | **[Associate Manager Content and SEO](https://jobright.ai/jobs/info/6744829c587a0c85f96862ac?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Nov 25 |
@@ -382,25 +384,25 @@ For a complete list, click the following sortable link below:
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Marketing Representative - State Farm Agent Team Member](https://jobright.ai/jobs/info/6744439daedd49759bf35a9f?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Nov 25 |
 | **[New York Blood Center](https://www.nybc.org)** | **[Coordinator – Fund Development and Event Services](https://jobright.ai/jobs/info/6744d084e53dca23576ce0a3?utm_campaign=Marketing&utm_source=1103)** | 310 E 67th Street, New York, NY, US | On Site | Nov 24 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Linkage Marketing Coordinator - Based in Waikiki + $1,000 Incentive* Potential](https://jobright.ai/jobs/info/6743de5d232c9fa10f149256?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Nov 24 |
-| **[ChemStation](http://chemstation.com)** | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a0?utm_campaign=Marketing&utm_source=1103)** | New York, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a1?utm_campaign=Marketing&utm_source=1103)** | Oklahoma, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379c?utm_campaign=Marketing&utm_source=1103)** | Maryland, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43794?utm_campaign=Marketing&utm_source=1103)** | Illinois, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379d?utm_campaign=Marketing&utm_source=1103)** | Ohio, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43795?utm_campaign=Marketing&utm_source=1103)** | California, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43799?utm_campaign=Marketing&utm_source=1103)** | Georgia, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43798?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 24 |
+| **[ChemStation](http://chemstation.com)** | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379f?utm_campaign=Marketing&utm_source=1103)** | North Carolina, USA | On Site | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379a?utm_campaign=Marketing&utm_source=1103)** | Texas, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43792?utm_campaign=Marketing&utm_source=1103)** | North Dakota, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379e?utm_campaign=Marketing&utm_source=1103)** | New Mexico, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a2?utm_campaign=Marketing&utm_source=1103)** | New Jersey, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a1?utm_campaign=Marketing&utm_source=1103)** | Oklahoma, USA | On Site | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43793?utm_campaign=Marketing&utm_source=1103)** | South Dakota, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379f?utm_campaign=Marketing&utm_source=1103)** | North Carolina, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4378f?utm_campaign=Marketing&utm_source=1103)** | Florida, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43791?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, USA | On Site | Nov 24 |
-| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43732?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379e?utm_campaign=Marketing&utm_source=1103)** | New Mexico, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a0?utm_campaign=Marketing&utm_source=1103)** | New York, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce437a2?utm_campaign=Marketing&utm_source=1103)** | New Jersey, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43794?utm_campaign=Marketing&utm_source=1103)** | Illinois, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43792?utm_campaign=Marketing&utm_source=1103)** | North Dakota, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379c?utm_campaign=Marketing&utm_source=1103)** | Maryland, USA | On Site | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379b?utm_campaign=Marketing&utm_source=1103)** | Delaware, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43798?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43790?utm_campaign=Marketing&utm_source=1103)** | Michigan, USA | On Site | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43797?utm_campaign=Marketing&utm_source=1103)** | Arizona, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4378f?utm_campaign=Marketing&utm_source=1103)** | Florida, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43799?utm_campaign=Marketing&utm_source=1103)** | Georgia, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce4379d?utm_campaign=Marketing&utm_source=1103)** | Ohio, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43791?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43732?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, USA | On Site | Nov 24 |
 | ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43796?utm_campaign=Marketing&utm_source=1103)** | Oregon, USA | On Site | Nov 24 |
+| ↳ | **[Copywriter](https://jobright.ai/jobs/info/674627965c3d88a28ce43795?utm_campaign=Marketing&utm_source=1103)** | California, USA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
