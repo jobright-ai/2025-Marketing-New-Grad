@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[the LEGO Group](http://www.lego.com)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/687bd80ded63844c944abdf3?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Jul 19 |
 | **[Cumming Group](https://cumming-group.com/)** | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687bac26764c3d7411c34b0f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Jul 19 |
+| **[Kepler](https://www.keplergrp.com)** | **[Digital Media Senior Analyst, Social](https://jobright.ai/jobs/info/685eea3c9a02903ca7d6124b?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 19 |
 | **[Perplexity](https://www.perplexity.ai)** | **[Growth Manager - Students](https://jobright.ai/jobs/info/67ed9988bee89c6f9736515a?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Jul 19 |
 | **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Merchandise Analyst - Pottery Barn Kids](https://jobright.ai/jobs/info/6809527e3ce3dbb25bbb82b6?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Jul 19 |
 | **[Cumming Group](https://cumming-group.com/)** | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687bb707ed63844c944ab09a?utm_campaign=Marketing&utm_source=1103)** | Mountain View, CA | On Site | Jul 19 |
@@ -195,8 +197,8 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/687944682097a271a8975ed6?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Jul 17 |
 | **[Modernize](https://modernize.com/)** | **[Jr. Media Buyer - Paid Social](https://jobright.ai/jobs/info/687942c7ed63844c94499f9b?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Merchandising Assistant - Household](https://jobright.ai/jobs/info/68793cb3ed63844c94499ce7?utm_campaign=Marketing&utm_source=1103)** | Deerfield, IL | On Site | Jul 17 |
-| **[Cumming Group](https://cumming-group.com/)** | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687af1a5764c3d7411c3029b?utm_campaign=Marketing&utm_source=1103)** | Mountain View, CA | On Site | Jul 17 |
-| ↳ | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687aef8ced63844c944a5fbc?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Jul 17 |
+| **[Cumming Group](https://cumming-group.com/)** | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687aef8ced63844c944a5fbc?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Jul 17 |
+| ↳ | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687af1a5764c3d7411c3029b?utm_campaign=Marketing&utm_source=1103)** | Mountain View, CA | On Site | Jul 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Associate Account Strategist](https://jobright.ai/jobs/info/68793886ed63844c94499b3c?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Jul 17 |
 | **[AI Engineers, Inc.](http://aiengineers.com)** | **[Marketing Proposal Specialist - AEC Industry](https://jobright.ai/jobs/info/68795a9d2097a271a8976d66?utm_campaign=Marketing&utm_source=1103)** | Middletown, CT | On Site | Jul 17 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Partner Marketing](https://jobright.ai/jobs/info/687966ed2097a271a8977399?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Jul 17 |
@@ -318,6 +320,7 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Marketing & Publicity Assistant](https://jobright.ai/jobs/info/68781ae9ae2f413e4a5bfd8b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Jul 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Merchandising Assistant - Household](https://jobright.ai/jobs/info/6877f7f7866a435525ab5904?utm_campaign=Marketing&utm_source=1103)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | Jul 16 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Marketing & Publicity Assistant](https://jobright.ai/jobs/info/6877f7f1866a435525ab58f7?utm_campaign=Marketing&utm_source=1103)** | New York, New York | On Site | Jul 16 |
+| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a788c3?utm_campaign=Marketing&utm_source=1103)** | Nesconset, NY | Hybrid | Jul 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Marketing and Client Relations Coordinator](https://jobright.ai/jobs/info/68781c365cebcd1dd51d7cd2?utm_campaign=Marketing&utm_source=1103)** | Cedar Rapids, IA | On Site | Jul 16 |
 | **[Thoughtworks](http://www.thoughtworks.com)** | **[Field Marketing Associate (Market Liaison Manager)](https://jobright.ai/jobs/info/6877f73c866a435525ab5830?utm_campaign=Marketing&utm_source=1103)** | Dallas, Texas | On Site | Jul 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Merchandising Assistant - Household](https://jobright.ai/jobs/info/6877f6d1ae2f413e4a5be8b2?utm_campaign=Marketing&utm_source=1103)** | 200 WILMOT RD,DEERFIELD,IL,60015-04620-00001-2 | On Site | Jul 16 |
@@ -340,7 +343,6 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a788be?utm_campaign=Marketing&utm_source=1103)** | East Hanover, NJ | Hybrid | Jul 16 |
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Junior Copywriter](https://jobright.ai/jobs/info/6877d653866a435525ab488a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | On Site | Jul 16 |
 | **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a788ad?utm_campaign=Marketing&utm_source=1103)** | Ronkonkoma, NY | Hybrid | Jul 16 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a788a9?utm_campaign=Marketing&utm_source=1103)** | Nesconset, NY | Hybrid | Jul 16 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant, CRM (Email)](https://jobright.ai/jobs/info/6877cd965cebcd1dd51d53b8?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Jul 16 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative VIP](https://jobright.ai/jobs/info/6870ceef06ad7073463c1834?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Jul 16 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Creative Communications Coordinator](https://jobright.ai/jobs/info/685b5297960682eefd696712?utm_campaign=Marketing&utm_source=1103)** | Colorado Springs, CO | Hybrid | Jul 16 |
