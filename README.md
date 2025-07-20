@@ -57,19 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator/ Full-Time / Greensboro Complex](https://jobright.ai/jobs/info/687d341eed63844c944b225c?utm_campaign=Marketing&utm_source=1103)** | Greensboro, NC | Hybrid | Jul 20 |
 | **[AFC Industries, Inc.](http://www.afcindustries.com/)** | **[Junior Marketing Associate](https://jobright.ai/jobs/info/687d1ad52097a271a898df23?utm_campaign=Marketing&utm_source=1103)** | Berwick, PA | On Site | Jul 20 |
 | **[4LEAF, Inc.](https://www.4leafinc.com/)** | **[Proposal Writer](https://jobright.ai/jobs/info/687cf6bc2097a271a898d965?utm_campaign=Marketing&utm_source=1103)** | Pleasanton, CA | On Site | Jul 20 |
+| **[Via](http://www.ridewithvia.com)** | **[Account-Based Marketing Associate](https://jobright.ai/jobs/info/67ed9988bee89c6f9736519f?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Jul 20 |
 | **[Macy's](http://www.macysjobs.com)** | **[Retail Brand Ambassador - Michael Kors, Millenia - Full Time](https://jobright.ai/jobs/info/687cc949ed63844c944b1381?utm_campaign=Marketing&utm_source=1103)** | 4298 Millenia Boulevard, Orlando, FL, 32839, US | On Site | Jul 20 |
 | ↳ | **[Retail Merchandising Support Associate, Manassas - Part Time](https://jobright.ai/jobs/info/687cc927764c3d7411c3b97f?utm_campaign=Marketing&utm_source=1103)** | 8270 Sudley Road, Manassas, VA, 20109, US | On Site | Jul 20 |
 | ↳ | **[Retail Brand Ambassador - Dresses Multi-Vendor, Stanford Shopping Center - Full Time](https://jobright.ai/jobs/info/687cc9212097a271a898d29e?utm_campaign=Marketing&utm_source=1103)** | 300 Stanford Shopping Center, Palo Alto, CA, 94304, US | On Site | Jul 20 |
 | ↳ | **[Retail Clothing Brand Ambassador - Tailored Clothing, South Beach - Full Time](https://jobright.ai/jobs/info/687cc91eed63844c944b1374?utm_campaign=Marketing&utm_source=1103)** | 1675 Meridian Avenue, Miami Beach, FL, 33139, US | On Site | Jul 20 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Jul 20 |
+| ↳ | **[Jr. Web Marketing Specialist - Analytics Track](https://jobright.ai/jobs/info/67eec162357dc4681d8641fa?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Jul 20 |
 | **[Launch Potato](http://launchpotato.com)** | **[Marketing Associate, SMS](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018bf3?utm_campaign=Marketing&utm_source=1103)** | West Palm Beach, FL (on-site) | Hybrid | Jul 20 |
 | **[Urban Compass](https://www.urbancompass.org/)** | **[Agent Experience Coordinator/Marketing Coordinator](https://jobright.ai/jobs/info/687c097a764c3d7411c3641d?utm_campaign=Marketing&utm_source=1103)** | Tacoma, WA | On Site | Jul 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Visual Merchandising Specialist / ONE PASEO](https://jobright.ai/jobs/info/687be53d764c3d7411c35f89?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Jul 19 |
 | **[Thrive Market](https://thrivemarket.com)** | **[CRM Coordinator](https://jobright.ai/jobs/info/687be2f4ed63844c944ac0c5?utm_campaign=Marketing&utm_source=1103)** | Los Angeles or Remote | Remote | Jul 19 |
 | **[Breeze](https://www.meetbreeze.com)** | **[Brand Ambassador/Sales Representative](https://jobright.ai/jobs/info/687ca3a9ed63844c944b055a?utm_campaign=Marketing&utm_source=1103)** | Albany, NY | On Site | Jul 19 |
 | **[the LEGO Group](http://www.lego.com)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/687bd80ded63844c944abdf3?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Jul 19 |
+| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Annuity Product Marketing Specialist](https://jobright.ai/jobs/info/685f56c8f481144c86c29771?utm_campaign=Marketing&utm_source=1103)** | Radnor, PA | On Site | Jul 19 |
 | **[Cumming Group](https://cumming-group.com/)** | **[Marketing Coordinator, Pursuits](https://jobright.ai/jobs/info/687bac26764c3d7411c34b0f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Jul 19 |
 | **[Kepler](https://www.keplergrp.com)** | **[Digital Media Senior Analyst, Social](https://jobright.ai/jobs/info/685eea3c9a02903ca7d6124b?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 19 |
 | **[Perplexity](https://www.perplexity.ai)** | **[Growth Manager - Students](https://jobright.ai/jobs/info/67ed9988bee89c6f9736515a?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Jul 19 |
@@ -387,7 +391,8 @@ For a complete list, click the following sortable link below:
 | **[Thoughtworks](http://www.thoughtworks.com)** | **[Field Marketing Associate (Market Liaison Manager)](https://jobright.ai/jobs/info/6877ea55ae2f413e4a5be172?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Remote | Jul 16 |
 | ↳ | **[Field Marketing Associate (Market Liaison Manager)](https://jobright.ai/jobs/info/6877e983ae2f413e4a5be10b?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Remote | Jul 16 |
 | ↳ | **[Field Marketing Associate (Market Liaison Manager)](https://jobright.ai/jobs/info/6877e978ae2f413e4a5be105?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Remote | Jul 16 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a78800?utm_campaign=Marketing&utm_source=1103)** | Redmond, WA | Hybrid | Jul 16 |
+| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/685b52d2960682eefd696d12?utm_campaign=Marketing&utm_source=1103)** | Issaquah, WA | Hybrid | Jul 16 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/685b3453605301f162a78800?utm_campaign=Marketing&utm_source=1103)** | Redmond, WA | Hybrid | Jul 16 |
 | **[Giving Tree Realty](http://givingtreerealty.com)** | **[Exciting Growth Opportunities!  100% Commission!](https://jobright.ai/jobs/info/6877e274866a435525ab4d70?utm_campaign=Marketing&utm_source=1103)** | Concord, NC | On Site | Jul 16 |
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Junior Copywriter](https://jobright.ai/jobs/info/6877dc37866a435525ab4b5d?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Jul 16 |
 | ↳ | **[Junior Copywriter](https://jobright.ai/jobs/info/6877d9fc5cebcd1dd51d59ad?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Jul 16 |
