@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682f0b85823b795eb99628b1?utm_campaign=Marketing&utm_source=1103)** | Harvey, LA | On Site | Jul 27 |
 | ↳ | **[Brand Ambassador Baytown, TX](https://jobright.ai/jobs/info/67f74427bcfd3f134df793ec?utm_campaign=Marketing&utm_source=1103)** | Baytown, TX | On Site | Jul 27 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68308402af442f6cb3932f12?utm_campaign=Marketing&utm_source=1103)** | Conroe, TX | On Site | Jul 27 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Part Time and Full Time)](https://jobright.ai/jobs/info/681450e3a34a3eb5721f7d6d?utm_campaign=Marketing&utm_source=1103)** | Plano, TX | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
