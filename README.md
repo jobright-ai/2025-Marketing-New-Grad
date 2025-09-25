@@ -540,8 +540,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68d24bd7a54edb3bf3e1d1ce?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | On Site | Sep 22 |
 | ↳ | **[Entry Level Communications Assistant](https://jobright.ai/jobs/info/68d21c0e17554c2d9eee4146?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Sep 22 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d1e30a17554c2d9eee0a0f?utm_campaign=Marketing&utm_source=1103)** | Costa Mesa, CA | On Site | Sep 22 |
-| **[Renuity](http://renuityhome.com/)** | **[Field Brand Ambassador](https://jobright.ai/jobs/info/68d2d88817554c2d9eeead4c?utm_campaign=Marketing&utm_source=1103)** | Dubuque, IA | On Site | Sep 22 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d2d706f0d9af73038dbdda?utm_campaign=Marketing&utm_source=1103)** | West Palm Beach, FL | On Site | Sep 22 |
+| **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d2d706f0d9af73038dbdda?utm_campaign=Marketing&utm_source=1103)** | West Palm Beach, FL | On Site | Sep 22 |
+| ↳ | **[Field Brand Ambassador](https://jobright.ai/jobs/info/68d2d88817554c2d9eeead4c?utm_campaign=Marketing&utm_source=1103)** | Dubuque, IA | On Site | Sep 22 |
 | **[Northrop Realty](https://www.northroprealty.com)** | **[Central Eastern Shore Home Marketing Consultant (Salisbury, Cambridge, and West Ocean City)](https://jobright.ai/jobs/info/68d1e256a54edb3bf3e17348?utm_campaign=Marketing&utm_source=1103)** | Cambridge, MD | On Site | Sep 22 |
 | **[Reynolds Consumer Products](http://www.ReynoldsConsumerProducts.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/68d1e111a54edb3bf3e1712b?utm_campaign=Marketing&utm_source=1103)** | Appleton, WI | On Site | Sep 22 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cf47c2fb49c96ca6ea6a84?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Sep 22 |
@@ -701,7 +701,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d6da7727df7d5a84e098?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 21 |
 | ↳ | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d6d017bd5d3415aa6ec5?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 21 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d1917727df7d5a84dd63?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 21 |
-| ↳ | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d14d7727df7d5a84dd37?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 21 |
+| ↳ | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d13917bd5d3415aa6b6a?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 21 |
 | **[Ipsos](http://www.ipsos.com)** | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bc?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Sep 21 |
 | ↳ | **[Research Analyst, Market Strategy & Understanding](https://jobright.ai/jobs/info/68d0d8ecf1976376178f0088?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Sep 21 |
 | **[Sandpiper Productions](www.sandpiperbrands.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d0c2ebfb49c96ca6eb00a4?utm_campaign=Marketing&utm_source=1103)** | East Middlebury, VT | On Site | Sep 21 |
@@ -940,33 +940,4 @@ For a complete list, click the following sortable link below:
 | **[Yerba Madre](www.yerbamadre.com)** | **[Shopper Marketing Specialist](https://jobright.ai/jobs/info/68cd0a9de23def7af55b422b?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 19 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Digital Marketing Specialist - Communications](https://jobright.ai/jobs/info/68cd0809e23def7af55b390d?utm_campaign=Marketing&utm_source=1103)** | Tucson, AZ | On Site | Sep 19 |
 | **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Coordinator, Global Marketing](https://jobright.ai/jobs/info/68d3a802952b4a32e23d865b?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Sep 18 |
-| **[YooFinds](https://m.yoofinds.com/?i=HEDI)** | **[Event Staff / Brand Ambassadors](https://jobright.ai/jobs/info/68ceaa3adbd9fb154ede1faa?utm_campaign=Marketing&utm_source=1103)** | Long Beach, CA | On Site | Sep 18 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Full-Time Brand Ambassador](https://jobright.ai/jobs/info/68ccf8ea5954791a1d702220?utm_campaign=Marketing&utm_source=1103)** | Orange, CA | On Site | Sep 18 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Field Marketer](https://jobright.ai/jobs/info/68ccf83dd11b445e0bee547a?utm_campaign=Marketing&utm_source=1103)** | Bristol, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccf7075954791a1d701dfd?utm_campaign=Marketing&utm_source=1103)** | Somerset, MA | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccf62877add66568abcb30?utm_campaign=Marketing&utm_source=1103)** | Westerly, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccf5d8d11b445e0bee4f5b?utm_campaign=Marketing&utm_source=1103)** | New London, CT | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccf5b877add66568abca42?utm_campaign=Marketing&utm_source=1103)** | Providence, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccf56877add66568abc988?utm_campaign=Marketing&utm_source=1103)** | Norwich, CT | On Site | Sep 18 |
-| **[ACA Group](https://www.acaglobal.com)** | **[Marketing / Events Coordinator](https://jobright.ai/jobs/info/68ccf3ec77add66568abc65c?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Sep 18 |
-| **[Harmless Harvest](https://www.harmlessharvest.com)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/68d4e5b48c62e63bc7fedc0d?utm_campaign=Marketing&utm_source=1103)** | OAKLAND, CA, USA | Hybrid | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccf1605954791a1d7018c6?utm_campaign=Marketing&utm_source=1103)** | Greensboro, NC | Hybrid | Sep 18 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Field Marketer](https://jobright.ai/jobs/info/68ccf06477add66568abc543?utm_campaign=Marketing&utm_source=1103)** | Pawtucket, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68ccefd1d11b445e0bee496d?utm_campaign=Marketing&utm_source=1103)** | Taunton, MA | On Site | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccef5e5954791a1d70144e?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 18 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Field Marketer](https://jobright.ai/jobs/info/68ccee6ed11b445e0bee46f9?utm_campaign=Marketing&utm_source=1103)** | Warwick, RI | On Site | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccee64d11b445e0bee46e5?utm_campaign=Marketing&utm_source=1103)** | Mooresville, NC | Hybrid | Sep 18 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/68cf9520846f0b04af683298?utm_campaign=Marketing&utm_source=1103)** | Redmond, WA | Hybrid | Sep 18 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Field Marketer](https://jobright.ai/jobs/info/68cce97dd11b445e0bee4557?utm_campaign=Marketing&utm_source=1103)** | Franklin, MA | On Site | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cf91c5dbd9fb154ede8d67?utm_campaign=Marketing&utm_source=1103)** | Ridgefield, WA | Hybrid | Sep 18 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/68cf94a7846f0b04af6831d8?utm_campaign=Marketing&utm_source=1103)** | Cherry Hill, NJ | Hybrid | Sep 18 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Field Marketer](https://jobright.ai/jobs/info/68cce6f777add66568abbaaf?utm_campaign=Marketing&utm_source=1103)** | Narragansett, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68cd29a61ad6b16f02895e1d?utm_campaign=Marketing&utm_source=1103)** | Newport, RI | On Site | Sep 18 |
-| ↳ | **[Field Marketer](https://jobright.ai/jobs/info/68cd2b5f1ad6b16f02895fa5?utm_campaign=Marketing&utm_source=1103)** | Woonsocket, RI | On Site | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cce2cbd11b445e0bee3d71?utm_campaign=Marketing&utm_source=1103)** | Commack, NY | Hybrid | Sep 18 |
-| **[Yerba Madre](www.yerbamadre.com)** | **[Shopper Marketing Specialist](https://jobright.ai/jobs/info/68cce2a15954791a1d7008f8?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cce0a9d11b445e0bee37f7?utm_campaign=Marketing&utm_source=1103)** | New Rochelle, NY | Hybrid | Sep 18 |
-| **[Signal Tru Brand](https://www.signaltrubrand.com)** | **[Communications Assistant](https://jobright.ai/jobs/info/68ccfd0e5954791a1d7024c0?utm_campaign=Marketing&utm_source=1103)** | Birmingham, AL | On Site | Sep 18 |
-| ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68cd0b3c1ad6b16f02893dbe?utm_campaign=Marketing&utm_source=1103)** | Birmingham, AL | On Site | Sep 18 |
-| **[Marvin](http://www.marvin.com/)** | **[Event Marketing Representative – Lead Generation Specialist](https://jobright.ai/jobs/info/68cf8958dbd9fb154ede8ab0?utm_campaign=Marketing&utm_source=1103)** | Waltham, MA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
