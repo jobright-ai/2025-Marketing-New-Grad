@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Coordinator, Endurance Events - Midwest](https://jobright.ai/jobs/info/68cc09aa7342c7623ae5dbef?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Oct 02 |
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd389?utm_campaign=Marketing&utm_source=1103)** | Alpharetta, GA | Hybrid | Oct 02 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Senior Analyst, TAAG - Ad Operations](https://jobright.ai/jobs/info/68c06ea2702aa35207aad0c2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 02 |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cc364d7342c7623ae60f92?utm_campaign=Marketing&utm_source=1103)** | Cleveland, TN | On Site | Oct 01 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[Market Research Strategist](https://jobright.ai/jobs/info/68cd55101ad6b16f028981e4?utm_campaign=Marketing&utm_source=1103)** | Fort Worth, TX | On Site | Oct 01 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68c0727c8e65e77df55c124f?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister - Key Lead, Freehold Raceway](https://jobright.ai/jobs/info/68cfeccbfb49c96ca6eaca5b?utm_campaign=Marketing&utm_source=1103)** | Freehold, NJ | On Site | Oct 01 |
@@ -261,9 +262,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf89a8e451a446a54c7?utm_campaign=Marketing&utm_source=1103)** | Spartanburg, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf0061b716fa295af46?utm_campaign=Marketing&utm_source=1103)** | Columbia, SC | On Site | Sep 28 |
 | **[Seronda Network](https://www.serondanetwork.com/)** | **[Public Relations Associate](https://jobright.ai/jobs/info/68da6e096df7b8311bb0ed5a?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
+| ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da6e4b07c157682e56a3cd?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68da6dd50b832179ca4ad95d?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
 | ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68da6e086df7b8311bb0ed59?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
-| ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da6e4b07c157682e56a3cd?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Entry Level Marketing Associate](https://jobright.ai/jobs/info/68db124f0dffed6f83d2c5b4?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68db13c0e9b48513789b1b27?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Public Relations Assistant](https://jobright.ai/jobs/info/68db13d1e9b48513789b1b47?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
@@ -323,10 +324,4 @@ For a complete list, click the following sortable link below:
 | **[Mammoth Brands](http://mammothbrands.com)** | **[Coordinator, Influencer Marketing (Lume + Mando)](https://jobright.ai/jobs/info/68ce42e824dd5209002f100e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Trainee](https://jobright.ai/jobs/info/68cd2223b2a74e1837ed2fac?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Sep 27 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Abercrombie & Fitch. - Key Lead, Forum Carlsbad](https://jobright.ai/jobs/info/68bc40eaae79610dacddb366?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Sep 27 |
-| **[Lumina Agency Inc](https://luminaagencyinc.com/)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d7edcb7796a83635f0da18?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | On Site | Sep 27 |
-| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English + Hebrew - Remote US-Based](https://jobright.ai/jobs/info/68bb7b878043103d4f228f6d?utm_campaign=Marketing&utm_source=1103)** | Illinois, United States | Remote | Sep 27 |
-| ↳ | **[Social Media Content Specialist - ENGLISH/SPANISH - Remote Canada/US](https://jobright.ai/jobs/info/689e72d5faa4e875e827ca6c?utm_campaign=Marketing&utm_source=1103)** | Ontario, CA | Remote | Sep 27 |
-| ↳ | **[Social Media Content Specialist - English + Hebrew - Remote US-Based](https://jobright.ai/jobs/info/68bb7b148043103d4f228f14?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | Remote | Sep 27 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Marketing Operations Coordinator, Brand Marketing PMO](https://jobright.ai/jobs/info/68cb03319e3a822f5d240fdc?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Sep 27 |
-| **[Horizon Hobby](https://www.horizonhobby.com/)** | **[Associate Brand Marketing Coordinator](https://jobright.ai/jobs/info/68bb79876105227d118a647c?utm_campaign=Marketing&utm_source=1103)** | Champaign, IL | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
