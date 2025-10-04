@@ -150,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Caesars Entertainment](http://www.caesars.com)** | **[Marketing Campaign Associate I - Atlantic City, NJ](https://jobright.ai/jobs/info/68db29900dffed6f83d2cd1c?utm_campaign=Marketing&utm_source=1103)** | Atlantic City, NJ | On Site | Sep 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Communications Assistant](https://jobright.ai/jobs/info/68db292d0dffed6f83d2ccb1?utm_campaign=Marketing&utm_source=1103)** | St Louis Park, MN | On Site | Sep 29 |
 | ↳ | **[Communications Assistant](https://jobright.ai/jobs/info/68db2868e9b48513789b22a8?utm_campaign=Marketing&utm_source=1103)** | Madison, WI | On Site | Sep 29 |
-| **[Hustle Notice Biz](https://hustlenoticebiz.com/)** | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68db2816e9b48513789b2212?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Scorpion](https://www.scorpion.co)** | **[Marketing Assistant, Legal](https://jobright.ai/jobs/info/68db25770dffed6f83d2cb21?utm_campaign=Marketing&utm_source=1103)** | Shreveport, LA | On Site | Sep 29 |
 | ↳ | **[Marketing Assistant, Legal](https://jobright.ai/jobs/info/68db2490e9b48513789b20ce?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Sep 29 |
 | **[McCann](http://www.mccann.com)** | **[Junior Copywriter](https://jobright.ai/jobs/info/68db2440e9b48513789b2058?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Sep 29 |
@@ -271,9 +270,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf89a8e451a446a54c7?utm_campaign=Marketing&utm_source=1103)** | Spartanburg, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf0061b716fa295af46?utm_campaign=Marketing&utm_source=1103)** | Columbia, SC | On Site | Sep 28 |
 | **[Seronda Network](https://www.serondanetwork.com/)** | **[Public Relations Associate](https://jobright.ai/jobs/info/68da6e096df7b8311bb0ed5a?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
-| ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da6e4b07c157682e56a3cd?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68da6e086df7b8311bb0ed59?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68da6dd50b832179ca4ad95d?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
+| ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da6e4b07c157682e56a3cd?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Entry Level Marketing Associate](https://jobright.ai/jobs/info/68db124f0dffed6f83d2c5b4?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68db13c0e9b48513789b1b27?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Public Relations Assistant](https://jobright.ai/jobs/info/68db13d1e9b48513789b1b47?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
