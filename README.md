@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Controls)](https://jobright.ai/jobs/info/68c3b1a46031587f8458db31?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | On Site | Oct 04 |
 | **[Icon Media Direct](http://iconmediadirect.com)** | **[Media Assistant - Expression of Interest](https://jobright.ai/jobs/info/68c4f97e7d0db411427305ee?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[WebFX](https://www.webfx.com)** | **[Remote Copywriter: Technology & SaaS (Florida)](https://jobright.ai/jobs/info/68a75dbbd627244576e2bc67?utm_campaign=Marketing&utm_source=1103)** | Florida, United States | Remote | Oct 04 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Hybrid Marketing/Web Coordinator](https://jobright.ai/jobs/info/68c477ee14bb275ce0193b20?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Hybrid | Oct 04 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Data Implementation Specialist](https://jobright.ai/jobs/info/67fd56fcf425589cee18a0e3?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 03 |
 | **[Acrisure](http://acrisure.com)** | **[Marketing Representative Northern NV & Northern CA](https://jobright.ai/jobs/info/68cde8e91ad6b16f0289fd32?utm_campaign=Marketing&utm_source=1103)** | Stockton, CA | Hybrid | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc1bd?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
+| **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68cce0ced11b445e0bee3876?utm_campaign=Marketing&utm_source=1103)** | Nashua, NH | On Site | Oct 02 |
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[PR Associate Account Executive - entry level](https://jobright.ai/jobs/info/6850b271740bdb6692048e7e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Real Estate Market Analyst I](https://jobright.ai/jobs/info/68c1e3044d652f044775b5b4?utm_campaign=Marketing&utm_source=1103)** | Chanhassen, MN | On Site | Oct 02 |
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1f0ad63b706703e110779?utm_campaign=Marketing&utm_source=1103)** | Worcester, MA | On Site | Oct 02 |
@@ -270,9 +272,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf89a8e451a446a54c7?utm_campaign=Marketing&utm_source=1103)** | Spartanburg, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf0061b716fa295af46?utm_campaign=Marketing&utm_source=1103)** | Columbia, SC | On Site | Sep 28 |
 | **[Seronda Network](https://www.serondanetwork.com/)** | **[Public Relations Associate](https://jobright.ai/jobs/info/68da6e096df7b8311bb0ed5a?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
+| ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68da6dd50b832179ca4ad95d?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
 | ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da6e4b07c157682e56a3cd?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
 | ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68da6e086df7b8311bb0ed59?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 28 |
-| ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68da6dd50b832179ca4ad95d?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Associate](https://jobright.ai/jobs/info/68db124f0dffed6f83d2c5b4?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68db13c0e9b48513789b1b27?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Public Relations Assistant](https://jobright.ai/jobs/info/68db13d1e9b48513789b1b47?utm_campaign=Marketing&utm_source=1103)** | Miami, FL | On Site | Sep 28 |
@@ -297,7 +299,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68352f5bb86ffdc85f0060d7?utm_campaign=Marketing&utm_source=1103)** | Salinas, CA | On Site | Sep 28 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68bae96d6105227d118a1600?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Brand Ambassador (Branch Security Officer - King of Prussia](https://jobright.ai/jobs/info/68ca3bbcd4187c55157a8a12?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d8fff5022fc803b4876a23?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Sep 28 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[In House Marketing Executive (expected pay $56,703 to $153,448)*](https://jobright.ai/jobs/info/68d5fd131f7fb2169ab150d6?utm_campaign=Marketing&utm_source=1103)** | Kapolei, HI | On Site | Sep 28 |
-| **[FHIA Remodeling](http://fhaproducts.com)** | **[Bilingual Brand Ambassador - $2000 Sign-On Bonus](https://jobright.ai/jobs/info/68bb71ed5f3832749186f32e?utm_campaign=Marketing&utm_source=1103)** | Tampa, FL | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
