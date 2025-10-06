@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
+| **[Constellation](https://www.helloconstellation.com)** | **[Growth Strategist](https://jobright.ai/jobs/info/67f829d31e757015cbded0e1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Outreach Strategist (Non-Client Facing)](https://jobright.ai/jobs/info/6839c1d245b91d3ebcd15036?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 05 |
 | **[Gallery Media Group](https://www.gallerymediagroup.com/)** | **[Media Planner](https://jobright.ai/jobs/info/68c8ff7b983e6768bc55506f?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 04 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Controls)](https://jobright.ai/jobs/info/68c3b1a46031587f8458db31?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | On Site | Oct 04 |
@@ -175,7 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Hustle Notice Biz](https://hustlenoticebiz.com/)** | **[Entry Level Marketing Associate](https://jobright.ai/jobs/info/68db0cd1e9b48513789b1860?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Sep 29 |
 | **[DataGrail](http://www.datagrail.io)** | **[Privacy Community Coordinator](https://jobright.ai/jobs/info/68db0cc6e9b48513789b1845?utm_campaign=Marketing&utm_source=1103)** | Remote - United States | Remote | Sep 29 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Encore - Bilingual English/Japanese - Waikiki based](https://jobright.ai/jobs/info/68db0bd60dffed6f83d2c27d?utm_campaign=Marketing&utm_source=1103)** | Marriott Vacation Club, Waikiki | On Site | Sep 29 |
-| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0bbb0dffed6f83d2c1f4?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0a496df7b8311bb1592c?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Associate Marketing Analyst](https://jobright.ai/jobs/info/68db03b60dffed6f83d2becb?utm_campaign=Marketing&utm_source=1103)** | Eagle, ID | On Site | Sep 29 |
 | **[Erie Home](http://erieconstruction.com)** | **[Field Marketing Manager](https://jobright.ai/jobs/info/68db02cf0dffed6f83d2bdaf?utm_campaign=Marketing&utm_source=1103)** | Garden City, ID | On Site | Sep 29 |
 | **[Esler Companies | Renewal by Andersen](https://esler.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68db02b3e9b48513789b11bc?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 29 |
@@ -253,12 +254,4 @@ For a complete list, click the following sortable link below:
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Merchandise Marketing Coordinator](https://jobright.ai/jobs/info/68da834a0b832179ca4ae05d?utm_campaign=Marketing&utm_source=1103)** | 28-07 Jackson Avenue, Long Island City, NY, 11101, US | On Site | Sep 29 |
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Technical Marketing Engineer](https://jobright.ai/jobs/info/68cf94c6846f0b04af683201?utm_campaign=Marketing&utm_source=1103)** | Itasca, IL | On Site | Sep 29 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6884236ab54cac0f1e73c2e8?utm_campaign=Marketing&utm_source=1103)** | Colorado Springs, CO | On Site | Sep 29 |
-| **[Think Tell Junction](https://www.thinktelljunction.com/)** | **[Entry Level Marketing Specialist](https://jobright.ai/jobs/info/68da581b6df7b8311bb0e8ef?utm_campaign=Marketing&utm_source=1103)** | San Antonio, TX | On Site | Sep 29 |
-| ↳ | **[Public Relations Coordinator](https://jobright.ai/jobs/info/68da576107c157682e569f18?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 29 |
-| ↳ | **[Marketing Assistant](https://jobright.ai/jobs/info/68da511f07c157682e569d54?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | Hybrid | Sep 29 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and Development Coordinator - Open Until Filled](https://jobright.ai/jobs/info/68da50346df7b8311bb0e826?utm_campaign=Marketing&utm_source=1103)** | 110 S 400 W | On Site | Sep 29 |
-| ↳ | **[Communications and Development Coordinator - Open Until Filled](https://jobright.ai/jobs/info/68da4fed0b832179ca4ad3ed?utm_campaign=Marketing&utm_source=1103)** | 84101 | On Site | Sep 29 |
-| ↳ | **[Communications and Development Coordinator - Open Until Filled](https://jobright.ai/jobs/info/68da4fec0b832179ca4ad3eb?utm_campaign=Marketing&utm_source=1103)** | US-UT-SALT LAKE CITY | On Site | Sep 29 |
-| **[Lumina Agency Inc](https://luminaagencyinc.com/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/68da45773c03cd3270944e7a?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Sep 29 |
-| ↳ | **[Communications Coordinator](https://jobright.ai/jobs/info/68da423d6df7b8311bb0e391?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
