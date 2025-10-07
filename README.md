@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[Feeding America](http://feedingamerica.org)** | **[Coordinator, Integrated Marketing (Chicago/Hybrid)](https://jobright.ai/jobs/info/68d72e71894705799a2f1371?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Internal Events Coordinator](https://jobright.ai/jobs/info/68d4dac7fcd3367e8df187f5?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 03 |
+| **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Paid Search & Paid Social (MGM)](https://jobright.ai/jobs/info/68cf246e846f0b04af67f842?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 03 |
 | **[Common Sense Media](http://graphite.org/)** | **[Editorial Operations Associate](https://jobright.ai/jobs/info/68ccd7ef5954791a1d6ff797?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 | **[Condé Nast](http://www.condenast.com)** | **[Analyst, Ad Effectiveness](https://jobright.ai/jobs/info/68cbb26c9e3a822f5d24ab04?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Campaign Coordinator](https://jobright.ai/jobs/info/686dd099dadb90395aab9ce7?utm_campaign=Marketing&utm_source=1103)** | Birmingham, AL | Hybrid | Oct 03 |
@@ -140,7 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/67f8861cd6896dab6e8d8f1d?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 01 |
 | **[Via](http://www.ridewithvia.com)** | **[Senior Proposals Writer](https://jobright.ai/jobs/info/68c027515c5d5f14f46db8d5?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 01 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Assistant Manager In-House Marketing I](https://jobright.ai/jobs/info/68ca625046caff4db51fe8df?utm_campaign=Marketing&utm_source=1103)** | Pigeon Forge, TN | On Site | Sep 30 |
-| **[Angi](https://www.angi.com/)** | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d2fef6f0d9af73038de0b8?utm_campaign=Marketing&utm_source=1103)** | Greater Bloomington Area | Remote | Sep 30 |
-| ↳ | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d305d117554c2d9eeed2f9?utm_campaign=Marketing&utm_source=1103)** | Erie-Meadville Area | Remote | Sep 30 |
-| ↳ | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d2f89ff0d9af73038dd95d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Remote | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
