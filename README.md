@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855a48f092b8971c688eafb?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Regional Marketing Coordinator - Go to Market](https://jobright.ai/jobs/info/68cafbdf9e3a822f5d240cbd?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Hybrid | Oct 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/685638e73c3306bc38488d0b?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 05 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Strategist](https://jobright.ai/jobs/info/67f829d31e757015cbded0e1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
@@ -150,7 +151,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Influencer Marketing Coordinator, rhode](https://jobright.ai/jobs/info/68ce237cb2a74e1837edf9ec?utm_campaign=Marketing&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
 | **[Total Wine & More](https://www.totalwine.com/)** | **[Analyst II, Personalized Promotions](https://jobright.ai/jobs/info/68c78652c96a22563ecf1770?utm_campaign=Marketing&utm_source=1103)** | Bethesda, MD | On Site | Sep 30 |
 | **[Okta](http://www.okta.com)** | **[Technical Marketing Specialist - Workforce Identity](https://jobright.ai/jobs/info/68c8e1e295f5211cd2ceab43?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Sep 30 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Social Creator/Editor - Shark Beauty](https://jobright.ai/jobs/info/68bfbe5f8e65e77df55bcd06?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Sep 30 |
-| **[dentsu](https://www.dentsu.com)** | **[Senior Associate, SEO](https://jobright.ai/jobs/info/68c63c767d0db41142736db9?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Sep 30 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Garden Grove](https://jobright.ai/jobs/info/685e10fc6f010823bc8e4d8b?utm_campaign=Marketing&utm_source=1103)** | Garden Grove, CA | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
