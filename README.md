@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acc5cdd627244576e48eb4?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | On Site | Oct 07 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Associate Manager, Marketing & Account Strategy](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c831d795f5211cd2ce258a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 07 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator / Full-Time / UBS Arena](https://jobright.ai/jobs/info/68cf550bdbd9fb154ede6f22?utm_campaign=Marketing&utm_source=1103)** | Elmont, NY | On Site | Oct 06 |
@@ -82,11 +83,9 @@ For a complete list, click the following sortable link below:
 | **[YCharts](http://ycharts.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68c4db8e31e5763f188e427f?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Operations Coordinator](https://jobright.ai/jobs/info/68c9b95395f5211cd2cf35b3?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/689d607683d13d1f5b6af213?utm_campaign=Marketing&utm_source=1103)** | Salinas, CA | On Site | Oct 04 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Hybrid Marketing/Web Coordinator](https://jobright.ai/jobs/info/68c477ee14bb275ce0193b20?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Hybrid | Oct 04 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Specialist, Social Media Content Creator](https://jobright.ai/jobs/info/68d2fd08f0d9af73038dde4d?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Digital Inventory Strategy Specialist](https://jobright.ai/jobs/info/68cdb4adb2a74e1837edb88a?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Penrod](http://penrod.co/)** | **[Marketing Technology Consultant](https://jobright.ai/jobs/info/68c653a7c96a22563eced3dc?utm_campaign=Marketing&utm_source=1103)** | Milwaukee, WI | Hybrid | Oct 04 |
-| **[Phreesia](http://www.phreesia.com)** | **[Marketing Operations Lead](https://jobright.ai/jobs/info/689f83c1faa4e875e828937e?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Oct 03 |
 | **[Rubrik](http://rubrik.com)** | **[Marketing Campaign Specialist](https://jobright.ai/jobs/info/68c79ec67d0db4114273eb82?utm_campaign=Marketing&utm_source=1103)** | Palo Alto, CA | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68ccee3a77add66568abc099?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
@@ -144,7 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Angi](https://www.angi.com/)** | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d2fef6f0d9af73038de0b8?utm_campaign=Marketing&utm_source=1103)** | Greater Bloomington Area | Remote | Sep 30 |
 | ↳ | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d305d117554c2d9eeed2f9?utm_campaign=Marketing&utm_source=1103)** | Erie-Meadville Area | Remote | Sep 30 |
 | ↳ | **[Associate Content Researcher](https://jobright.ai/jobs/info/68d2f89ff0d9af73038dd95d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Remote | Sep 30 |
-| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Advertising Traffic Coordinator](https://jobright.ai/jobs/info/6866e651b6c3efdd0181eef6?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | Hybrid | Sep 30 |
-| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Program Assistant, Eurasia Center](https://jobright.ai/jobs/info/68a37d45403ad4363b1c19e0?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68bf1f9b702aa35207aa34c6?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
