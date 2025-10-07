@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acc5cdd627244576e48eb4?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | On Site | Oct 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c831d795f5211cd2ce258a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 07 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator / Full-Time / UBS Arena](https://jobright.ai/jobs/info/68cf550bdbd9fb154ede6f22?utm_campaign=Marketing&utm_source=1103)** | Elmont, NY | On Site | Oct 06 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Advertising Traffic Coordinator](https://jobright.ai/jobs/info/6866e651b6c3efdd0181eef6?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | Hybrid | Sep 30 |
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Program Assistant, Eurasia Center](https://jobright.ai/jobs/info/68a37d45403ad4363b1c19e0?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68bf1f9b702aa35207aa34c6?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | On Site | Sep 30 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Brand Ambassador - Hiring Immediately!](https://jobright.ai/jobs/info/6889a33b9f961617fe2167f4?utm_campaign=Marketing&utm_source=1103)** | Knoxville, TN | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
