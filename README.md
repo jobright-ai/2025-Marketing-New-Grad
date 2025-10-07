@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/685638e73c3306bc38488d0b?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 05 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Strategist](https://jobright.ai/jobs/info/67f829d31e757015cbded0e1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Outreach Strategist (Non-Client Facing)](https://jobright.ai/jobs/info/6839c1d245b91d3ebcd15036?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cdaad7b2a74e1837edae1a?utm_campaign=Marketing&utm_source=1103)** | Placerville, CA | On Site | Oct 05 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Communication Specialist at NC State](https://jobright.ai/jobs/info/68c4319014bb275ce019175d?utm_campaign=Marketing&utm_source=1103)** | Raleigh, NC | On Site | Oct 04 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Coordinator - Alamo](https://jobright.ai/jobs/info/68cd5a061ad6b16f0289847e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Personal Lines Marketing and Service Specialist](https://jobright.ai/jobs/info/68cbf18b7342c7623ae5c8db?utm_campaign=Marketing&utm_source=1103)** | Pittsfield, MA | On Site | Oct 04 |
 | **[Gallery Media Group](https://www.gallerymediagroup.com/)** | **[Media Planner](https://jobright.ai/jobs/info/68c8ff7b983e6768bc55506f?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 04 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Controls)](https://jobright.ai/jobs/info/68c3b1a46031587f8458db31?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | On Site | Oct 04 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68cce0ced11b445e0bee3876?utm_campaign=Marketing&utm_source=1103)** | Nashua, NH | On Site | Oct 02 |
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[PR Associate Account Executive - entry level](https://jobright.ai/jobs/info/6850b271740bdb6692048e7e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Real Estate Market Analyst I](https://jobright.ai/jobs/info/68c1e3044d652f044775b5b4?utm_campaign=Marketing&utm_source=1103)** | Chanhassen, MN | On Site | Oct 02 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing In House](https://jobright.ai/jobs/info/68a5668f33dd7158bbc99e80?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 02 |
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1f0ad63b706703e110779?utm_campaign=Marketing&utm_source=1103)** | Worcester, MA | On Site | Oct 02 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/68c2090633864f172f9bc6e7?utm_campaign=Marketing&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 02 |
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd38a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 02 |
