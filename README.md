@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Marketing & Communications Specialist](https://jobright.ai/jobs/info/68bf89cc5c5d5f14f46d7df9?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Influencer Marketing Coordinator, rhode](https://jobright.ai/jobs/info/68ce237cb2a74e1837edf9ec?utm_campaign=Marketing&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
 | **[Total Wine & More](https://www.totalwine.com/)** | **[Analyst II, Personalized Promotions](https://jobright.ai/jobs/info/68c78652c96a22563ecf1770?utm_campaign=Marketing&utm_source=1103)** | Bethesda, MD | On Site | Sep 30 |
-| **[Okta](http://www.okta.com)** | **[Technical Marketing Specialist - Workforce Identity](https://jobright.ai/jobs/info/68c8e1e295f5211cd2ceab43?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
