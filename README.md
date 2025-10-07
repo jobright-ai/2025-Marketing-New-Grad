@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/689d607683d13d1f5b6af213?utm_campaign=Marketing&utm_source=1103)** | Salinas, CA | On Site | Oct 04 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Hybrid Marketing/Web Coordinator](https://jobright.ai/jobs/info/68c477ee14bb275ce0193b20?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Hybrid | Oct 04 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Specialist, Social Media Content Creator](https://jobright.ai/jobs/info/68d2fd08f0d9af73038dde4d?utm_campaign=Marketing&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
+| **[Condé Nast](http://www.condenast.com)** | **[Digital Inventory Strategy Specialist](https://jobright.ai/jobs/info/68cdb4adb2a74e1837edb88a?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Penrod](http://penrod.co/)** | **[Marketing Technology Consultant](https://jobright.ai/jobs/info/68c653a7c96a22563eced3dc?utm_campaign=Marketing&utm_source=1103)** | Milwaukee, WI | Hybrid | Oct 04 |
 | **[Phreesia](http://www.phreesia.com)** | **[Marketing Operations Lead](https://jobright.ai/jobs/info/689f83c1faa4e875e828937e?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Oct 03 |
 | **[Rubrik](http://rubrik.com)** | **[Marketing Campaign Specialist](https://jobright.ai/jobs/info/68c79ec67d0db4114273eb82?utm_campaign=Marketing&utm_source=1103)** | Palo Alto, CA | On Site | Oct 03 |
