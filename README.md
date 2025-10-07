@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator / Full-Time / UBS Arena](https://jobright.ai/jobs/info/68cf550bdbd9fb154ede6f22?utm_campaign=Marketing&utm_source=1103)** | Elmont, NY | On Site | Oct 06 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855a48f092b8971c688eafb?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 06 |
+| ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
+| ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/685638e73c3306bc38488d0b?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 05 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Strategist](https://jobright.ai/jobs/info/67f829d31e757015cbded0e1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Phreesia](http://www.phreesia.com)** | **[Marketing Operations Lead](https://jobright.ai/jobs/info/689f83c1faa4e875e828937e?utm_campaign=Marketing&utm_source=1103)** | United States | Hybrid | Oct 03 |
 | **[Rubrik](http://rubrik.com)** | **[Marketing Campaign Specialist](https://jobright.ai/jobs/info/68c79ec67d0db4114273eb82?utm_campaign=Marketing&utm_source=1103)** | Palo Alto, CA | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68ccee3a77add66568abc099?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[Feeding America](http://feedingamerica.org)** | **[Coordinator, Integrated Marketing (Chicago/Hybrid)](https://jobright.ai/jobs/info/68d72e71894705799a2f1371?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Internal Events Coordinator](https://jobright.ai/jobs/info/68d4dac7fcd3367e8df187f5?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[Common Sense Media](http://graphite.org/)** | **[Editorial Operations Associate](https://jobright.ai/jobs/info/68ccd7ef5954791a1d6ff797?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
