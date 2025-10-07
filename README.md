@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator / Full-Time / UBS Arena](https://jobright.ai/jobs/info/68cf550bdbd9fb154ede6f22?utm_campaign=Marketing&utm_source=1103)** | Elmont, NY | On Site | Oct 06 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Multimedia Marketing Associate](https://jobright.ai/jobs/info/67e230913fb1149e33019360?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 06 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855a48f092b8971c688eafb?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
@@ -114,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Senior Analyst, TAAG - Ad Operations](https://jobright.ai/jobs/info/68c06ea2702aa35207aad0c2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Specialist](https://jobright.ai/jobs/info/686c4cff35584b6542f20c44?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Phoenix](https://jobright.ai/jobs/info/68c08f598e65e77df55c2a35?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 01 |
+| **[Publicis Digital Experience](https://www.linkedin.com/company/93242062)** | **[Marketing Billing Coordinator](https://jobright.ai/jobs/info/68c0c3b98e65e77df55c4324?utm_campaign=Marketing&utm_source=1103)** | West Chicago, IL | Hybrid | Oct 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cc364d7342c7623ae60f92?utm_campaign=Marketing&utm_source=1103)** | Cleveland, TN | On Site | Oct 01 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[Market Research Strategist](https://jobright.ai/jobs/info/68cd55101ad6b16f028981e4?utm_campaign=Marketing&utm_source=1103)** | Fort Worth, TX | On Site | Oct 01 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68c0727c8e65e77df55c124f?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 01 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Manager Marketing](https://jobright.ai/jobs/info/68cf4fd5dbd9fb154ede6532?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister - Key Lead, Freehold Raceway](https://jobright.ai/jobs/info/68cfeccbfb49c96ca6eaca5b?utm_campaign=Marketing&utm_source=1103)** | Freehold, NJ | On Site | Oct 01 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing IPC](https://jobright.ai/jobs/info/68c12375233c7d3e64d00322?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 01 |
 | **[Verkada](https://www.verkada.com)** | **[Digital Marketing Associate](https://jobright.ai/jobs/info/68c66c99c96a22563eceeac6?utm_campaign=Marketing&utm_source=1103)** | San Mateo, CA | On Site | Oct 01 |
@@ -146,8 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Apartment Management Consultants](https://www.amcllc.net/default.asp#)** | **[Marketing Assistant](https://jobright.ai/jobs/info/68d435c08c62e63bc7fe6996?utm_campaign=Marketing&utm_source=1103)** | Salt Lake City, UT | On Site | Sep 30 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682f0b85823b795eb99628b1?utm_campaign=Marketing&utm_source=1103)** | Harvey, LA | On Site | Sep 30 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Campaign Coordinator, Campaign Management](https://jobright.ai/jobs/info/68cdae7ce23def7af55bde45?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | On Site | Sep 30 |
-| **[Macy's](http://www.macysjobs.com)** | **[Attribution Specialist - Ready to Wear](https://jobright.ai/jobs/info/68b730141ade4306aa648424?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Sep 30 |
-| **[Troon](http://www.troon.com/)** | **[Marketing & Communications Specialist](https://jobright.ai/jobs/info/68bf89cc5c5d5f14f46d7df9?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | On Site | Sep 30 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Influencer Marketing Coordinator, rhode](https://jobright.ai/jobs/info/68ce237cb2a74e1837edf9ec?utm_campaign=Marketing&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
-| **[Total Wine & More](https://www.totalwine.com/)** | **[Analyst II, Personalized Promotions](https://jobright.ai/jobs/info/68c78652c96a22563ecf1770?utm_campaign=Marketing&utm_source=1103)** | Bethesda, MD | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
