@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c831d795f5211cd2ce258a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 07 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Marketing Representative](https://jobright.ai/jobs/info/68ac29fe758f2e4ac3004664?utm_campaign=Marketing&utm_source=1103)** | Woodcliff Lake, NJ | Hybrid | Oct 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Coordinator / Full-Time / UBS Arena](https://jobright.ai/jobs/info/68cf550bdbd9fb154ede6f22?utm_campaign=Marketing&utm_source=1103)** | Elmont, NY | On Site | Oct 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Multimedia Marketing Associate](https://jobright.ai/jobs/info/67e230913fb1149e33019360?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 06 |
@@ -111,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Merchandising - Ridge Hill](https://jobright.ai/jobs/info/68d790077a37c712687d0d85?utm_campaign=Marketing&utm_source=1103)** | Yonkers, NY | On Site | Oct 02 |
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68cd9609e23def7af55bc3d5?utm_campaign=Marketing&utm_source=1103)** | Greater Philadelphia | Hybrid | Oct 02 |
 | ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c221a133864f172f9bd584?utm_campaign=Marketing&utm_source=1103)** | Greater Chicago Area | Hybrid | Oct 02 |
-| ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c222ee4d652f044775d656?utm_campaign=Marketing&utm_source=1103)** | Atlanta Metro | Hybrid | Oct 02 |
+| **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1eeb933864f172f9bbae9?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 02 |
+| **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c222ee4d652f044775d656?utm_campaign=Marketing&utm_source=1103)** | Atlanta Metro | Hybrid | Oct 02 |
 | ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd389?utm_campaign=Marketing&utm_source=1103)** | Alpharetta, GA | Hybrid | Oct 02 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Senior Analyst, TAAG - Ad Operations](https://jobright.ai/jobs/info/68c06ea2702aa35207aad0c2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Specialist](https://jobright.ai/jobs/info/686c4cff35584b6542f20c44?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
@@ -145,7 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Program Assistant, Eurasia Center](https://jobright.ai/jobs/info/68a37d45403ad4363b1c19e0?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68bf1f9b702aa35207aa34c6?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | On Site | Sep 30 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Brand Ambassador - Hiring Immediately!](https://jobright.ai/jobs/info/6889a33b9f961617fe2167f4?utm_campaign=Marketing&utm_source=1103)** | Knoxville, TN | On Site | Sep 30 |
-| **[Apartment Management Consultants](https://www.amcllc.net/default.asp#)** | **[Marketing Assistant](https://jobright.ai/jobs/info/68d435c08c62e63bc7fe6996?utm_campaign=Marketing&utm_source=1103)** | Salt Lake City, UT | On Site | Sep 30 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682f0b85823b795eb99628b1?utm_campaign=Marketing&utm_source=1103)** | Harvey, LA | On Site | Sep 30 |
-| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Campaign Coordinator, Campaign Management](https://jobright.ai/jobs/info/68cdae7ce23def7af55bde45?utm_campaign=Marketing&utm_source=1103)** | Rochester, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
