@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Assistant, Digital Marketing](https://jobright.ai/jobs/info/68cd5cdd1ad6b16f02898a4d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 08 |
+| **[Monks](https://www.monks.com/)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ca63b85f9f0336447dd0c2?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / Worth Ave.](https://jobright.ai/jobs/info/689a300d83d13d1f5b696b83?utm_campaign=Marketing&utm_source=1103)** | Palm Beach, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
@@ -144,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cc364d7342c7623ae60f92?utm_campaign=Marketing&utm_source=1103)** | Cleveland, TN | On Site | Oct 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Private Markets Fundraising/Marketing Analyst](https://jobright.ai/jobs/info/68b701f01ade4306aa646ffe?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[Market Research Strategist](https://jobright.ai/jobs/info/68cd55101ad6b16f028981e4?utm_campaign=Marketing&utm_source=1103)** | Fort Worth, TX | On Site | Oct 01 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68c0727c8e65e77df55c124f?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
