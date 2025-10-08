@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855a48f092b8971c688eafb?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Regional Marketing Coordinator - Go to Market](https://jobright.ai/jobs/info/68cafbdf9e3a822f5d240cbd?utm_campaign=Marketing&utm_source=1103)** | Columbus, OH | Hybrid | Oct 05 |
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Marketing Associate - Shoulder](https://jobright.ai/jobs/info/68a9b9c96acf96396f728b7d?utm_campaign=Marketing&utm_source=1103)** | Largo, FL | On Site | Oct 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/685638e73c3306bc38488d0b?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 05 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
@@ -145,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Digital Experience](https://www.linkedin.com/company/93242062)** | **[Marketing Billing Coordinator](https://jobright.ai/jobs/info/68c0c3b98e65e77df55c4324?utm_campaign=Marketing&utm_source=1103)** | West Chicago, IL | Hybrid | Oct 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cc364d7342c7623ae60f92?utm_campaign=Marketing&utm_source=1103)** | Cleveland, TN | On Site | Oct 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Private Markets Fundraising/Marketing Analyst](https://jobright.ai/jobs/info/68b701f01ade4306aa646ffe?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
-| **[McMaster-Carr](http://www.mcmaster.com)** | **[Market Research Strategist](https://jobright.ai/jobs/info/68cd55101ad6b16f028981e4?utm_campaign=Marketing&utm_source=1103)** | Fort Worth, TX | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
