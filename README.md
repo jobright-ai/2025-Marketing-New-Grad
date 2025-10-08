@@ -139,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[Market Research Strategist](https://jobright.ai/jobs/info/68cd55101ad6b16f028981e4?utm_campaign=Marketing&utm_source=1103)** | Fort Worth, TX | On Site | Oct 01 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68c0727c8e65e77df55c124f?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister - Key Lead, Freehold Raceway](https://jobright.ai/jobs/info/68cfeccbfb49c96ca6eaca5b?utm_campaign=Marketing&utm_source=1103)** | Freehold, NJ | On Site | Oct 01 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing IPC](https://jobright.ai/jobs/info/68c12375233c7d3e64d00322?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 01 |
-| **[Verkada](https://www.verkada.com)** | **[Digital Marketing Associate](https://jobright.ai/jobs/info/68c66c99c96a22563eceeac6?utm_campaign=Marketing&utm_source=1103)** | San Mateo, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
