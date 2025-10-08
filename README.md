@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Assistant, Digital Marketing](https://jobright.ai/jobs/info/68cd5cdd1ad6b16f02898a4d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 08 |
 | **[Monks](https://www.monks.com/)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ca63b85f9f0336447dd0c2?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
+| **[Wiley](http://www.wiley.com)** | **[Market Development Associate](https://jobright.ai/jobs/info/68cd5bc41ad6b16f028987f7?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / Worth Ave.](https://jobright.ai/jobs/info/689a300d83d13d1f5b696b83?utm_campaign=Marketing&utm_source=1103)** | Palm Beach, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / Palm Beach Gardens, FL](https://jobright.ai/jobs/info/68ca1c96f16e3266d2822ba7?utm_campaign=Marketing&utm_source=1103)** | Palm Beach Gardens, FL | Hybrid | Oct 07 |
@@ -143,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Phoenix](https://jobright.ai/jobs/info/68c08f598e65e77df55c2a35?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 01 |
 | **[Publicis Digital Experience](https://www.linkedin.com/company/93242062)** | **[Marketing Billing Coordinator](https://jobright.ai/jobs/info/68c0c3b98e65e77df55c4324?utm_campaign=Marketing&utm_source=1103)** | West Chicago, IL | Hybrid | Oct 01 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cc364d7342c7623ae60f92?utm_campaign=Marketing&utm_source=1103)** | Cleveland, TN | On Site | Oct 01 |
-| **[Neuberger Berman](http://www.nb.com)** | **[Private Markets Fundraising/Marketing Analyst](https://jobright.ai/jobs/info/68b701f01ade4306aa646ffe?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
