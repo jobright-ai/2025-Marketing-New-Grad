@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 08 |
 | ↳ | **[Campaign Manager](https://jobright.ai/jobs/info/68cfc056dbd9fb154edea9cf?utm_campaign=Marketing&utm_source=1103)** | Florida, United States | Remote | Oct 08 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6890c099f5ee707a15db964f?utm_campaign=Marketing&utm_source=1103)** | Stockton, CA | On Site | Oct 08 |
 | **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ca63b85f9f0336447dd0c2?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cc095616d00d2beeb188fe?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | Remote | Oct 08 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
@@ -141,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[PR Associate Account Executive - entry level](https://jobright.ai/jobs/info/6850b271740bdb6692048e7e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Real Estate Market Analyst I](https://jobright.ai/jobs/info/68c1e3044d652f044775b5b4?utm_campaign=Marketing&utm_source=1103)** | Chanhassen, MN | On Site | Oct 02 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing In House](https://jobright.ai/jobs/info/68a5668f33dd7158bbc99e80?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 02 |
-| **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1f0ad63b706703e110779?utm_campaign=Marketing&utm_source=1103)** | Worcester, MA | On Site | Oct 02 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/68c2090633864f172f9bc6e7?utm_campaign=Marketing&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
