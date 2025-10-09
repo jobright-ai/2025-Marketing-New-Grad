@@ -141,9 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing In House](https://jobright.ai/jobs/info/68a5668f33dd7158bbc99e80?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 02 |
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1f0ad63b706703e110779?utm_campaign=Marketing&utm_source=1103)** | Worcester, MA | On Site | Oct 02 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Digital Marketing Analyst](https://jobright.ai/jobs/info/68c2090633864f172f9bc6e7?utm_campaign=Marketing&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 02 |
-| **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd38a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 02 |
-| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Merchandising - Ridge Hill](https://jobright.ai/jobs/info/68d790077a37c712687d0d85?utm_campaign=Marketing&utm_source=1103)** | Yonkers, NY | On Site | Oct 02 |
-| **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68cd9609e23def7af55bc3d5?utm_campaign=Marketing&utm_source=1103)** | Greater Philadelphia | Hybrid | Oct 02 |
-| ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c221a133864f172f9bd584?utm_campaign=Marketing&utm_source=1103)** | Greater Chicago Area | Hybrid | Oct 02 |
-| **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c1eeb933864f172f9bbae9?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
