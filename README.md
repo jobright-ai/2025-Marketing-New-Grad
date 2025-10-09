@@ -148,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Marketing Representative Northern NV & Northern CA](https://jobright.ai/jobs/info/68cde8e91ad6b16f0289fd32?utm_campaign=Marketing&utm_source=1103)** | Stockton, CA | Hybrid | Oct 03 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - Multi Languages (see job post for language requirements)](https://jobright.ai/jobs/info/68cc6acb128dc347fd92484a?utm_campaign=Marketing&utm_source=1103)** | Alberta, AL | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc1bd?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
-| **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c221af33864f172f9bd594?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
