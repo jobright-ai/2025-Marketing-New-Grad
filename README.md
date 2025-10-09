@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
+| **[Vuori](https://www.vuoriclothing.com/)** | **[Affiliate Marketing Specialist I](https://jobright.ai/jobs/info/68c9db4995f5211cd2cf5422?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Assistant, Digital Marketing](https://jobright.ai/jobs/info/68cd5cdd1ad6b16f02898a4d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/68ae43d6d627244576e52c11?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | On Site | Oct 08 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd389?utm_campaign=Marketing&utm_source=1103)** | Alpharetta, GA | Hybrid | Oct 02 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Senior Analyst, TAAG - Ad Operations](https://jobright.ai/jobs/info/68c06ea2702aa35207aad0c2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Specialist](https://jobright.ai/jobs/info/686c4cff35584b6542f20c44?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Phoenix](https://jobright.ai/jobs/info/68c08f598e65e77df55c2a35?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
