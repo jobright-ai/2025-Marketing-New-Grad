@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Affiliate Marketing Specialist I](https://jobright.ai/jobs/info/68c9db4995f5211cd2cf5422?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
 | **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68917ba5f47efe2113955ae6?utm_campaign=Marketing&utm_source=1103)** | Tacoma, WA | On Site | Oct 08 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Loro Piana, Visual Merchandising Specialist - NY, Madison Ave.](https://jobright.ai/jobs/info/689163ccf5ee707a15dbe24b?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
-| **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Assistant, Digital Marketing](https://jobright.ai/jobs/info/68cd5cdd1ad6b16f02898a4d?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/68ae43d6d627244576e52c11?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | On Site | Oct 08 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 08 |
@@ -147,6 +146,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc1bd?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c221af33864f172f9bd594?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 02 |
 | **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68cce0ced11b445e0bee3876?utm_campaign=Marketing&utm_source=1103)** | Nashua, NH | On Site | Oct 02 |
-| **[The Bliss Group](https://www.theblissgrp.com)** | **[PR Associate Account Executive - entry level](https://jobright.ai/jobs/info/6850b271740bdb6692048e7e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Real Estate Market Analyst I](https://jobright.ai/jobs/info/68c1e3044d652f044775b5b4?utm_campaign=Marketing&utm_source=1103)** | Chanhassen, MN | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
