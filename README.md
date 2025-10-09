@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[App Content Coordinator](https://jobright.ai/jobs/info/68cf8846fb49c96ca6ea9466?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 09 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Affiliate Marketing Specialist I](https://jobright.ai/jobs/info/68c9db4995f5211cd2cf5422?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cc095616d00d2beeb188fe?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | Remote | Oct 08 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Wiley](http://www.wiley.com)** | **[Market Development Associate](https://jobright.ai/jobs/info/68cd5bc41ad6b16f028987f7?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 08 |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c87680f9c6ff7aedf0ef2f?utm_campaign=Marketing&utm_source=1103)** | Deer Park, NY | On Site | Oct 08 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Associate Strategist, Influencer & Creator](https://jobright.ai/jobs/info/68cb933e9e3a822f5d248793?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / Worth Ave.](https://jobright.ai/jobs/info/689a300d83d13d1f5b696b83?utm_campaign=Marketing&utm_source=1103)** | Palm Beach, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681e3fbda28a137cdfd2c9a1?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
 | **[dentsu](https://www.dentsu.com)** | **[Senior Associate, National Video Investment](https://jobright.ai/jobs/info/68cd8306b2a74e1837ed7fc4?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c83453983e6768bc54ac22?utm_campaign=Marketing&utm_source=1103)** | Irvine, CA | On Site | Oct 07 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing In House](https://jobright.ai/jobs/info/68cf9d00846f0b04af6834a8?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Associate – Low Carbon Transition & Infrastructure - Marketing Associate](https://jobright.ai/jobs/info/68cd8efdb2a74e1837ed8d52?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c831d795f5211cd2ce258a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 07 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative Front Desk](https://jobright.ai/jobs/info/68c85a13f9c6ff7aedf0d29d?utm_campaign=Marketing&utm_source=1103)** | Big Bear Lake, CA | On Site | Oct 07 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68cd828e1ad6b16f0289aa58?utm_campaign=Marketing&utm_source=1103)** | Lincoln, NE | On Site | Oct 05 |
 | **[Constellation](https://www.helloconstellation.com)** | **[Growth Strategist](https://jobright.ai/jobs/info/67f829d31e757015cbded0e1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 05 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Outreach Strategist (Non-Client Facing)](https://jobright.ai/jobs/info/6839c1d245b91d3ebcd15036?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 05 |
+| **[Dometic](https://www.dometic.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/68d0287cfb49c96ca6eae4f0?utm_campaign=Marketing&utm_source=1103)** | Agoura Hills, CA | On Site | Oct 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cdaad7b2a74e1837edae1a?utm_campaign=Marketing&utm_source=1103)** | Placerville, CA | On Site | Oct 05 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681a3026610bf5159c7a0ad2?utm_campaign=Marketing&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
