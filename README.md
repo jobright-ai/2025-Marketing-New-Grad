@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf5beffb49c96ca6ea8006?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[App Content Coordinator](https://jobright.ai/jobs/info/68cf8846fb49c96ca6ea9466?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 09 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68ae5400d627244576e53212?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
@@ -145,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - Multi Languages (see job post for language requirements)](https://jobright.ai/jobs/info/68cc6acb128dc347fd92484a?utm_campaign=Marketing&utm_source=1103)** | Alberta, AL | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc1bd?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c221af33864f172f9bd594?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 02 |
-| **[Marvin](http://www.marvin.com/)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68cce0ced11b445e0bee3876?utm_campaign=Marketing&utm_source=1103)** | Nashua, NH | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
