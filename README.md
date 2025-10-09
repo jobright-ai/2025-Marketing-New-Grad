@@ -146,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[NELSON Worldwide](https://www.nelsonworldwide.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c222ee4d652f044775d656?utm_campaign=Marketing&utm_source=1103)** | Atlanta Metro | Hybrid | Oct 02 |
 | ↳ | **[Marketing Coordinator](https://jobright.ai/jobs/info/68c21f7933864f172f9bd389?utm_campaign=Marketing&utm_source=1103)** | Alpharetta, GA | Hybrid | Oct 02 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Senior Analyst, TAAG - Ad Operations](https://jobright.ai/jobs/info/68c06ea2702aa35207aad0c2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[Constellation](https://www.helloconstellation.com)** | **[Growth Specialist](https://jobright.ai/jobs/info/686c4cff35584b6542f20c44?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
