@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Tenstorrent](http://tenstorrent.com)** | **[Internal Events Coordinator](https://jobright.ai/jobs/info/68d4dac7fcd3367e8df187f5?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Paid Search & Paid Social (MGM)](https://jobright.ai/jobs/info/68cf246e846f0b04af67f842?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 03 |
 | **[Common Sense Media](http://graphite.org/)** | **[Editorial Operations Associate](https://jobright.ai/jobs/info/68ccd7ef5954791a1d6ff797?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
-| **[Condé Nast](http://www.condenast.com)** | **[Analyst, Ad Effectiveness](https://jobright.ai/jobs/info/68cbb26c9e3a822f5d24ab04?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
