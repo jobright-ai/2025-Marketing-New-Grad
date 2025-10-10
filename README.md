@@ -148,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Feeding America](http://feedingamerica.org)** | **[Coordinator, Integrated Marketing (Chicago/Hybrid)](https://jobright.ai/jobs/info/68d72e71894705799a2f1371?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Internal Events Coordinator](https://jobright.ai/jobs/info/68d4dac7fcd3367e8df187f5?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Paid Search & Paid Social (MGM)](https://jobright.ai/jobs/info/68cf246e846f0b04af67f842?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 03 |
-| **[Common Sense Media](http://graphite.org/)** | **[Editorial Operations Associate](https://jobright.ai/jobs/info/68ccd7ef5954791a1d6ff797?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
