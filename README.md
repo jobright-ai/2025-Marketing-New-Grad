@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[Market Research & Insights Associate](https://jobright.ai/jobs/info/68b0f8ad04557a6c207b8f44?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/689404964c7e851b90ae2197?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Oct 10 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Marketing & Communications Manager](https://jobright.ai/jobs/info/68bf7208702aa35207aa6571?utm_campaign=Marketing&utm_source=1103)** | Santa Barbara, CA | Hybrid | Oct 10 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68adfd36758f2e4ac3010110?utm_campaign=Marketing&utm_source=1103)** | San Mateo, CA | On Site | Oct 09 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc15bf128dc347fd91eb8c?utm_campaign=Marketing&utm_source=1103)** | Alberta, AL | Remote | Oct 09 |
-| ↳ | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc29847342c7623ae602ec?utm_campaign=Marketing&utm_source=1103)** | Ontario, CA | Remote | Oct 09 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Marketing Manager](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166e?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
+| **[Beauty Co-Lab](https://www.linkedin.com/company/93310848)** | **[Senior Associate, Published Media & Content](https://jobright.ai/jobs/info/6892c1a7f5ee707a15dc808e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 09 |
+| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc29847342c7623ae602ec?utm_campaign=Marketing&utm_source=1103)** | Ontario, CA | Remote | Oct 09 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Marketing Associate](https://jobright.ai/jobs/info/68cdaecbe23def7af55bded3?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | On Site | Oct 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Greeter In-House](https://jobright.ai/jobs/info/689230a4f5ee707a15dc3b41?utm_campaign=Marketing&utm_source=1103)** | Waikoloa, HI | On Site | Oct 09 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf5beffb49c96ca6ea8006?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9b37758f2e4ac3006e52?utm_campaign=Marketing&utm_source=1103)** | Greenwood, IN | On Site | Oct 08 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Sioux Falls](https://jobright.ai/jobs/info/68c9647a95f5211cd2cf0135?utm_campaign=Marketing&utm_source=1103)** | Sioux Falls, SD | Hybrid | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3172daf1431824c9b20b?utm_campaign=Marketing&utm_source=1103)** | Middletown, OH | On Site | Oct 08 |
-| **[Axis Communications](http://www.axis.com/)** | **[Field Marketing Coordinator, Mid-Atlantic](https://jobright.ai/jobs/info/68c9ce4595f5211cd2cf498e?utm_campaign=Marketing&utm_source=1103)** | Detroit, MI | On Site | Oct 08 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68ae5400d627244576e53212?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[del Lago Resort & Casino](http://dellagoresort.com)** | **[Marketing Coordinator-NonEx](https://jobright.ai/jobs/info/68cecea8dbd9fb154ede2f0e?utm_campaign=Marketing&utm_source=1103)** | Waterloo, NY | On Site | Oct 03 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Bleacher Report Kicks Social Programmer I (Temporary)](https://jobright.ai/jobs/info/68ceff01fb49c96ca6ea4cc3?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
-| **[Feeding America](http://feedingamerica.org)** | **[Coordinator, Integrated Marketing (Chicago/Hybrid)](https://jobright.ai/jobs/info/68d72e71894705799a2f1371?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 03 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Internal Events Coordinator](https://jobright.ai/jobs/info/68d4dac7fcd3367e8df187f5?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
