@@ -149,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Newport News, VA](https://jobright.ai/jobs/info/68cfefd3dbd9fb154edec04f?utm_campaign=Marketing&utm_source=1103)** | Newport News, VA | Hybrid | Oct 04 |
 | **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68a7ca0bd627244576e2ed73?utm_campaign=Marketing&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Bleacher Report Kicks Social Programmer I (Temporary)](https://jobright.ai/jobs/info/6853d36881868f79ea07cb8b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Communication Specialist at NC State](https://jobright.ai/jobs/info/68c4319014bb275ce019175d?utm_campaign=Marketing&utm_source=1103)** | Raleigh, NC | On Site | Oct 04 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Coordinator - Alamo](https://jobright.ai/jobs/info/68cd5a061ad6b16f0289847e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
