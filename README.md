@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
 | **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
 | **[Dietz and Watson](http://dietzandwatson.com)** | **[PT Brand Ambassador- Seattle, WA](https://jobright.ai/jobs/info/68cb5c389e3a822f5d2455bf?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/68c9926ea0c52d598ea388d7?utm_campaign=Marketing&utm_source=1103)** | Wakefield, MA | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c98?utm_campaign=Marketing&utm_source=1103)** | Slidell, LA | On Site | Oct 10 |
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc98ff128dc347fd927321?utm_campaign=Marketing&utm_source=1103)** | Zachary, LA | On Site | Oct 10 |
@@ -148,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Outreach Strategist (Non-Client Facing)](https://jobright.ai/jobs/info/6839c1d245b91d3ebcd15036?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 05 |
 | **[Dometic](https://www.dometic.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/68d0287cfb49c96ca6eae4f0?utm_campaign=Marketing&utm_source=1103)** | Agoura Hills, CA | On Site | Oct 05 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cdaad7b2a74e1837edae1a?utm_campaign=Marketing&utm_source=1103)** | Placerville, CA | On Site | Oct 05 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681a3026610bf5159c7a0ad2?utm_campaign=Marketing&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
