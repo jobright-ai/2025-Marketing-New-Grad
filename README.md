@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cdaad7b2a74e1837edae1a?utm_campaign=Marketing&utm_source=1103)** | Placerville, CA | On Site | Oct 05 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681a3026610bf5159c7a0ad2?utm_campaign=Marketing&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Newport News, VA](https://jobright.ai/jobs/info/68cfefd3dbd9fb154edec04f?utm_campaign=Marketing&utm_source=1103)** | Newport News, VA | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
