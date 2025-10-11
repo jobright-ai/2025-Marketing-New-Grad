@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc98ff128dc347fd927321?utm_campaign=Marketing&utm_source=1103)** | Zachary, LA | On Site | Oct 10 |
 | **[Mad City Windows & Baths](http://madcitywindows.com)** | **[Field Brand Ambassador - $3000 Sign on Bonus!](https://jobright.ai/jobs/info/68cc473b16d00d2beeb1cbf1?utm_campaign=Marketing&utm_source=1103)** | Springfield, MO | On Site | Oct 10 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - US-Based Remote](https://jobright.ai/jobs/info/68ccb69f7342c7623ae6884d?utm_campaign=Marketing&utm_source=1103)** | North Port-Sarasota Area | Remote | Oct 10 |
@@ -141,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681a3026610bf5159c7a0ad2?utm_campaign=Marketing&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Newport News, VA](https://jobright.ai/jobs/info/68cfefd3dbd9fb154edec04f?utm_campaign=Marketing&utm_source=1103)** | Newport News, VA | Hybrid | Oct 04 |
+| **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68a7ca0bd627244576e2ed73?utm_campaign=Marketing&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Bleacher Report Kicks Social Programmer I (Temporary)](https://jobright.ai/jobs/info/6853d36881868f79ea07cb8b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Communication Specialist at NC State](https://jobright.ai/jobs/info/68c4319014bb275ce019175d?utm_campaign=Marketing&utm_source=1103)** | Raleigh, NC | On Site | Oct 04 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Marketing Coordinator - Alamo](https://jobright.ai/jobs/info/68cd5a061ad6b16f0289847e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
@@ -152,7 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Fisher & Paykel Appliances](https://www.fisherpaykel.com)** | **[Trade Marketing Specialist](https://jobright.ai/jobs/info/68a6afefb6a3617d7fa79557?utm_campaign=Marketing&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 04 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Operations Coordinator](https://jobright.ai/jobs/info/68c9b95395f5211cd2cf35b3?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/689d607683d13d1f5b6af213?utm_campaign=Marketing&utm_source=1103)** | Salinas, CA | On Site | Oct 04 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Specialty Brands - LA](https://jobright.ai/jobs/info/686c80cf35584b65421b1653?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | Hybrid | Oct 04 |
-| **[Condé Nast](http://www.condenast.com)** | **[Digital Inventory Strategy Specialist](https://jobright.ai/jobs/info/68cdb4adb2a74e1837edb88a?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[Penrod](http://penrod.co/)** | **[Marketing Technology Consultant](https://jobright.ai/jobs/info/68c653a7c96a22563eced3dc?utm_campaign=Marketing&utm_source=1103)** | Milwaukee, WI | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
