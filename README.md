@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
+| **[Dietz and Watson](http://dietzandwatson.com)** | **[PT Brand Ambassador- Seattle, WA](https://jobright.ai/jobs/info/68cb5c389e3a822f5d2455bf?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc98ff128dc347fd927321?utm_campaign=Marketing&utm_source=1103)** | Zachary, LA | On Site | Oct 10 |
 | **[Mad City Windows & Baths](http://madcitywindows.com)** | **[Field Brand Ambassador - $3000 Sign on Bonus!](https://jobright.ai/jobs/info/68cc473b16d00d2beeb1cbf1?utm_campaign=Marketing&utm_source=1103)** | Springfield, MO | On Site | Oct 10 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - US-Based Remote](https://jobright.ai/jobs/info/68ccb69f7342c7623ae6884d?utm_campaign=Marketing&utm_source=1103)** | North Port-Sarasota Area | Remote | Oct 10 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Sioux Falls](https://jobright.ai/jobs/info/68c9647a95f5211cd2cf0135?utm_campaign=Marketing&utm_source=1103)** | Sioux Falls, SD | Hybrid | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3172daf1431824c9b20b?utm_campaign=Marketing&utm_source=1103)** | Middletown, OH | On Site | Oct 08 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Digital Marketing Coordinator - Ceremony of Roses](https://jobright.ai/jobs/info/68cf21f7fb49c96ca6ea5fa6?utm_campaign=Marketing&utm_source=1103)** | Culver City, CA | On Site | Oct 08 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68ae5400d627244576e53212?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad346dd627244576e4c219?utm_campaign=Marketing&utm_source=1103)** | Englewood, OH | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
@@ -104,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Wiley](http://www.wiley.com)** | **[Market Development Associate](https://jobright.ai/jobs/info/68cd5bc41ad6b16f028987f7?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c87680f9c6ff7aedf0ef2f?utm_campaign=Marketing&utm_source=1103)** | Deer Park, NY | On Site | Oct 08 |
+| **[icebreaker](http://icebreaker.com)** | **[Smartwool and Icebreaker: Paid Media Coordinator](https://jobright.ai/jobs/info/68c8e6fff9c6ff7aedf1447b?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 07 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Associate Strategist, Influencer & Creator](https://jobright.ai/jobs/info/68cb933e9e3a822f5d248793?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / Worth Ave.](https://jobright.ai/jobs/info/689a300d83d13d1f5b696b83?utm_campaign=Marketing&utm_source=1103)** | Palm Beach, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
@@ -152,6 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Icon Media Direct](http://iconmediadirect.com)** | **[Media Assistant - Expression of Interest](https://jobright.ai/jobs/info/68c4f97e7d0db411427305ee?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[YCharts](http://ycharts.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68c4db8e31e5763f188e427f?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Fisher & Paykel Appliances](https://www.fisherpaykel.com)** | **[Trade Marketing Specialist](https://jobright.ai/jobs/info/68a6afefb6a3617d7fa79557?utm_campaign=Marketing&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 04 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Operations Coordinator](https://jobright.ai/jobs/info/68c9b95395f5211cd2cf35b3?utm_campaign=Marketing&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/689d607683d13d1f5b6af213?utm_campaign=Marketing&utm_source=1103)** | Salinas, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
