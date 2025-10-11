@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
+| **[University of Southern California](http://www.usc.edu)** | **[Assistant Director of Sports Brands & Communications](https://jobright.ai/jobs/info/68cd40351ad6b16f02896ef0?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | On Site | Oct 11 |
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
 | **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
 | **[Dietz and Watson](http://dietzandwatson.com)** | **[PT Brand Ambassador- Seattle, WA](https://jobright.ai/jobs/info/68cb5c389e3a822f5d2455bf?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c98?utm_campaign=Marketing&utm_source=1103)** | Slidell, LA | On Site | Oct 10 |
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc98ff128dc347fd927321?utm_campaign=Marketing&utm_source=1103)** | Zachary, LA | On Site | Oct 10 |
 | **[Mad City Windows & Baths](http://madcitywindows.com)** | **[Field Brand Ambassador - $3000 Sign on Bonus!](https://jobright.ai/jobs/info/68cc473b16d00d2beeb1cbf1?utm_campaign=Marketing&utm_source=1103)** | Springfield, MO | On Site | Oct 10 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad346dd627244576e4c219?utm_campaign=Marketing&utm_source=1103)** | Englewood, OH | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68aedce72daaba398441a953?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Affiliate Marketing Specialist I](https://jobright.ai/jobs/info/68c9db4995f5211cd2cf5422?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
 | **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68917ba5f47efe2113955ae6?utm_campaign=Marketing&utm_source=1103)** | Tacoma, WA | On Site | Oct 08 |
@@ -147,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681a3026610bf5159c7a0ad2?utm_campaign=Marketing&utm_source=1103)** | El Paso, TX | On Site | Oct 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative](https://jobright.ai/jobs/info/68a810ec758f2e4ac3ff088b?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 04 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Newport News, VA](https://jobright.ai/jobs/info/68cfefd3dbd9fb154edec04f?utm_campaign=Marketing&utm_source=1103)** | Newport News, VA | Hybrid | Oct 04 |
-| **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68a7ca0bd627244576e2ed73?utm_campaign=Marketing&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 04 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Bleacher Report Kicks Social Programmer I (Temporary)](https://jobright.ai/jobs/info/6853d36881868f79ea07cb8b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
