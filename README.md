@@ -151,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Gallery Media Group](https://www.gallerymediagroup.com/)** | **[Media Planner](https://jobright.ai/jobs/info/68c8ff7b983e6768bc55506f?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 04 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Controls)](https://jobright.ai/jobs/info/68c3b1a46031587f8458db31?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | On Site | Oct 04 |
 | **[Icon Media Direct](http://iconmediadirect.com)** | **[Media Assistant - Expression of Interest](https://jobright.ai/jobs/info/68c4f97e7d0db411427305ee?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
-| **[YCharts](http://ycharts.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68c4db8e31e5763f188e427f?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
-| **[Fisher & Paykel Appliances](https://www.fisherpaykel.com)** | **[Trade Marketing Specialist](https://jobright.ai/jobs/info/68a6afefb6a3617d7fa79557?utm_campaign=Marketing&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
