@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6855fd527747b075ea87dd14?utm_campaign=Marketing&utm_source=1103)** | Battle Ground, WA | On Site | Oct 06 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
 | **[AIRE Ancient Baths](https://beaire.com)** | **[PR & Marketing Assistant NY](https://jobright.ai/jobs/info/68a8ade6758f2e4ac3ff4526?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Oct 05 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Yakima/Ellensburg/Selah/Prosser](https://jobright.ai/jobs/info/688d30b93a30793eb9649541?utm_campaign=Marketing&utm_source=1103)** | Yakima, WA | Hybrid | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
