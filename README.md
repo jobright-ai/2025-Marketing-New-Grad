@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
+| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
+| ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Digital Marketing Coordinator](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc22?utm_campaign=Marketing&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 11 |
+| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - Native English AND Finnish OR Norwegian OR Swedish](https://jobright.ai/jobs/info/6854303589ed618b448abd32?utm_campaign=Marketing&utm_source=1103)** | Minnesota, United States | On Site | Oct 11 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
 | **[Reckitt](https://www.reckitt.com)** | **[Fall 2025 MBA Marketing Graduate Program - Parsippany, NJ](https://jobright.ai/jobs/info/68ce814edbd9fb154ede0467?utm_campaign=Marketing&utm_source=1103)** | Parsippany, NJ | Hybrid | Oct 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68b18fc8bc187f64e1bd560f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
@@ -102,8 +106,10 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6875a914299cbc74b8756cb9?utm_campaign=Marketing&utm_source=1103)** | Chico, CA | On Site | Oct 08 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6890c249f47efe211395009c?utm_campaign=Marketing&utm_source=1103)** | Tulare, CA | On Site | Oct 08 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Digital Marketing Coordinator - Ceremony of Roses](https://jobright.ai/jobs/info/68cf21f7fb49c96ca6ea5fa6?utm_campaign=Marketing&utm_source=1103)** | Culver City, CA | On Site | Oct 08 |
+| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ca0b19d4187c55157a5a50?utm_campaign=Marketing&utm_source=1103)** | Minnesota, United States | Remote | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad346dd627244576e4c219?utm_campaign=Marketing&utm_source=1103)** | Englewood, OH | On Site | Oct 08 |
+| ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9936d627244576e471ae?utm_campaign=Marketing&utm_source=1103)** | Richmond Hill, GA | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acbba5daf1431824c97af8?utm_campaign=Marketing&utm_source=1103)** | Nashville, TN | On Site | Oct 08 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68aedce72daaba398441a953?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Professional Services II - AMZ24030.1](https://jobright.ai/jobs/info/68cce01377add66568abb0ef?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
@@ -128,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / Palm Beach Gardens, FL](https://jobright.ai/jobs/info/68ca1c96f16e3266d2822ba7?utm_campaign=Marketing&utm_source=1103)** | Palm Beach Gardens, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / 57th Street Flagship](https://jobright.ai/jobs/info/68a88f4f6acf96396f720cac?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
+| **[Active International](http://activeinternational.com)** | **[NOW HIRING: Media Assistants in Digital, Local Media, National, Unwired and Direct Response!](https://jobright.ai/jobs/info/6839e76b268fd00a123455b3?utm_campaign=Marketing&utm_source=1103)** | Pearl River, NY | On Site | Oct 07 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac95a0758f2e4ac3006c39?utm_campaign=Marketing&utm_source=1103)** | Zionsville, IN | On Site | Oct 07 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9a77d627244576e47336?utm_campaign=Marketing&utm_source=1103)** | Marietta, GA | On Site | Oct 07 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acc5cdd627244576e48eb4?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | On Site | Oct 07 |
@@ -150,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915274aa?utm_campaign=Marketing&utm_source=1103)** | Steamboat Springs, CO | On Site | Oct 06 |
 | **[AIRE Ancient Baths](https://beaire.com)** | **[PR & Marketing Assistant NY](https://jobright.ai/jobs/info/68a8ade6758f2e4ac3ff4526?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Oct 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Yakima/Ellensburg/Selah/Prosser](https://jobright.ai/jobs/info/688d30b93a30793eb9649541?utm_campaign=Marketing&utm_source=1103)** | Yakima, WA | Hybrid | Oct 05 |
-| **[CONMED Corporation](http://www.conmed.com/)** | **[Marketing Associate - Shoulder](https://jobright.ai/jobs/info/68a9b9c96acf96396f728b7d?utm_campaign=Marketing&utm_source=1103)** | Largo, FL | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
