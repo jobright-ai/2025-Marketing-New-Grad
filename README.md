@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
 | **[Reckitt](https://www.reckitt.com)** | **[Fall 2025 MBA Marketing Graduate Program - Parsippany, NJ](https://jobright.ai/jobs/info/68ce814edbd9fb154ede0467?utm_campaign=Marketing&utm_source=1103)** | Parsippany, NJ | Hybrid | Oct 11 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68b18fc8bc187f64e1bd560f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
 | **[University of Southern California](http://www.usc.edu)** | **[Assistant Director of Sports Brands & Communications](https://jobright.ai/jobs/info/68cd40351ad6b16f02896ef0?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccd73677add66568aba08b?utm_campaign=Marketing&utm_source=1103)** | Denham Springs, LA | On Site | Oct 10 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Coordinator, Global Product Marketing – Fragrance](https://jobright.ai/jobs/info/68cd18e6b2a74e1837ed23f3?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
