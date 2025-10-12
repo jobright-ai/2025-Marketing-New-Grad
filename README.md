@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac95a0758f2e4ac3006c39?utm_campaign=Marketing&utm_source=1103)** | Zionsville, IN | On Site | Oct 07 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9a77d627244576e47336?utm_campaign=Marketing&utm_source=1103)** | Marietta, GA | On Site | Oct 07 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68acc5cdd627244576e48eb4?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | On Site | Oct 07 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/685791fb8683f4f6bbda5813?utm_campaign=Marketing&utm_source=1103)** | Fort Walton Beach, FL | On Site | Oct 07 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Associate Manager, Marketing & Account Strategy](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/681e3fbda28a137cdfd2c9a1?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
 | **[dentsu](https://www.dentsu.com)** | **[Senior Associate, National Video Investment](https://jobright.ai/jobs/info/68cd8306b2a74e1837ed7fc4?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 07 |
@@ -150,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[AIRE Ancient Baths](https://beaire.com)** | **[PR & Marketing Assistant NY](https://jobright.ai/jobs/info/68a8ade6758f2e4ac3ff4526?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Oct 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Yakima/Ellensburg/Selah/Prosser](https://jobright.ai/jobs/info/688d30b93a30793eb9649541?utm_campaign=Marketing&utm_source=1103)** | Yakima, WA | Hybrid | Oct 05 |
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Marketing Associate - Shoulder](https://jobright.ai/jobs/info/68a9b9c96acf96396f728b7d?utm_campaign=Marketing&utm_source=1103)** | Largo, FL | On Site | Oct 05 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/685638e73c3306bc38488d0b?utm_campaign=Marketing&utm_source=1103)** | Littleton, CO | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
