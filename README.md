@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
 | **[Reckitt](https://www.reckitt.com)** | **[Fall 2025 MBA Marketing Graduate Program - Parsippany, NJ](https://jobright.ai/jobs/info/68ce814edbd9fb154ede0467?utm_campaign=Marketing&utm_source=1103)** | Parsippany, NJ | Hybrid | Oct 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68b18fc8bc187f64e1bd560f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Coordinator, Global Product Marketing – Fragrance](https://jobright.ai/jobs/info/68cd18e6b2a74e1837ed23f3?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
 | **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
-| **[Dietz and Watson](http://dietzandwatson.com)** | **[PT Brand Ambassador- Seattle, WA](https://jobright.ai/jobs/info/68cb5c389e3a822f5d2455bf?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/68c9926ea0c52d598ea388d7?utm_campaign=Marketing&utm_source=1103)** | Wakefield, MA | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c98?utm_campaign=Marketing&utm_source=1103)** | Slidell, LA | On Site | Oct 10 |
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
