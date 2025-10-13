@@ -168,5 +168,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative Front Desk](https://jobright.ai/jobs/info/68c85a13f9c6ff7aedf0d29d?utm_campaign=Marketing&utm_source=1103)** | Big Bear Lake, CA | On Site | Oct 07 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[New Grad Product Marketing Engineer](https://jobright.ai/jobs/info/68ce2d02e23def7af55c2dfa?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[FHIA Remodeling](http://fhaproducts.com)** | **[Retail Brand Ambassador- $2000 Sign-On Bonus](https://jobright.ai/jobs/info/6838fa660c4c3e58a2577964?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 06 |
-| **[Allied OMS](https://www.alliedoms.com/)** | **[Market Development Representative](https://jobright.ai/jobs/info/68d73396d3fe025a3015f76e?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
