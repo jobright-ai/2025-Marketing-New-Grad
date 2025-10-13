@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
+| **[Shenzhen SKE Technology Co.](http://www.sikaryvapor.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d10797f1976376178f234a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6826da4a5d451099c23f3262?utm_campaign=Marketing&utm_source=1103)** | Santa Fe, NM | On Site | Oct 12 |
 | ↳ | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Sarasota/Venice/Bradenton](https://jobright.ai/jobs/info/68c3961cb8c22d38284734cf?utm_campaign=Marketing&utm_source=1103)** | Bradenton, FL | Hybrid | Oct 12 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | **[Ares Management](http://www.aresmgmt.com)** | **[Associate, Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/6843844dcaf5a0005d4026e2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde421e23def7af55bff9e?utm_campaign=Marketing&utm_source=1103)** | Conroe, TX | On Site | Oct 12 |
+| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde570b2a74e1837edd28d?utm_campaign=Marketing&utm_source=1103)** | North Houston, TX | On Site | Oct 12 |
+| ↳ | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde421e23def7af55bff9e?utm_campaign=Marketing&utm_source=1103)** | Conroe, TX | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682efb054b06715cb79f9106?utm_campaign=Marketing&utm_source=1103)** | Kenner, LA | On Site | Oct 11 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/682f1d1d2adba239cf73ef29?utm_campaign=Marketing&utm_source=1103)** | Harahan, LA | On Site | Oct 11 |
 | **[General Mills](http://www.generalmills.com)** | **[Associate Brand Manager - Campus Recruiting](https://jobright.ai/jobs/info/689530b24ed2ea559ca54023?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Marketing Associate](https://jobright.ai/jobs/info/68cdaecbe23def7af55bded3?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | On Site | Oct 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Greeter In-House](https://jobright.ai/jobs/info/689230a4f5ee707a15dc3b41?utm_campaign=Marketing&utm_source=1103)** | Waikoloa, HI | On Site | Oct 09 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf5beffb49c96ca6ea8006?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6876ba05ae2f413e4a5b2ef2?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 09 |
 | **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68cd082ab2a74e1837ed0ab2?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5ab?utm_campaign=Marketing&utm_source=1103)** | Kettering, OH | On Site | Oct 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative In House Pre Arrival-HGV](https://jobright.ai/jobs/info/68cba765ba798c1a501d36fc?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 08 |
@@ -127,7 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Affiliate Marketing Specialist I](https://jobright.ai/jobs/info/68c9db4995f5211cd2cf5422?utm_campaign=Marketing&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
 | **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68917ba5f47efe2113955ae6?utm_campaign=Marketing&utm_source=1103)** | Tacoma, WA | On Site | Oct 08 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Loro Piana, Visual Merchandising Specialist - NY, Madison Ave.](https://jobright.ai/jobs/info/689163ccf5ee707a15dbe24b?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
+| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ca632e46caff4db51feaea?utm_campaign=Marketing&utm_source=1103)** | Lebanon, IN | On Site | Oct 08 |
 | **[WEX](http://www.wexinc.com)** | **[AI Practice Lead, Product Marketing](https://jobright.ai/jobs/info/68d4b5b6fcd3367e8df172fa?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | Remote | Oct 08 |
+| **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ccef01d11b445e0bee481a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/68ae43d6d627244576e52c11?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | On Site | Oct 08 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 08 |
