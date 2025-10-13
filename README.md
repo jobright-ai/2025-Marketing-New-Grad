@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Merchandise Analyst](https://jobright.ai/jobs/info/68c954b4f9c6ff7aedf190d4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 13 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
 | **[Shenzhen SKE Technology Co.](http://www.sikaryvapor.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d10797f1976376178f234a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6826da4a5d451099c23f3262?utm_campaign=Marketing&utm_source=1103)** | Santa Fe, NM | On Site | Oct 12 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68b18fc8bc187f64e1bd560f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
 | **[University of Southern California](http://www.usc.edu)** | **[Assistant Director of Sports Brands & Communications](https://jobright.ai/jobs/info/68cd40351ad6b16f02896ef0?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccd73677add66568aba08b?utm_campaign=Marketing&utm_source=1103)** | Denham Springs, LA | On Site | Oct 10 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Marketing and Events Coordinator at NC State](https://jobright.ai/jobs/info/68cc364516d00d2beeb1be43?utm_campaign=Marketing&utm_source=1103)** | Raleigh, NC | On Site | Oct 10 |
 | **[Coach](https://uk.coach.com)** | **[Merchandising Assistant, Licensing, Soft Accessories](https://jobright.ai/jobs/info/68cd0c23b2a74e1837ed163d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Coordinator, Global Product Marketing – Fragrance](https://jobright.ai/jobs/info/68cd18e6b2a74e1837ed23f3?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
@@ -168,5 +168,4 @@ For a complete list, click the following sortable link below:
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Merchandising Coordinator](https://jobright.ai/jobs/info/68c831d795f5211cd2ce258a?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 07 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative Front Desk](https://jobright.ai/jobs/info/68c85a13f9c6ff7aedf0d29d?utm_campaign=Marketing&utm_source=1103)** | Big Bear Lake, CA | On Site | Oct 07 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[New Grad Product Marketing Engineer](https://jobright.ai/jobs/info/68ce2d02e23def7af55c2dfa?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
-| **[FHIA Remodeling](http://fhaproducts.com)** | **[Retail Brand Ambassador- $2000 Sign-On Bonus](https://jobright.ai/jobs/info/6838fa660c4c3e58a2577964?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
