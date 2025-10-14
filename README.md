@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68d1985317554c2d9eedd23b?utm_campaign=Marketing&utm_source=1103)** | Fall River, MA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
 | ↳ | **[Jr. Social Media Specialist Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d86421a?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cc095616d00d2beeb188fe?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | Remote | Oct 08 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c87680f9c6ff7aedf0ef2f?utm_campaign=Marketing&utm_source=1103)** | Deer Park, NY | On Site | Oct 08 |
-| **[The Leukemia & Lymphoma Society](http://www.lls.org)** | **[Campaign Development Specialist - Washington DC, Northern VA, Maryland](https://jobright.ai/jobs/info/68cd32c61ad6b16f02896621?utm_campaign=Marketing&utm_source=1103)** | Alexandria, VA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
