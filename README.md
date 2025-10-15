@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
+| **[FHIA Remodeling](http://fhaproducts.com)** | **[Management Trainee Opportunity - Field Marketing](https://jobright.ai/jobs/info/68b62d9cbc187f64e1be8f4a?utm_campaign=Marketing&utm_source=1103)** | Fort Lauderdale, FL | On Site | Oct 14 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Market Research Associate](https://jobright.ai/jobs/info/68cba0fe9e3a822f5d249408?utm_campaign=Marketing&utm_source=1103)** | Port Washington, NY | On Site | Oct 14 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68d1985317554c2d9eedd23b?utm_campaign=Marketing&utm_source=1103)** | Fall River, MA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
@@ -152,9 +153,4 @@ For a complete list, click the following sortable link below:
 | **[PBK](https://pbk.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68917ba5f47efe2113955ae6?utm_campaign=Marketing&utm_source=1103)** | Tacoma, WA | On Site | Oct 08 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Loro Piana, Visual Merchandising Specialist - NY, Madison Ave.](https://jobright.ai/jobs/info/689163ccf5ee707a15dbe24b?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 08 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68cda02f1ad6b16f0289ca17?utm_campaign=Marketing&utm_source=1103)** | Lafayette, IN | On Site | Oct 08 |
-| ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ca632e46caff4db51feaea?utm_campaign=Marketing&utm_source=1103)** | Lebanon, IN | On Site | Oct 08 |
-| **[WEX](http://www.wexinc.com)** | **[AI Practice Lead, Product Marketing](https://jobright.ai/jobs/info/68d4b5b6fcd3367e8df172fa?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | Remote | Oct 08 |
-| **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ccef01d11b445e0bee481a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
-| **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/68ae43d6d627244576e52c11?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | On Site | Oct 08 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
