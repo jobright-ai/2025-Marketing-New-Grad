@@ -148,8 +148,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6875a914299cbc74b8756cb9?utm_campaign=Marketing&utm_source=1103)** | Chico, CA | On Site | Oct 08 |
 | ↳ | **[Merchandising Specialist](https://jobright.ai/jobs/info/6890c249f47efe211395009c?utm_campaign=Marketing&utm_source=1103)** | Tulare, CA | On Site | Oct 08 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Digital Marketing Coordinator - Ceremony of Roses](https://jobright.ai/jobs/info/68cf21f7fb49c96ca6ea5fa6?utm_campaign=Marketing&utm_source=1103)** | Culver City, CA | On Site | Oct 08 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ca0b19d4187c55157a5a50?utm_campaign=Marketing&utm_source=1103)** | Minnesota, United States | Remote | Oct 08 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ccfd7e77add66568abd3f2?utm_campaign=Marketing&utm_source=1103)** | Columbia City, IN | On Site | Oct 08 |
-| ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad346dd627244576e4c219?utm_campaign=Marketing&utm_source=1103)** | Englewood, OH | On Site | Oct 08 |
-| ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9936d627244576e471ae?utm_campaign=Marketing&utm_source=1103)** | Richmond Hill, GA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
