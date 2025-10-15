@@ -157,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ccef01d11b445e0bee481a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/68ae43d6d627244576e52c11?utm_campaign=Marketing&utm_source=1103)** | Charlotte, NC | On Site | Oct 08 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Growth Strategy](https://jobright.ai/jobs/info/68cc1a4d128dc347fd91f19e?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6890c099f5ee707a15db964f?utm_campaign=Marketing&utm_source=1103)** | Stockton, CA | On Site | Oct 08 |
-| **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ca63b85f9f0336447dd0c2?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Remote | Oct 08 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cc095616d00d2beeb188fe?utm_campaign=Marketing&utm_source=1103)** | Pennsylvania, United States | Remote | Oct 08 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68ae149a758f2e4ac3011204?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Field Marketing Representative](https://jobright.ai/jobs/info/68c87680f9c6ff7aedf0ef2f?utm_campaign=Marketing&utm_source=1103)** | Deer Park, NY | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
