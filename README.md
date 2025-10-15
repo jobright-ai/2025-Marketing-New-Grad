@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGB Group](http://bgbgroup.com/)** | **[Copywriter](https://jobright.ai/jobs/info/68d322adf0d9af73038df4e4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Edina, MN](https://jobright.ai/jobs/info/68cc251d128dc347fd91ff32?utm_campaign=Marketing&utm_source=1103)** | Edina, MN | Hybrid | Oct 14 |
 | ↳ | **[Brand Ambassador / Oak Brook, IL](https://jobright.ai/jobs/info/68d31a088c62e63bc7fddd21?utm_campaign=Marketing&utm_source=1103)** | Oak Brook, IL | Hybrid | Oct 14 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[General Mills](http://www.generalmills.com)** | **[Associate Brand Manager - Campus Recruiting](https://jobright.ai/jobs/info/689530b24ed2ea559ca54023?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Social Media Producer](https://jobright.ai/jobs/info/68b1043fe815524ae11fa983?utm_campaign=Marketing&utm_source=1103)** | Rockford, IL | Hybrid | Oct 11 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Digital Marketing Coordinator](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc22?utm_campaign=Marketing&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 11 |
+| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde51a1ad6b16f0289fc26?utm_campaign=Marketing&utm_source=1103)** | Cypress, TX | On Site | Oct 11 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - Native English AND Finnish OR Norwegian OR Swedish](https://jobright.ai/jobs/info/6854303589ed618b448abd32?utm_campaign=Marketing&utm_source=1103)** | Minnesota, United States | On Site | Oct 11 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
 | **[Reckitt](https://www.reckitt.com)** | **[Fall 2025 MBA Marketing Graduate Program - Parsippany, NJ](https://jobright.ai/jobs/info/68ce814edbd9fb154ede0467?utm_campaign=Marketing&utm_source=1103)** | Parsippany, NJ | Hybrid | Oct 11 |
@@ -142,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5ab?utm_campaign=Marketing&utm_source=1103)** | Kettering, OH | On Site | Oct 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative In House Pre Arrival-HGV](https://jobright.ai/jobs/info/68cba765ba798c1a501d36fc?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 08 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f997f61c922772a71987?utm_campaign=Marketing&utm_source=1103)** | Ohio, United States | Remote | Oct 08 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Email Marketing Specialist](https://jobright.ai/jobs/info/68cc40fb16d00d2beeb1c880?utm_campaign=Marketing&utm_source=1103)** | New York, United States | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
