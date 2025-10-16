@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Social Media Ads and Analytics Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8641fe?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Denver, CO](https://jobright.ai/jobs/info/68a3c9c7403ad4363b1c3b1a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
 | ↳ | **[Brand Ambassador / Austin, TX](https://jobright.ai/jobs/info/68c9d9d184fc1901fd419cc3?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Oct 15 |
 | **[Midtronics](https://www.midtronics.com/)** | **[Associate Product Marketing Manager](https://jobright.ai/jobs/info/68d34ccf17554c2d9eeefa01?utm_campaign=Marketing&utm_source=1103)** | Willowbrook, IL | Hybrid | Oct 15 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc98ff128dc347fd927321?utm_campaign=Marketing&utm_source=1103)** | Zachary, LA | On Site | Oct 10 |
 | **[Mad City Windows & Baths](http://madcitywindows.com)** | **[Field Brand Ambassador - $3000 Sign on Bonus!](https://jobright.ai/jobs/info/68cc473b16d00d2beeb1cbf1?utm_campaign=Marketing&utm_source=1103)** | Springfield, MO | On Site | Oct 10 |
-| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - US-Based Remote](https://jobright.ai/jobs/info/68ccb69f7342c7623ae6884d?utm_campaign=Marketing&utm_source=1103)** | North Port-Sarasota Area | Remote | Oct 10 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Market Research & Insights Associate](https://jobright.ai/jobs/info/68b0f8ad04557a6c207b8f44?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Oct 10 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - South Bend, IN](https://jobright.ai/jobs/info/68afc4b1e723db6c9b7b3236?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | Hybrid | Oct 10 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Associate, Campaign Operations](https://jobright.ai/jobs/info/68cce92fd11b445e0bee44a8?utm_campaign=Marketing&utm_source=1103)** | Princeton, NJ | On Site | Oct 10 |
