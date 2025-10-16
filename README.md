@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Social Media Ads and Analytics Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8641fe?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
+| **[J.Crew](http://www.jcrew.com)** | **[Digital Content Analyst](https://jobright.ai/jobs/info/68d49100ffc1276de3fdc02d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 16 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Denver, CO](https://jobright.ai/jobs/info/68a3c9c7403ad4363b1c3b1a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
 | ↳ | **[Brand Ambassador / Austin, TX](https://jobright.ai/jobs/info/68c9d9d184fc1901fd419cc3?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Oct 15 |
 | **[Midtronics](https://www.midtronics.com/)** | **[Associate Product Marketing Manager](https://jobright.ai/jobs/info/68d34ccf17554c2d9eeefa01?utm_campaign=Marketing&utm_source=1103)** | Willowbrook, IL | Hybrid | Oct 15 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Montblanc](http://www.montblanc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68974e7773b3a600fe896974?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Oct 12 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
+| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6826da4a5d451099c23f3262?utm_campaign=Marketing&utm_source=1103)** | Santa Fe, NM | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ceaf5cdbd9fb154ede2274?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Framework - Construction Recruiting](http://www.frameworkus.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68dad90507c157682e56e4f3?utm_campaign=Marketing&utm_source=1103)** | Orlando, FL | On Site | Oct 10 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - US-Based Remote](https://jobright.ai/jobs/info/68cce6d05954791a1d700bc1?utm_campaign=Marketing&utm_source=1103)** | Texas, United States | Remote | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/68c9926ea0c52d598ea388d7?utm_campaign=Marketing&utm_source=1103)** | Wakefield, MA | On Site | Oct 10 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc48af7342c7623ae62130?utm_campaign=Marketing&utm_source=1103)** | Hattiesburg, MS | On Site | Oct 10 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative - Off Property Contact](https://jobright.ai/jobs/info/68c798c2c96a22563ecf2c9b?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 10 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c98?utm_campaign=Marketing&utm_source=1103)** | Slidell, LA | On Site | Oct 10 |
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
