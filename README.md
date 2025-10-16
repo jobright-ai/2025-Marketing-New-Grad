@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Social Media Ads and Analytics Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8641fe?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Paid Social Media Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864262?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
+| ↳ | **[Jr. Social Media Ads and Analytics Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8641fe?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
 | **[J.Crew](http://www.jcrew.com)** | **[Digital Content Analyst](https://jobright.ai/jobs/info/68d49100ffc1276de3fdc02d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 16 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Social, Cultural, and Constitutional Studies](https://jobright.ai/jobs/info/687ef87adb19f31cf0d6e780?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Oct 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Denver, CO](https://jobright.ai/jobs/info/68a3c9c7403ad4363b1c3b1a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
 | ↳ | **[Brand Ambassador / Austin, TX](https://jobright.ai/jobs/info/68c9d9d184fc1901fd419cc3?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Oct 15 |
 | **[Midtronics](https://www.midtronics.com/)** | **[Associate Product Marketing Manager](https://jobright.ai/jobs/info/68d34ccf17554c2d9eeefa01?utm_campaign=Marketing&utm_source=1103)** | Willowbrook, IL | Hybrid | Oct 15 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/6893f550f47efe2113968150?utm_campaign=Marketing&utm_source=1103)** | Southfield, MI | On Site | Oct 10 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Marketing & Communications Manager](https://jobright.ai/jobs/info/68bf7208702aa35207aa6571?utm_campaign=Marketing&utm_source=1103)** | Santa Barbara, CA | Hybrid | Oct 10 |
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Corporate Markets Specialist](https://jobright.ai/jobs/info/68c79ddb7d0db4114273e966?utm_campaign=Marketing&utm_source=1103)** | Fargo, ND | On Site | Oct 10 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing OPC](https://jobright.ai/jobs/info/68aeb68f7bcb7608b3d28ef8?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 09 |
-| **[University of Missouri-Saint Louis](http://www.umsl.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/68cba701ba798c1a501d360e?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
