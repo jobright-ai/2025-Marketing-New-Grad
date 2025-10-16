@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b431651ade4306aa63e09b?utm_campaign=Marketing&utm_source=1103)** | Plymouth, MN | On Site | Oct 13 |
 | **[Macy's](http://www.macysjobs.com)** | **[Merchandise Analyst](https://jobright.ai/jobs/info/68c954b4f9c6ff7aedf190d4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 13 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
-| **[Shenzhen SKE Technology Co.](http://www.sikaryvapor.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d10797f1976376178f234a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Door to Door Marketing Associate](https://jobright.ai/jobs/info/6842ee59dd64fe988321534e?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
 | **[Montblanc](http://www.montblanc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68974e7773b3a600fe896974?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Oct 12 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
@@ -147,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Corporate Markets Specialist](https://jobright.ai/jobs/info/68c79ddb7d0db4114273e966?utm_campaign=Marketing&utm_source=1103)** | Fargo, ND | On Site | Oct 10 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing OPC](https://jobright.ai/jobs/info/68aeb68f7bcb7608b3d28ef8?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 09 |
 | **[University of Missouri-Saint Louis](http://www.umsl.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/68cba701ba798c1a501d360e?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | On Site | Oct 09 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[In House Marketing Concierge](https://jobright.ai/jobs/info/68ce7e70dbd9fb154ede02db?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
