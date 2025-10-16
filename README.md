@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Content Marketing Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864249?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Social Media Advertising Strategist](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17dc9?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Digital Public Relations Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86422b?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
+| ↳ | **[Jr. Marketing Analytics Specialist - Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d8642dd?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Facebook Ads Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86428d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Edina, MN](https://jobright.ai/jobs/info/68cc251d128dc347fd91ff32?utm_campaign=Marketing&utm_source=1103)** | Edina, MN | Hybrid | Oct 14 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
 | **[Shenzhen SKE Technology Co.](http://www.sikaryvapor.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d10797f1976376178f234a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Door to Door Marketing Associate](https://jobright.ai/jobs/info/6842ee59dd64fe988321534e?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
+| **[Montblanc](http://www.montblanc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68974e7773b3a600fe896974?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Oct 12 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6826da4a5d451099c23f3262?utm_campaign=Marketing&utm_source=1103)** | Santa Fe, NM | On Site | Oct 12 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Assistant Director of Sports Brands & Communications](https://jobright.ai/jobs/info/68cd40351ad6b16f02896ef0?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccd73677add66568aba08b?utm_campaign=Marketing&utm_source=1103)** | Denham Springs, LA | On Site | Oct 10 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68ccacca128dc347fd92811a?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Oct 10 |
+| **[ByHeart](https://byheart.com)** | **[Paid Social Media Strategist](https://jobright.ai/jobs/info/68cc5c94128dc347fd92388b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Coach](https://uk.coach.com)** | **[Merchandising Assistant, Licensing, Soft Accessories](https://jobright.ai/jobs/info/68cd0c23b2a74e1837ed163d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Coordinator, Global Product Marketing – Fragrance](https://jobright.ai/jobs/info/68cd18e6b2a74e1837ed23f3?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/6894049ea9199876488e1df7?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
@@ -141,8 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[In House Marketing Concierge](https://jobright.ai/jobs/info/68ce7e70dbd9fb154ede02db?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 09 |
 | ↳ | **[Marketing Greeter In House](https://jobright.ai/jobs/info/68cc78327342c7623ae655bf?utm_campaign=Marketing&utm_source=1103)** | Lahaina, HI | On Site | Oct 09 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Marketing Analyst](https://jobright.ai/jobs/info/68adfd36758f2e4ac3010110?utm_campaign=Marketing&utm_source=1103)** | San Mateo, CA | On Site | Oct 09 |
-| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc15bf128dc347fd91eb8c?utm_campaign=Marketing&utm_source=1103)** | Alberta, AL | Remote | Oct 09 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Marketing Manager](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166e?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
-| **[Beauty Co-Lab](https://www.linkedin.com/company/93310848)** | **[Senior Associate, Published Media & Content](https://jobright.ai/jobs/info/6892c1a7f5ee707a15dc808e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 09 |
-| **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc29847342c7623ae602ec?utm_campaign=Marketing&utm_source=1103)** | Ontario, CA | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
