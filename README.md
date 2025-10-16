@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[QuotaPath](https://www.quotapath.com/)** | **[Marketing Events Coordinator](https://jobright.ai/jobs/info/68d2e4338c62e63bc7fdb3a1?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68d2f8f8f0d9af73038dd9de?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Content Marketing Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864249?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
+| ↳ | **[Jr. Social Media Advertising Strategist](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17dc9?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Digital Public Relations Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86422b?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Facebook Ads Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86428d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Search SEO](https://jobright.ai/jobs/info/68ce672b846f0b04af6797df?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde421e23def7af55bff9e?utm_campaign=Marketing&utm_source=1103)** | Conroe, TX | On Site | Oct 12 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Media Delivery Associate](https://jobright.ai/jobs/info/68cd9fc7b2a74e1837ed9f75?utm_campaign=Marketing&utm_source=1103)** | Westminster, CO | On Site | Oct 11 |
+| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde51a1ad6b16f0289fc25?utm_campaign=Marketing&utm_source=1103)** | Cypress, TX | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682efb054b06715cb79f9106?utm_campaign=Marketing&utm_source=1103)** | Kenner, LA | On Site | Oct 11 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/682f1d1d2adba239cf73ef29?utm_campaign=Marketing&utm_source=1103)** | Harahan, LA | On Site | Oct 11 |
 | **[General Mills](http://www.generalmills.com)** | **[Associate Brand Manager - Campus Recruiting](https://jobright.ai/jobs/info/689530b24ed2ea559ca54023?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
@@ -143,8 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Marketing Manager](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166e?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
 | **[Beauty Co-Lab](https://www.linkedin.com/company/93310848)** | **[Senior Associate, Published Media & Content](https://jobright.ai/jobs/info/6892c1a7f5ee707a15dc808e?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 09 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - English - Remote Canada/US](https://jobright.ai/jobs/info/68cc29847342c7623ae602ec?utm_campaign=Marketing&utm_source=1103)** | Ontario, CA | Remote | Oct 09 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Marketing Associate](https://jobright.ai/jobs/info/68cdaecbe23def7af55bded3?utm_campaign=Marketing&utm_source=1103)** | Philadelphia, PA | On Site | Oct 09 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Greeter In-House](https://jobright.ai/jobs/info/689230a4f5ee707a15dc3b41?utm_campaign=Marketing&utm_source=1103)** | Waikoloa, HI | On Site | Oct 09 |
-| **[ByteDance](http://bytedance.com)** | **[Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf5beffb49c96ca6ea8006?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6876ba05ae2f413e4a5b2ef2?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
