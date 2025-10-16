@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/682676b624d6a8dc428d529f?utm_campaign=Marketing&utm_source=1103)** | Texas, United States | On Site | Oct 15 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Copywriter](https://jobright.ai/jobs/info/68d322adf0d9af73038df4e4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
+| **[QuotaPath](https://www.quotapath.com/)** | **[Marketing Events Coordinator](https://jobright.ai/jobs/info/68d2e4338c62e63bc7fdb3a1?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
+| **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68d2f8f8f0d9af73038dd9de?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Public Relations Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86422b?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Facebook Ads Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86428d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Edina, MN](https://jobright.ai/jobs/info/68cc251d128dc347fd91ff32?utm_campaign=Marketing&utm_source=1103)** | Edina, MN | Hybrid | Oct 14 |
-| ↳ | **[Brand Ambassador / Oak Brook, IL](https://jobright.ai/jobs/info/68d31a088c62e63bc7fddd21?utm_campaign=Marketing&utm_source=1103)** | Oak Brook, IL | Hybrid | Oct 14 |
 | ↳ | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6802d160872756c7c648c643?utm_campaign=Marketing&utm_source=1103)** | Pflugerville, TX | On Site | Oct 14 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Marketing Associate (Demand Generation)](https://jobright.ai/jobs/info/68ccd8fbd11b445e0bee2c08?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 14 |
@@ -80,7 +82,8 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
 | **[Shenzhen SKE Technology Co.](http://www.sikaryvapor.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d10797f1976376178f234a?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Door to Door Marketing Associate](https://jobright.ai/jobs/info/6842ee59dd64fe988321534e?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6826da4a5d451099c23f3262?utm_campaign=Marketing&utm_source=1103)** | Santa Fe, NM | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ceaf5cdbd9fb154ede2274?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
@@ -143,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6876ba05ae2f413e4a5b2ef2?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 09 |
 | **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68cd082ab2a74e1837ed0ab2?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f7e2f16e3266d282153e?utm_campaign=Marketing&utm_source=1103)** | Colorado, United States | Remote | Oct 09 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5ab?utm_campaign=Marketing&utm_source=1103)** | Kettering, OH | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
