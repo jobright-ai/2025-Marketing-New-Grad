@@ -58,12 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Denver, CO](https://jobright.ai/jobs/info/68a3c9c7403ad4363b1c3b1a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
+| ↳ | **[Brand Ambassador / Austin, TX](https://jobright.ai/jobs/info/68c9d9d184fc1901fd419cc3?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Oct 15 |
 | **[Midtronics](https://www.midtronics.com/)** | **[Associate Product Marketing Manager](https://jobright.ai/jobs/info/68d34ccf17554c2d9eeefa01?utm_campaign=Marketing&utm_source=1103)** | Willowbrook, IL | Hybrid | Oct 15 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Influencer Marketing Coordinator](https://jobright.ai/jobs/info/68d3132b17554c2d9eeedab2?utm_campaign=Marketing&utm_source=1103)** | Carson, CA | Hybrid | Oct 15 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/682676b624d6a8dc428d529f?utm_campaign=Marketing&utm_source=1103)** | Texas, United States | On Site | Oct 15 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Copywriter](https://jobright.ai/jobs/info/68d322adf0d9af73038df4e4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[QuotaPath](https://www.quotapath.com/)** | **[Marketing Events Coordinator](https://jobright.ai/jobs/info/68d2e4338c62e63bc7fdb3a1?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68d2f8f8f0d9af73038dd9de?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
+| **[Los Angeles Tourism & Convention Board](https://www.discoverlosangeles.com/)** | **[Coordinator, Sales Marketing](https://jobright.ai/jobs/info/687e9aa4db19f31cf0d6b9d5?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 15 |
+| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68d29d3af0d9af73038d9bb8?utm_campaign=Marketing&utm_source=1103)** | Frisco, TX | On Site | Oct 15 |
+| **[Scorpion](https://www.scorpion.co)** | **[Ranking Strategist](https://jobright.ai/jobs/info/68d2822c17554c2d9eee8001?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Content Marketing Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864249?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Social Media Advertising Strategist](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17dc9?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Diageo](http://www.diageo.com)** | **[eCommerce Analyst](https://jobright.ai/jobs/info/68d2e01a8c62e63bc7fdb0dc?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 15 |
@@ -144,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing OPC](https://jobright.ai/jobs/info/68aeb68f7bcb7608b3d28ef8?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 09 |
 | **[University of Missouri-Saint Louis](http://www.umsl.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/68cba701ba798c1a501d360e?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | On Site | Oct 09 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[In House Marketing Concierge](https://jobright.ai/jobs/info/68ce7e70dbd9fb154ede02db?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 09 |
-| ↳ | **[Marketing Greeter In House](https://jobright.ai/jobs/info/68cc78327342c7623ae655bf?utm_campaign=Marketing&utm_source=1103)** | Lahaina, HI | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
