@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Coach](https://uk.coach.com)** | **[Merchandising Assistant, Licensing, Soft Accessories](https://jobright.ai/jobs/info/68cd0c23b2a74e1837ed163d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/6894049ea9199876488e1df7?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc9ae97342c7623ae671db?utm_campaign=Marketing&utm_source=1103)** | Hammond, LA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
