@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Assistant Director of Sports Brands & Communications](https://jobright.ai/jobs/info/68cd40351ad6b16f02896ef0?utm_campaign=Marketing&utm_source=1103)** | LA Metro Area | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ccd73677add66568aba08b?utm_campaign=Marketing&utm_source=1103)** | Denham Springs, LA | On Site | Oct 10 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68ccacca128dc347fd92811a?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Oct 10 |
-| **[ByHeart](https://byheart.com)** | **[Paid Social Media Strategist](https://jobright.ai/jobs/info/68cc5c94128dc347fd92388b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
