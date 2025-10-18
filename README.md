@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[J.Crew](http://www.jcrew.com)** | **[Digital Content Analyst](https://jobright.ai/jobs/info/68d49100ffc1276de3fdc02d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 16 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Analyst, SEM](https://jobright.ai/jobs/info/68cf047cfb49c96ca6ea5200?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Social, Cultural, and Constitutional Studies](https://jobright.ai/jobs/info/687ef87adb19f31cf0d6e780?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Oct 15 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/680c0981b5da14e0bb9225cb?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | On Site | Oct 15 |
 | **[Empower](https://driveempower.com/)** | **[Field Organizer](https://jobright.ai/jobs/info/68898f6faab47a17f6702a01?utm_campaign=Marketing&utm_source=1103)** | Washington, DC | On Site | Oct 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Denver, CO](https://jobright.ai/jobs/info/68a3c9c7403ad4363b1c3b1a?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
 | ↳ | **[Brand Ambassador / Austin, TX](https://jobright.ai/jobs/info/68c9d9d184fc1901fd419cc3?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Oct 15 |
@@ -124,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Project Management Marketing Coordinator](https://jobright.ai/jobs/info/68cecbe1fb49c96ca6ea3950?utm_campaign=Marketing&utm_source=1103)** | Southfield, MI | On Site | Oct 11 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Media Delivery Associate](https://jobright.ai/jobs/info/68cd9fc7b2a74e1837ed9f75?utm_campaign=Marketing&utm_source=1103)** | Westminster, CO | On Site | Oct 11 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde51a1ad6b16f0289fc25?utm_campaign=Marketing&utm_source=1103)** | Cypress, TX | On Site | Oct 11 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915273e6?utm_campaign=Marketing&utm_source=1103)** | Santa Ana, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
