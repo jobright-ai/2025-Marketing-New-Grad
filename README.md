@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682efb054b06715cb79f9106?utm_campaign=Marketing&utm_source=1103)** | Kenner, LA | On Site | Oct 11 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cd32051ad6b16f0289654e?utm_campaign=Marketing&utm_source=1103)** | Buzzards Bay, MA | On Site | Oct 11 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/682f1d1d2adba239cf73ef29?utm_campaign=Marketing&utm_source=1103)** | Harahan, LA | On Site | Oct 11 |
-| **[General Mills](http://www.generalmills.com)** | **[Associate Brand Manager - Campus Recruiting](https://jobright.ai/jobs/info/689530b24ed2ea559ca54023?utm_campaign=Marketing&utm_source=1103)** | Minneapolis, MN | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
