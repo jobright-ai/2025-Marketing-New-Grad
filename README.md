@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d5f6fc1f7fb2169ab14f69?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 17 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d42d50ffc1276de3fd7ea1?utm_campaign=Marketing&utm_source=1103)** | Dothan, AL | On Site | Oct 16 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 16 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68b92e39ea901c0d269fd12e?utm_campaign=Marketing&utm_source=1103)** | West Baton Rouge Parish County, LA | On Site | Oct 16 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
