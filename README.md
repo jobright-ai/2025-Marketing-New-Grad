@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Door to Door Marketing Associate](https://jobright.ai/jobs/info/6842ee59dd64fe988321534e?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
 | **[Montblanc](http://www.montblanc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68974e7773b3a600fe896974?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Oct 12 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
