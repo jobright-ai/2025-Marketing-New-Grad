@@ -98,11 +98,9 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68d1985317554c2d9eedd23b?utm_campaign=Marketing&utm_source=1103)** | Fall River, MA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
 | ↳ | **[Jr. Social Media Specialist Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d86421a?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68cf6b98dbd9fb154ede7b37?utm_campaign=Marketing&utm_source=1103)** | Peoria, IL | On Site | Oct 14 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[Market Development Representative](https://jobright.ai/jobs/info/68d73396d3fe025a3015f76e?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | On Site | Oct 13 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cfc056dbd9fb154edea9cf?utm_campaign=Marketing&utm_source=1103)** | Florida, United States | Remote | Oct 13 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b431651ade4306aa63e09b?utm_campaign=Marketing&utm_source=1103)** | Plymouth, MN | On Site | Oct 13 |
 | **[Macy's](http://www.macysjobs.com)** | **[Merchandise Analyst](https://jobright.ai/jobs/info/68c954b4f9c6ff7aedf190d4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 13 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Door to Door Marketing Associate](https://jobright.ai/jobs/info/6842ee59dd64fe988321534e?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
