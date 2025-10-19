@@ -114,9 +114,6 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ceaf5cdbd9fb154ede2274?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Entry level Field Marketing Representative](https://jobright.ai/jobs/info/6809641805ecbe5707a749f6?utm_campaign=Marketing&utm_source=1103)** | Pensacola, FL | On Site | Oct 12 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| **[Ares Management](http://www.aresmgmt.com)** | **[Associate, Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/6843844dcaf5a0005d4026e2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde570b2a74e1837edd28d?utm_campaign=Marketing&utm_source=1103)** | North Houston, TX | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
