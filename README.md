@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/6802d160872756c7c648c643?utm_campaign=Marketing&utm_source=1103)** | Pflugerville, TX | On Site | Oct 14 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Marketing Associate (Demand Generation)](https://jobright.ai/jobs/info/68ccd8fbd11b445e0bee2c08?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 14 |
-| **[FHIA Remodeling](http://fhaproducts.com)** | **[Management Trainee Opportunity - Field Marketing](https://jobright.ai/jobs/info/68b62d9cbc187f64e1be8f4a?utm_campaign=Marketing&utm_source=1103)** | Fort Lauderdale, FL | On Site | Oct 14 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Market Research Associate](https://jobright.ai/jobs/info/68cba0fe9e3a822f5d249408?utm_campaign=Marketing&utm_source=1103)** | Port Washington, NY | On Site | Oct 14 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68d1985317554c2d9eedd23b?utm_campaign=Marketing&utm_source=1103)** | Fall River, MA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
@@ -114,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68ceaf5cdbd9fb154ede2274?utm_campaign=Marketing&utm_source=1103)** | New Orleans, LA | On Site | Oct 12 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
