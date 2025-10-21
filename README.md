@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[QuotaPath](https://www.quotapath.com/)** | **[Marketing Events Coordinator](https://jobright.ai/jobs/info/68d2e4338c62e63bc7fdb3a1?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68d2f8f8f0d9af73038dd9de?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | **[Los Angeles Tourism & Convention Board](https://www.discoverlosangeles.com/)** | **[Coordinator, Sales Marketing](https://jobright.ai/jobs/info/687e9aa4db19f31cf0d6b9d5?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 15 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68d29d3af0d9af73038d9bb8?utm_campaign=Marketing&utm_source=1103)** | Frisco, TX | On Site | Oct 15 |
 | **[Scorpion](https://www.scorpion.co)** | **[Ranking Strategist](https://jobright.ai/jobs/info/68d2822c17554c2d9eee8001?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Content Marketing Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864249?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Social Media Advertising Strategist](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17dc9?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
