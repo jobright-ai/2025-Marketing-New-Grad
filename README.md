@@ -87,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[In House Marketing Concierge](https://jobright.ai/jobs/info/68d1ea5017554c2d9eee106c?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 14 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68ccfcfa5954791a1d70248c?utm_campaign=Marketing&utm_source=1103)** | Lafayette, LA | On Site | Oct 14 |
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Edina, MN](https://jobright.ai/jobs/info/68cc251d128dc347fd91ff32?utm_campaign=Marketing&utm_source=1103)** | Edina, MN | Hybrid | Oct 14 |
-| ↳ | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
