@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Fine Line Marketing, Inc.](https://www.finelinemarketinginc.com)** | **[Product Marketing Associate](https://jobright.ai/jobs/info/68d4660cffc1276de3fda79a?utm_campaign=Marketing&utm_source=1103)** | Puyallup, WA | On Site | Oct 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Brand Ambassador / Edina, MN](https://jobright.ai/jobs/info/68cc251d128dc347fd91ff32?utm_campaign=Marketing&utm_source=1103)** | Edina, MN | Hybrid | Oct 14 |
 | ↳ | **[Brand Ambassador / The Fashion Mall at Keystone](https://jobright.ai/jobs/info/68cb299a9e3a822f5d243353?utm_campaign=Marketing&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 14 |
-| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Marketing Associate (Demand Generation)](https://jobright.ai/jobs/info/68ccd8fbd11b445e0bee2c08?utm_campaign=Marketing&utm_source=1103)** | Cincinnati Metro | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
