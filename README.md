@@ -164,5 +164,4 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9b37758f2e4ac3006e52?utm_campaign=Marketing&utm_source=1103)** | Greenwood, IN | On Site | Oct 08 |
 | ↳ | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3172daf1431824c9b20b?utm_campaign=Marketing&utm_source=1103)** | Middletown, OH | On Site | Oct 08 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6875a914299cbc74b8756cb9?utm_campaign=Marketing&utm_source=1103)** | Chico, CA | On Site | Oct 08 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Digital Marketing Coordinator - Ceremony of Roses](https://jobright.ai/jobs/info/68cf21f7fb49c96ca6ea5fa6?utm_campaign=Marketing&utm_source=1103)** | Culver City, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
