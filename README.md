@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
-| **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/682380bc0b16e8a26483a0f3?utm_campaign=Marketing&utm_source=1103)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
@@ -158,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f7e2f16e3266d282153e?utm_campaign=Marketing&utm_source=1103)** | Colorado, United States | Remote | Oct 09 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5ab?utm_campaign=Marketing&utm_source=1103)** | Kettering, OH | On Site | Oct 09 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f997f61c922772a71987?utm_campaign=Marketing&utm_source=1103)** | Ohio, United States | Remote | Oct 08 |
-| ↳ | **[Campaign Manager](https://jobright.ai/jobs/info/68ccd72977add66568aba055?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Remote | Oct 08 |
-| **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68ccfebf5954791a1d70280d?utm_campaign=Marketing&utm_source=1103)** | Chicago, IL | On Site | Oct 08 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative Front Desk](https://jobright.ai/jobs/info/68ca6aa45f9f0336447dd742?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 08 |
-| **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ac9b37758f2e4ac3006e52?utm_campaign=Marketing&utm_source=1103)** | Greenwood, IN | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
