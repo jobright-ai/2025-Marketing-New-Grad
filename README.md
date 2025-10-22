@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d5f6fc1f7fb2169ab14f69?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 17 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d42d50ffc1276de3fd7ea1?utm_campaign=Marketing&utm_source=1103)** | Dothan, AL | On Site | Oct 16 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 16 |
-| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68b92e39ea901c0d269fd12e?utm_campaign=Marketing&utm_source=1103)** | West Baton Rouge Parish County, LA | On Site | Oct 16 |
-| ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
+| **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d42fc3ffc1276de3fd8067?utm_campaign=Marketing&utm_source=1103)** | The Woodlands, TX | On Site | Oct 16 |
 | **[Macy's](http://www.macysjobs.com)** | **[Associate Merchandise Planner, RTW Career](https://jobright.ai/jobs/info/68a4c1f3e9f1c744da123d6e?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Sales Strategist](https://jobright.ai/jobs/info/67eec162357dc4681d864258?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
@@ -93,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/68d1985317554c2d9eedd23b?utm_campaign=Marketing&utm_source=1103)** | Fall River, MA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Marketing Account Executive](https://jobright.ai/jobs/info/67eec162357dc4681d8642c5?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
 | ↳ | **[Jr. Social Media Specialist Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d86421a?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
-| **[Allied OMS](https://www.alliedoms.com/)** | **[Market Development Representative](https://jobright.ai/jobs/info/68d73396d3fe025a3015f76e?utm_campaign=Marketing&utm_source=1103)** | Phoenix, AZ | On Site | Oct 13 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68cfc056dbd9fb154edea9cf?utm_campaign=Marketing&utm_source=1103)** | Florida, United States | Remote | Oct 13 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b431651ade4306aa63e09b?utm_campaign=Marketing&utm_source=1103)** | Plymouth, MN | On Site | Oct 13 |
 | **[Macy's](http://www.macysjobs.com)** | **[Merchandise Analyst](https://jobright.ai/jobs/info/68c954b4f9c6ff7aedf190d4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 13 |
@@ -154,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Monks](https://www.monks.co.uk)** | **[Specialist, Media Operations - Programmatic](https://jobright.ai/jobs/info/68cd082ab2a74e1837ed0ab2?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f7e2f16e3266d282153e?utm_campaign=Marketing&utm_source=1103)** | Colorado, United States | Remote | Oct 09 |
 | **[Renewal by Andersen Metro & Midwest](http://www.jobsatrba.com)** | **[Appointment Setter - Brand Ambassador](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5ab?utm_campaign=Marketing&utm_source=1103)** | Kettering, OH | On Site | Oct 09 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f997f61c922772a71987?utm_campaign=Marketing&utm_source=1103)** | Ohio, United States | Remote | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
