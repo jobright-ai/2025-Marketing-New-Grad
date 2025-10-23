@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Corporate Markets Specialist](https://jobright.ai/jobs/info/68c79ddb7d0db4114273e966?utm_campaign=Marketing&utm_source=1103)** | Fargo, ND | On Site | Oct 10 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Greeter Marketing OPC](https://jobright.ai/jobs/info/68aeb68f7bcb7608b3d28ef8?utm_campaign=Marketing&utm_source=1103)** | South Lake Tahoe, CA | On Site | Oct 09 |
 | **[University of Missouri-Saint Louis](http://www.umsl.edu/)** | **[Event Operations Coordinator](https://jobright.ai/jobs/info/68cba701ba798c1a501d360e?utm_campaign=Marketing&utm_source=1103)** | St Louis, MO | On Site | Oct 09 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[In House Marketing Concierge](https://jobright.ai/jobs/info/68ce7e70dbd9fb154ede02db?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
