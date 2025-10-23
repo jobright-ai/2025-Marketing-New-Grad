@@ -148,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Greeter In-House](https://jobright.ai/jobs/info/689230a4f5ee707a15dc3b41?utm_campaign=Marketing&utm_source=1103)** | Waikoloa, HI | On Site | Oct 09 |
 | **[ByteDance](http://bytedance.com)** | **[Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf5beffb49c96ca6ea8006?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/6876ba05ae2f413e4a5b2ef2?utm_campaign=Marketing&utm_source=1103)** | Oceanside, CA | On Site | Oct 09 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68c9f7e2f16e3266d282153e?utm_campaign=Marketing&utm_source=1103)** | Colorado, United States | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
