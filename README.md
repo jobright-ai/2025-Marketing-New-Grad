@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Midtronics](https://www.midtronics.com/)** | **[Associate Product Marketing Manager](https://jobright.ai/jobs/info/68d34ccf17554c2d9eeefa01?utm_campaign=Marketing&utm_source=1103)** | Willowbrook, IL | Hybrid | Oct 15 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/682676b624d6a8dc428d529f?utm_campaign=Marketing&utm_source=1103)** | Texas, United States | On Site | Oct 15 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Copywriter](https://jobright.ai/jobs/info/68d322adf0d9af73038df4e4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
-| **[QuotaPath](https://www.quotapath.com/)** | **[Marketing Events Coordinator](https://jobright.ai/jobs/info/68d2e4338c62e63bc7fdb3a1?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Compass](http://www.compass.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68d2f8f8f0d9af73038dd9de?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | **[Los Angeles Tourism & Convention Board](https://www.discoverlosangeles.com/)** | **[Coordinator, Sales Marketing](https://jobright.ai/jobs/info/687e9aa4db19f31cf0d6b9d5?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 15 |
 | **[Scorpion](https://www.scorpion.co)** | **[Ranking Strategist](https://jobright.ai/jobs/info/68d2822c17554c2d9eee8001?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
@@ -120,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[ByHeart](https://byheart.com)** | **[Paid Social Media Strategist](https://jobright.ai/jobs/info/68cc5c94128dc347fd92388b?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Coach](https://uk.coach.com)** | **[Merchandising Assistant, Licensing, Soft Accessories](https://jobright.ai/jobs/info/68cd0c23b2a74e1837ed163d?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/6894049ea9199876488e1df7?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
-| **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[Marketing Operations Analyst](https://jobright.ai/jobs/info/68d01334846f0b04af6874c7?utm_campaign=Marketing&utm_source=1103)** | Wyomissing, PA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
