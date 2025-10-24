@@ -127,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68cc48af7342c7623ae62130?utm_campaign=Marketing&utm_source=1103)** | Hattiesburg, MS | On Site | Oct 10 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Marketing Representative - Off Property Contact](https://jobright.ai/jobs/info/68c798c2c96a22563ecf2c9b?utm_campaign=Marketing&utm_source=1103)** | Honolulu, HI | On Site | Oct 10 |
 | **[Sullivan & Cromwell LLP](http://www.sullcrom.com)** | **[Assistant - Communications](https://jobright.ai/jobs/info/68ccb93316d00d2beeb237ad?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 10 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Market Research & Insights Associate](https://jobright.ai/jobs/info/68b0f8ad04557a6c207b8f44?utm_campaign=Marketing&utm_source=1103)** | Boston, MA | Hybrid | Oct 10 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - South Bend, IN](https://jobright.ai/jobs/info/68afc4b1e723db6c9b7b3236?utm_campaign=Marketing&utm_source=1103)** | South Bend, IN | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
