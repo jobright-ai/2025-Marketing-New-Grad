@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Project Management Marketing Coordinator](https://jobright.ai/jobs/info/68cecbe1fb49c96ca6ea3950?utm_campaign=Marketing&utm_source=1103)** | Southfield, MI | On Site | Oct 11 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Media Delivery Associate](https://jobright.ai/jobs/info/68cd9fc7b2a74e1837ed9f75?utm_campaign=Marketing&utm_source=1103)** | Westminster, CO | On Site | Oct 11 |
 | **[Statewide Remodeling](http://www.statewideremodeling.com)** | **[Brand Ambassador (Full-Time or Part-Time)](https://jobright.ai/jobs/info/68cde51a1ad6b16f0289fc25?utm_campaign=Marketing&utm_source=1103)** | Cypress, TX | On Site | Oct 11 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Merchandising Specialist](https://jobright.ai/jobs/info/683530336a0a7413915273e6?utm_campaign=Marketing&utm_source=1103)** | Santa Ana, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
