@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Digital Marketing Coordinator](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc22?utm_campaign=Marketing&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 11 |
 | **[ICUC](https://icuc.social/)** | **[Social Media Content Specialist - Native English AND Finnish OR Norwegian OR Swedish](https://jobright.ai/jobs/info/6854303589ed618b448abd32?utm_campaign=Marketing&utm_source=1103)** | Minnesota, United States | On Site | Oct 11 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Assistant Brand Manager (Aerogarden)](https://jobright.ai/jobs/info/68d6015863d77d6f6f3f3b40?utm_campaign=Marketing&utm_source=1103)** | Marysville, OH | Hybrid | Oct 11 |
-| **[Fitch Ratings](http://www.fitchratings.com)** | **[Market Research Associate](https://jobright.ai/jobs/info/68cc09b516d00d2beeb189b1?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
