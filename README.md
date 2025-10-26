@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
