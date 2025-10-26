@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Merchandise Admin - eCommerce](https://jobright.ai/jobs/info/68d74829cb1d8e52c9766a9b?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Oct 19 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d5f6fc1f7fb2169ab14f69?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 17 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 16 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
@@ -99,7 +100,4 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b2fd1abc187f64e1bdf8c5?utm_campaign=Marketing&utm_source=1103)** | Medina, MN | On Site | Oct 12 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| **[Ares Management](http://www.aresmgmt.com)** | **[Associate, Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/6843844dcaf5a0005d4026e2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
