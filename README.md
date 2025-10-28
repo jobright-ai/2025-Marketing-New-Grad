@@ -197,7 +197,7 @@ For a complete list, click the following sortable link below:
 | **[Esler Companies | Renewal by Andersen](https://esler.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68db0f346df7b8311bb15c15?utm_campaign=Marketing&utm_source=1103)** | Show Low, AZ | On Site | Sep 29 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Marketing Campaign Associate I - Atlantic City, NJ](https://jobright.ai/jobs/info/68db0e880dffed6f83d2c3a2?utm_campaign=Marketing&utm_source=1103)** | Atlantic City, NJ, United States | On Site | Sep 29 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Encore - Bilingual English/Japanese - Waikiki based](https://jobright.ai/jobs/info/68db0bd60dffed6f83d2c27d?utm_campaign=Marketing&utm_source=1103)** | Marriott Vacation Club, Waikiki | On Site | Sep 29 |
-| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0a496df7b8311bb1592c?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0bbb0dffed6f83d2c1f4?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
 | **[Erie Home](http://erieconstruction.com)** | **[Field Marketing Manager](https://jobright.ai/jobs/info/68db02cf0dffed6f83d2bdaf?utm_campaign=Marketing&utm_source=1103)** | Garden City, ID | On Site | Sep 29 |
 | **[Esler Companies | Renewal by Andersen](https://esler.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68db02b3e9b48513789b11bc?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 29 |
 | **[Macy's](http://www.macysjobs.com)** | **[Retail Brand Ambassador - Intimates, Warwick Mall - Full Time](https://jobright.ai/jobs/info/68daf41c0dffed6f83d2b2ba?utm_campaign=Marketing&utm_source=1103)** | 400 Bald Hill Road - Suite 400, Warwick, RI, 02886, US | On Site | Sep 29 |
@@ -236,11 +236,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf89a8e451a446a54c7?utm_campaign=Marketing&utm_source=1103)** | Spartanburg, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9daf0061b716fa295af46?utm_campaign=Marketing&utm_source=1103)** | Columbia, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9c89b9a8e451a446a5391?utm_campaign=Marketing&utm_source=1103)** | Charleston, SC | On Site | Sep 28 |
-| ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9c89a022fc803b4877b02?utm_campaign=Marketing&utm_source=1103)** | Hollywood, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9c89a9a8e451a446a538f?utm_campaign=Marketing&utm_source=1103)** | Wando, SC | On Site | Sep 28 |
 | ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9c89a022fc803b4877b00?utm_campaign=Marketing&utm_source=1103)** | Summerville, SC | On Site | Sep 28 |
-| **[TopView Group](https://www.topviewnyc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68d971a5022fc803b487727d?utm_campaign=Marketing&utm_source=1103)** | Houston, TX | Hybrid | Sep 28 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/68d9711b9a8e451a446a4ae8?utm_campaign=Marketing&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 28 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/68d971139a8e451a446a4ade?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | Hybrid | Sep 28 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/68d96ec8061b716fa295a554?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Sep 28 |
+| ↳ | **[Entry Level Marketing Representative](https://jobright.ai/jobs/info/68d9c89a022fc803b4877b02?utm_campaign=Marketing&utm_source=1103)** | Hollywood, SC | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
