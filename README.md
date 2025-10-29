@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Paid Search & Paid Social (MGM)](https://jobright.ai/jobs/info/68cf246e846f0b04af67f842?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 24 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Merchandise Admin - eCommerce](https://jobright.ai/jobs/info/68d74829cb1d8e52c9766a9b?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Oct 19 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Communications Coordinator](https://jobright.ai/jobs/info/68d5f6fc1f7fb2169ab14f69?utm_campaign=Marketing&utm_source=1103)** | Denver, CO | Hybrid | Oct 17 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Campaign Manager](https://jobright.ai/jobs/info/68ce0fccb2a74e1837edeec3?utm_campaign=Marketing&utm_source=1103)** | Massachusetts, United States | Remote | Oct 16 |
@@ -171,7 +172,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Associate – Low Carbon Transition & Infrastructure - Marketing Associate](https://jobright.ai/jobs/info/68cd8efdb2a74e1837ed8d52?utm_campaign=Marketing&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[New Grad Product Marketing Engineer](https://jobright.ai/jobs/info/68ce2d02e23def7af55c2dfa?utm_campaign=Marketing&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
-| **[Canvas Worldwide](https://www.canvasworldwide.com/)** | **[Specialist, Paid Search & Paid Social (MGM)](https://jobright.ai/jobs/info/68cf246e846f0b04af67f842?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 03 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Private Markets Fundraising/Marketing Analyst](https://jobright.ai/jobs/info/68b701f01ade4306aa646ffe?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Media Planning](https://jobright.ai/jobs/info/68d739acd3fe025a3015fb3c?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Oct 01 |
 | **[Summit Automotive Partners](https://summit-ap.com/)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/68db6c029f13662d20e4b237?utm_campaign=Marketing&utm_source=1103)** | Greenwood Village, CO | Hybrid | Sep 29 |
@@ -185,11 +185,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Assistant, Legal](https://jobright.ai/jobs/info/68db2490e9b48513789b20ce?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Sep 29 |
 | **[Esler Companies | Renewal by Andersen](https://esler.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68db0f346df7b8311bb15c15?utm_campaign=Marketing&utm_source=1103)** | Show Low, AZ | On Site | Sep 29 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Marketing Campaign Associate I - Atlantic City, NJ](https://jobright.ai/jobs/info/68db0e880dffed6f83d2c3a2?utm_campaign=Marketing&utm_source=1103)** | Atlantic City, NJ, United States | On Site | Sep 29 |
-| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0bbb0dffed6f83d2c1f4?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Cafê Ambassador- King of Prussia](https://jobright.ai/jobs/info/68db0a496df7b8311bb1592c?utm_campaign=Marketing&utm_source=1103)** | King of Prussia, PA | On Site | Sep 29 |
 | **[Esler Companies | Renewal by Andersen](https://esler.com)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68db02b3e9b48513789b11bc?utm_campaign=Marketing&utm_source=1103)** | Austin, TX | On Site | Sep 29 |
 | **[Macy's](http://www.macysjobs.com)** | **[Retail Brand Ambassador - Intimates, Warwick Mall - Full Time](https://jobright.ai/jobs/info/68daf41c0dffed6f83d2b2ba?utm_campaign=Marketing&utm_source=1103)** | 400 Bald Hill Road - Suite 400, Warwick, RI, 02886, US | On Site | Sep 29 |
 | **[Wpromote](http://www.wpromote.com)** | **[Paid Search Manager](https://jobright.ai/jobs/info/68daf2570dffed6f83d2b1ea?utm_campaign=Marketing&utm_source=1103)** | Remote, United States | Hybrid | Sep 29 |
-| **[Unitek Learning](https://www.uniteklearning.com/)** | **[Social Media Specialist - Hybrid](https://jobright.ai/jobs/info/68d2fc798c62e63bc7fdc674?utm_campaign=Marketing&utm_source=1103)** | Tempe, AZ | Hybrid | Sep 29 |
 | **[Forum Financial Management, LP](https://www.forumfin.com/)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68daf0106df7b8311bb145cb?utm_campaign=Marketing&utm_source=1103)** | Lombard, IL | Hybrid | Sep 29 |
 | **[Penn State University](http://psu.edu)** | **[Palmer Museum of Art Marketing and Communications Specialist (Assistant)](https://jobright.ai/jobs/info/68daef6307c157682e56f87e?utm_campaign=Marketing&utm_source=1103)** | Penn State University Park | On Site | Sep 29 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Coordinator](https://jobright.ai/jobs/info/68dae23007c157682e56edec?utm_campaign=Marketing&utm_source=1103)** | Greenville, OH | On Site | Sep 29 |
