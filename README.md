@@ -208,5 +208,4 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Marketing Representative (Seattle, WA or Spokane, WA)](https://jobright.ai/jobs/info/68da98860b832179ca4aea70?utm_campaign=Marketing&utm_source=1103)** | Seattle, WA | On Site | Sep 29 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Student Brand Ambassador - Universidad De Puerto Rico - Rio Piedras](https://jobright.ai/jobs/info/68da987f07c157682e56b441?utm_campaign=Marketing&utm_source=1103)** | San Juan, PR, USA | On Site | Sep 29 |
 | **[Helen Ross McNabb Center](https://mcnabbcenter.org)** | **[Outreach & Marketing Specialist 1](https://jobright.ai/jobs/info/68daa5046df7b8311bb10935?utm_campaign=Marketing&utm_source=1103)** | Chattanooga, TN | On Site | Sep 29 |
-| **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Technical Marketing Engineer](https://jobright.ai/jobs/info/68cf94c6846f0b04af683201?utm_campaign=Marketing&utm_source=1103)** | Itasca, IL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
