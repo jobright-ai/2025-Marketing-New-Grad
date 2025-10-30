@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Leadership Development Program Associate](https://jobright.ai/jobs/info/68b431651ade4306aa63e09b?utm_campaign=Marketing&utm_source=1103)** | Plymouth, MN | On Site | Oct 13 |
 | **[Macy's](http://www.macysjobs.com)** | **[Merchandise Analyst](https://jobright.ai/jobs/info/68c954b4f9c6ff7aedf190d4?utm_campaign=Marketing&utm_source=1103)** | NYC Metro Area | On Site | Oct 13 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Digital Media Publishing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86427f?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 13 |
-| **[Montblanc](http://www.montblanc.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68974e7773b3a600fe896974?utm_campaign=Marketing&utm_source=1103)** | Dallas, TX | Hybrid | Oct 12 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
