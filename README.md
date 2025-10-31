@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Ambassador / 57th Street Flagship](https://jobright.ai/jobs/info/68a88f4f6acf96396f720cac?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[Active International](http://activeinternational.com)** | **[NOW HIRING: Media Assistants in Digital, Local Media, National, Unwired and Direct Response!](https://jobright.ai/jobs/info/6839e76b268fd00a123455b3?utm_campaign=Marketing&utm_source=1103)** | Pearl River, NY | On Site | Oct 07 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Media Planning](https://jobright.ai/jobs/info/68d739acd3fe025a3015fb3c?utm_campaign=Marketing&utm_source=1103)** | Santa Monica, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
