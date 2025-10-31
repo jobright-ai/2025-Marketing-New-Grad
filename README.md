@@ -109,6 +109,5 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / Palm Beach Gardens, FL](https://jobright.ai/jobs/info/68ca1c96f16e3266d2822ba7?utm_campaign=Marketing&utm_source=1103)** | Palm Beach Gardens, FL | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / 57th Street Flagship](https://jobright.ai/jobs/info/68a88f4f6acf96396f720cac?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
-| **[Active International](http://activeinternational.com)** | **[NOW HIRING: Media Assistants in Digital, Local Media, National, Unwired and Direct Response!](https://jobright.ai/jobs/info/6839e76b268fd00a123455b3?utm_campaign=Marketing&utm_source=1103)** | Pearl River, NY | On Site | Oct 07 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Video Media Planner](https://jobright.ai/jobs/info/68b28a83f4e41a61efd86345?utm_campaign=Marketing&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
