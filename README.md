@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Nov 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Marketing Coordinator - Client Experience](https://jobright.ai/jobs/info/68c9926ea0c52d598ea388d7?utm_campaign=Marketing&utm_source=1103)** | Wakefield, MA | On Site | Nov 01 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Merchandise Admin - eCommerce](https://jobright.ai/jobs/info/68d74829cb1d8e52c9766a9b?utm_campaign=Marketing&utm_source=1103)** | Jacksonville, FL | On Site | Oct 19 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/68d43008ffc1276de3fd808d?utm_campaign=Marketing&utm_source=1103)** | Tallahassee, FL | On Site | Oct 16 |
@@ -91,12 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[*Marketing Representative In House Pre Arrival](https://jobright.ai/jobs/info/68b18229bc187f64e1bd527f?utm_campaign=Marketing&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67eb6dcc2f26fc070f0390b2?utm_campaign=Marketing&utm_source=1103)** | Pasadena, TX | On Site | Oct 12 |
 | ↳ | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13cda?utm_campaign=Marketing&utm_source=1103)** | Humble, TX | On Site | Oct 12 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Market Research Analyst](https://jobright.ai/jobs/info/68405798d5d52640c6f23d0d?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| ↳ | **[Jr. Internet Marketing Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d864257?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
-| **[Ares Management](http://www.aresmgmt.com)** | **[Associate, Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/6843844dcaf5a0005d4026e2?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Media Delivery Associate](https://jobright.ai/jobs/info/68cd9fc7b2a74e1837ed9f75?utm_campaign=Marketing&utm_source=1103)** | Westminster, CO | On Site | Oct 11 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Digital Marketing Coordinator](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebc22?utm_campaign=Marketing&utm_source=1103)** | Rosemead, CA | Hybrid | Oct 11 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Manager, Audience Development & Digital Ads - Epic](https://jobright.ai/jobs/info/68b18fc8bc187f64e1bd560f?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Associate Strategist, Influencer & Creator](https://jobright.ai/jobs/info/68cb933e9e3a822f5d248793?utm_campaign=Marketing&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Brand Ambassador / White Plains, NY](https://jobright.ai/jobs/info/68c429bee396b25cb5c65d25?utm_campaign=Marketing&utm_source=1103)** | White Plains, NY | Hybrid | Oct 07 |
 | ↳ | **[Brand Ambassador / Palm Beach Gardens, FL](https://jobright.ai/jobs/info/68ca1c96f16e3266d2822ba7?utm_campaign=Marketing&utm_source=1103)** | Palm Beach Gardens, FL | Hybrid | Oct 07 |
