@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[MaxHome, LLC](https://www.maxhomenow.com/)** | **[Retail Brand Ambassador](https://jobright.ai/jobs/info/682676b624d6a8dc428d529f?utm_campaign=Marketing&utm_source=1103)** | Texas, United States | On Site | Oct 15 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Copywriter](https://jobright.ai/jobs/info/68d322adf0d9af73038df4e4?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Los Angeles Tourism & Convention Board](https://www.discoverlosangeles.com/)** | **[Coordinator, Sales Marketing](https://jobright.ai/jobs/info/687e9aa4db19f31cf0d6b9d5?utm_campaign=Marketing&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 15 |
-| **[Scorpion](https://www.scorpion.co)** | **[Ranking Strategist](https://jobright.ai/jobs/info/68d2822c17554c2d9eee8001?utm_campaign=Marketing&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Content Marketing Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864249?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Social Media Advertising Strategist](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17dc9?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | ↳ | **[Jr. Digital Public Relations Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d86422b?utm_campaign=Marketing&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
